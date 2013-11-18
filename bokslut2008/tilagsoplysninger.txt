@@ -1,0 +1,53 @@
+							
+TILLÄGGSUPPLYSNINGAR							
+ALLMÄNNA UPPLYSNINGAR							
+							
+Redovisningsprinciper							
+Årsredovisningen har upprättats i enlighet med Årsredovisningslagen och							
+Bokföringsnämndens allmänna råd, dock har BFNAR 2008:1 (K2) ej tillämpats.							
+							
+Värderingsprinciper m.m.							
+Tillgångar, avsättningar och skulder har värderats till anskaffningsvärden om inget annat							
+anges nedan.							
+							
+Fordringar							
+Fordringar har upptagits till belopp varmed de beräknas inflyta.							
+							
+Avskrivningsprinciper för materiella anläggningstillgångar							
+Avskrivningar enligt plan baseras på ursprungliga anskaffningsvärden minskat med 							
+beräknat restvärde avseende väsentliga belopp. Avskrivning sker över tillgångarnas							
+beräknade nyttjandeperiod.							
+							
+Avskrivning har skett med följande procentsatser:							
+							
+Inventarier, verktyg och installationer					20%		
+							
+Arvoden							
+Arvoden till revisor avseende revisionsuppdrag har beräknats uppgå till 8 kkr. 							
+							
+Personal							
+Bolaget saknar anställda och inga löner eller ersättningar har utbetalats. 							
+							
+							
+UPPLYSNINGAR TILL ENSKILDA POSTER							
+							
+Not 1	Inventarier				04/30/2009		
+	Ingående anskaffningsvärde				0		
+	Inköp				16,119		
+	Försäljningar/utrangeringar				0		
+	Utgående ackumulerat anskaffningsvärde				16,119		
+							
+	Ingående avskrivningar				0		
+	Försäljningar/utrangeringar				0		
+	Årets avskrivningar				-3,224		
+	Utgående ackumulerade avskrivningar				-3,224		
+							
+	Redovisat värde				12,895		
+							
+							
+							
+			Aktie-	Reserv-	Balanserat		Årets
+Not 2	Eget kapital		kapital	fond	resultat		resultat
+	Bolagsbildning		100,000	0	0		0
+	Årets resultat						72,819
+			100,000	0	0		72,819

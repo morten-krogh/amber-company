@@ -1,0 +1,14 @@
+Inventarieregister för amber Biosciences AB						
+						
+Updateret : 2010-06-30						
+						
+						
+Konto	Beskrivning	Inköpsdatum	Ansk. värde	Avskrivnings %	Avskrivning	Bokfört värde
+1250	Dell Lattitude	2009-05-02	7785,00	60	4671,00	3114,00
+1250	Dell PowerEdge R300	2009-01-04	8334,00	60	5000,40	3333,60
+1250	MacBook Pro	2009-09-15	14396,00	40	5758,40	8637,60
+1250	Dell U2410	2010-04-14	4985,00	100	4985,00	0,00
+1250	MacBook Pro	2010-03-31	16620,00	40	6648,00	9972,00
+1250	IMAC	2010-05-10	18220,00	20	3644,00	14576,00
+1250	Acer laptop	2010-12-10	4028,00	20	805,60	3222,40
+1250	Airport extreme, Samsung printer	2011-01-03	3668,00	20	733,60	2934,40

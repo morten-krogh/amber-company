@@ -1,0 +1,1262 @@
+#FLAGGA 0
+#FORMAT PC8
+#SIETYP 4
+#PROGRAM "Fortnox Bokfîring" 1.0.56
+#GEN 20100615 1
+
+#FNR 17932
+#FNAMN "Amber BioSciences AB"
+#ORGNR 556755-7763
+#ADRESS "" "SkrivarevÑgen 9" "226 57 LUND" "+46 (0) 730 22 62 50"
+#RAR 0 20090501 20100430
+#OMFATTN 20100430
+#KPTYP EUBAS97
+
+#KONTO 1229 "Ackumulerade avskrivningar pÜ inventarier och verktyg"
+#SRU 1229 236
+#KONTO 1250 "Datorer"
+#SRU 1250 236
+#KONTO 1511 "Kundfordringar"
+#SRU 1511 204
+#KONTO 1630 "AvrÑkning fîr skatter och avgifter (skattekonto)"
+#SRU 1630 220
+#KONTO 1650 "Momsfordran"
+#SRU 1650 207
+#KONTO 1940 "Bank (îvriga konton)"
+#SRU 1940 200
+#KONTO 2081 "Aktiekapital"
+#SRU 2081 350
+#KONTO 2091 "Balanserad vinst eller fîrlust"
+#SRU 2091 354
+#KONTO 2099 "èrets resultat"
+#SRU 2099 354
+#KONTO 2441 "Leverantîrsskulder"
+#SRU 2441 300
+#KONTO 2611 "UtgÜende moms pÜ fîrsÑljning inom Sverige, oreducerad"
+#SRU 2611 307
+#KONTO 2641 "Debiterad ingÜende moms"
+#SRU 2641 307
+#KONTO 2650 "Redovisningskonto fîr moms"
+#SRU 2650 307
+#KONTO 2710 "Personalskatt"
+#SRU 2710 301
+#KONTO 2730 "Lagstadgade sociala avgifter, sÑrskild lîneskatt och sÑrskild sjukfîrsÑkringsavgift"
+#SRU 2730 301
+#KONTO 3011 "FîrsÑljning tillverkade produkter B inom Sverige, ored moms"
+#SRU 3011 400
+#KONTO 3740 "ôres- och kronutjÑmning"
+#SRU 3740 400
+#KONTO 5010 "Lokalhyra"
+#SRU 5010 528
+#KONTO 6071 "Representation, avdragsgill"
+#SRU 6071 530
+#KONTO 6110 "Kontorsmateriel"
+#SRU 6110 530
+#KONTO 6212 "Mobiltelefon"
+#SRU 6212 530
+#KONTO 6420 "ErsÑttningar till revisor"
+#SRU 6420 530
+#KONTO 6540 "IT-tjÑnster"
+#SRU 6540 530
+#KONTO 6570 "Bankkostnader"
+#SRU 6570 530
+#KONTO 6970 "Tidningar, tidskrifter och facklitteratur"
+#SRU 6970 530
+#KONTO 6991 "ôvriga externa kostnader, avdragsgilla"
+#SRU 6991 530
+#KONTO 7220 "Lîner till fîretagsledare"
+#SRU 7220 512
+#KONTO 7510 "Lagstadgade sociala avgifter"
+#SRU 7510 520
+#KONTO 7621 "Sjuk- och hÑlsovÜrd, avdragsgill"
+#SRU 7621 527
+#KONTO 8314 "Skattefria rÑnteintÑkter"
+#SRU 8314 568
+
+#IB 0 1229 -3223.8
+#UB 0 1229 -3223.8
+#IB 0 1511 25000
+#PSALDO 0 200905 1511 {} 82813
+#PSALDO 0 200906 1511 {} -51563
+#PSALDO 0 200907 1511 {} -56250
+#PSALDO 0 200908 1511 {} 15000
+#PSALDO 0 200909 1511 {} -15000
+#PSALDO 0 200910 1511 {} 12500
+#PSALDO 0 200911 1511 {} 23438
+#PSALDO 0 200912 1511 {} 45000
+#PSALDO 0 201001 1511 {} -80938
+#PSALDO 0 201002 1511 {} 14250
+#PSALDO 0 201003 1511 {} 15750
+#UB 0 1511 30000
+#IB 0 1940 135960.88
+#PSALDO 0 200905 1940 {} -18041
+#PSALDO 0 200906 1940 {} 77136
+#PSALDO 0 200907 1940 {} 27201
+#PSALDO 0 200908 1940 {} -8804.86
+#PSALDO 0 200909 1940 {} -15356
+#PSALDO 0 200910 1940 {} -20141
+#PSALDO 0 200911 1940 {} 3805
+#PSALDO 0 200912 1940 {} -591
+#PSALDO 0 201001 1940 {} 80938
+#PSALDO 0 201002 1940 {} -18810.9
+#PSALDO 0 201003 1940 {} 13121
+#PSALDO 0 201004 1940 {} -163449
+#UB 0 1940 92968.12
+#IB 0 1630 -353.6
+#PSALDO 0 200905 1630 {} 13004
+#PSALDO 0 200907 1630 {} 1996
+#PSALDO 0 201002 1630 {} 13201
+#PSALDO 0 201004 1630 {} -8058
+#UB 0 1630 19789.4
+#IB 0 1650 0
+#PSALDO 0 200909 1650 {} 3387
+#PSALDO 0 201004 1650 {} -3387
+#UB 0 1650 0
+#IB 0 2441 0
+#PSALDO 0 200905 2441 {} -12376
+#PSALDO 0 200906 2441 {} -559
+#PSALDO 0 200907 2441 {} 4872
+#PSALDO 0 200908 2441 {} 8063
+#PSALDO 0 200909 2441 {} -516
+#PSALDO 0 200910 2441 {} 516
+#PSALDO 0 200911 2441 {} -3043
+#PSALDO 0 200912 2441 {} 2762
+#PSALDO 0 201002 2441 {} 184
+#PSALDO 0 201003 2441 {} -21710
+#PSALDO 0 201004 2441 {} 21807
+#UB 0 2441 0
+#IB 0 2650 1996
+#PSALDO 0 200907 2650 {} -1996
+#PSALDO 0 200912 2650 {} -13201
+#PSALDO 0 201003 2650 {} -6022
+#PSALDO 0 201004 2650 {} 19223
+#UB 0 2650 0
+#IB 0 1250 16119
+#PSALDO 0 200909 1250 {} 14396
+#PSALDO 0 201003 1250 {} 16620
+#PSALDO 0 201004 1250 {} 4984.75
+#UB 0 1250 52119.75
+#IB 0 2081 -100000
+#UB 0 2081 -100000
+#IB 0 2091 0
+#PSALDO 0 200905 2091 {} -72819.25
+#UB 0 2091 -72819.25
+#IB 0 2099 -72819.25
+#PSALDO 0 200905 2099 {} 72819.25
+#UB 0 2099 0
+#IB 0 2641 2320.77
+#PSALDO 0 200905 2641 {} 3483.87
+#PSALDO 0 200906 2641 {} 1200.27
+#PSALDO 0 200907 2641 {} -5260.02
+#PSALDO 0 200908 2641 {} 66.93
+#PSALDO 0 200909 2641 {} -211.9
+#PSALDO 0 200910 2641 {} 3925.42
+#PSALDO 0 200911 2641 {} 2315.02
+#PSALDO 0 200912 2641 {} -6240.44
+#PSALDO 0 201002 2641 {} 975.29
+#PSALDO 0 201003 2641 {} 1713.29
+#PSALDO 0 201004 2641 {} 13279.32
+#UB 0 2641 17567.82
+#IB 0 2710 0
+#UB 0 2710 0
+#IB 0 2730 0
+#UB 0 2730 0
+#PSALDO 0 200905 3011 {} -66250
+#PSALDO 0 200906 3011 {} -25000
+#PSALDO 0 200908 3011 {} -12000
+#PSALDO 0 200910 3011 {} -10000
+#PSALDO 0 200911 3011 {} -28750
+#PSALDO 0 200912 3011 {} -40000
+#PSALDO 0 201002 3011 {} -11400
+#PSALDO 0 201003 3011 {} -24000
+#RES 0 3011 -217400
+#PSALDO 0 200905 3740 {} -0.5
+#PSALDO 0 200907 3740 {} 0.49
+#PSALDO 0 200909 3740 {} 0.38
+#PSALDO 0 200911 3740 {} -0.5
+#PSALDO 0 200912 3740 {} 0.42
+#PSALDO 0 201003 3740 {} -0.05
+#RES 0 3740 0.24
+#PSALDO 0 200905 5010 {} 13350
+#PSALDO 0 200906 5010 {} 3450
+#PSALDO 0 200909 5010 {} 6450
+#PSALDO 0 200910 5010 {} 6450
+#PSALDO 0 200911 5010 {} 6450
+#RES 0 5010 36150
+#PSALDO 0 200905 6071 {} 469.6
+#PSALDO 0 200906 6071 {} 43
+#PSALDO 0 201003 6071 {} 510.4
+#RES 0 6071 1023
+#PSALDO 0 200910 6110 {} 1129.58
+#PSALDO 0 201002 6110 {} 1400.72
+#RES 0 6110 2530.3
+#PSALDO 0 200905 6212 {} 109.53
+#PSALDO 0 200906 6212 {} 276.83
+#PSALDO 0 200907 6212 {} 250.46
+#PSALDO 0 200908 6212 {} 318.07
+#PSALDO 0 200909 6212 {} 293.7
+#PSALDO 0 200911 6212 {} 644.56
+#PSALDO 0 200912 6212 {} 448.52
+#PSALDO 0 201002 6212 {} 242.22
+#PSALDO 0 201003 6212 {} 240.62
+#PSALDO 0 201004 6212 {} 455.75
+#RES 0 6212 3280.26
+#PSALDO 0 200910 6420 {} 8120
+#RES 0 6420 8120
+#PSALDO 0 200906 6540 {} 981
+#PSALDO 0 200909 6540 {} 3556.82
+#PSALDO 0 200911 6540 {} 2110.5
+#PSALDO 0 200912 6540 {} 534
+#PSALDO 0 201002 6540 {} 2110.5
+#PSALDO 0 201003 6540 {} 747.5
+#PSALDO 0 201004 6540 {} 47310
+#RES 0 6540 57350.32
+#PSALDO 0 200912 6570 {} 1600
+#RES 0 6570 1600
+#PSALDO 0 200906 6970 {} 284.9
+#PSALDO 0 200907 6970 {} 1373.57
+#PSALDO 0 200908 6970 {} 356.86
+#PSALDO 0 200911 6970 {} 217.92
+#PSALDO 0 201002 6970 {} 697.17
+#PSALDO 0 201003 6970 {} 179.24
+#PSALDO 0 201004 6970 {} 165.09
+#RES 0 6970 3274.75
+#PSALDO 0 201004 6991 {} 700
+#RES 0 6991 700
+#PSALDO 0 201004 7220 {} 50000
+#RES 0 7220 50000
+#PSALDO 0 201004 7510 {} 15710
+#RES 0 7510 15710
+#PSALDO 0 201004 7621 {} 1415.09
+#RES 0 7621 1415.09
+#PSALDO 0 201004 8314 {} -156
+#RES 0 8314 -156
+#IB 0 2611 -5000
+#PSALDO 0 200905 2611 {} -16562.5
+#PSALDO 0 200906 2611 {} -6250
+#PSALDO 0 200907 2611 {} 27812.5
+#PSALDO 0 200908 2611 {} -3000
+#PSALDO 0 200909 2611 {} 3000
+#PSALDO 0 200910 2611 {} -2500
+#PSALDO 0 200911 2611 {} -7187.5
+#PSALDO 0 200912 2611 {} 9687.5
+#PSALDO 0 201002 2611 {} -2850
+#PSALDO 0 201003 2611 {} 2850
+#UB 0 2611 0
+
+
+#VER "A" "1" 20090526 "Balanserad vinst eller fîrlust"
+{
+#TRANS 2091 {} -72819.25 
+#TRANS 2099 {} 72819.25 
+}
+
+#VER "A" "2" 20090526 "Skatteinbetalning"
+{
+#TRANS 1630 {} 15000.00 
+#TRANS 1940 {} -15000.00 
+}
+
+#VER "A" "3" 20090526 "Skatteutbetalning"
+{
+#TRANS 1940 {} 1996.00 
+#TRANS 1630 {} -1996.00 
+}
+
+#VER "A" "4" 20090701 "Momsrapport 2009-04-01 - 2009-07-01"
+{
+#TRANS 2611 {} 27812.50 
+#TRANS 3740 {} 0.49 
+#TRANS 2641 {} -5404.99 
+#TRANS 2650 {} -22408.00 
+}
+
+#VER "A" "5" 20090701 "moms"
+{
+#TRANS 1630 {} 1996.00 
+#TRANS 2650 {} -1996.00 
+}
+
+#VER "A" "6" 20090701 "moms"
+{
+#TRANS 1940 {} -22408.00 
+#TRANS 1630 {} 22408.00 
+}
+
+#VER "A" "7" 20090701 "moms"
+{
+#TRANS 1630 {} -22408.00 
+#TRANS 2650 {} 22408.00 
+}
+
+#VER "A" "8" 20090930 "Momsrapport 2009-07-01 - 2009-09-30"
+{
+#TRANS 2641 {} -6387.38 
+#TRANS 1650 {} 3387.00 
+#TRANS 3740 {} 0.38 
+#TRANS 2611 {} 3000.00 
+}
+
+#VER "A" "9" 20091228 "Bankavgift"
+{
+#TRANS 6570 {} 1600.00 
+#TRANS 1940 {} -1600.00 
+}
+
+#VER "A" "10" 20091231 "Momsrapport 2009-10-01 - 2009-12-31"
+{
+#TRANS 3740 {} 0.42 
+#TRANS 2611 {} 19687.50 
+#TRANS 2641 {} -6486.92 
+#TRANS 2650 {} -13201.00 
+}
+
+#VER "A" "11" 20100209 "Inbetalning till skattekonto"
+{
+#TRANS 1630 {} 13201.00 
+#TRANS 1940 {} -13201.00 
+}
+
+#VER "A" "12" 20100331 "Momsrapport 2010-01-01 - 2010-03-31"
+{
+#TRANS 2641 {} -2827.95 
+#TRANS 3740 {} -0.05 
+#TRANS 2650 {} -6022.00 
+#TRANS 2611 {} 8850.00 
+}
+
+#VER "A" "13" 20100417 "Inbetalning till skattekonto"
+{
+#TRANS 1630 {} 7622.00 
+#TRANS 1940 {} -7622.00 
+}
+
+#VER "A" "14" 20100417 "Lîn"
+{
+#TRANS 2710 {} -15000.00 
+#TRANS 7220 {} 50000.00 
+#TRANS 2730 {} -15710.00 
+#TRANS 7510 {} 15710.00 
+#TRANS 1940 {} -35000.00 
+}
+
+#VER "A" "15" 20100417 "betalning af skatter och avgifter"
+{
+#TRANS 1630 {} -30710.00 
+#TRANS 2730 {} 15710.00 
+#TRANS 2710 {} 15000.00 
+}
+
+#VER "A" "16" 20100417 "Inbetalning till skattekonto"
+{
+#TRANS 1630 {} 30710.00 
+#TRANS 1940 {} -30710.00 
+}
+
+#VER "A" "17" 20100417 "moms betalning"
+{
+#TRANS 1630 {} -13201.00 
+#TRANS 2650 {} 13201.00 
+}
+
+#VER "A" "18" 20100417 "moms betalning"
+{
+#TRANS 1630 {} -6022.00 
+#TRANS 2650 {} 6022.00 
+}
+
+#VER "A" "19" 20100417 "moms konto skift"
+{
+#TRANS 1630 {} 3387.00 
+#TRANS 1650 {} -3387.00 
+}
+
+#VER "A" "20" 20100417 "rÑnta skattekonto, skattefri"
+{
+#TRANS 8314 {} -156.00 
+#TRANS 1630 {} 156.00 
+}
+
+#VER "A" "21" 20100430 "Bolagsverket"
+{
+#TRANS 1940 {} -700.00 
+#TRANS 6991 {} 700.00 
+}
+
+#VER "B" "1" 20090511 "Kundfakt Alligator Bioscience AB (14)"
+{
+#TRANS 2611 {} -3750.00 
+#TRANS 1511 {} 18750.00 
+#TRANS 3011 {} -15000.00 
+}
+
+#VER "B" "2" 20090512 "Kundfakt David Ley (16)"
+{
+#TRANS 3011 {} -15000.00 
+#TRANS 2611 {} -3750.00 
+#TRANS 1511 {} 18750.00 
+}
+
+#VER "B" "3" 20090512 "Kundfakt Tadeusz Wieloch (17)"
+{
+#TRANS 1511 {} 18750.00 
+#TRANS 3011 {} -15000.00 
+#TRANS 2611 {} -3750.00 
+}
+
+#VER "B" "4" 20090520 "Kundfakt Lars-Olaf Cardell/Ann Reutherborg (18)"
+{
+#TRANS 1511 {} 16563.00 
+#TRANS 3011 {} -13250.00 
+#TRANS 2611 {} -3312.50 
+#TRANS 3740 {} -0.50 
+}
+
+#VER "B" "5" 20090528 "Kundfakt Ingegerd Persson (21)"
+{
+#TRANS 3011 {} -3000.00 
+#TRANS 1511 {} 3750.00 
+#TRANS 2611 {} -750.00 
+}
+
+#VER "B" "6" 20090528 "Kundfakt Ulrika Dreimanis (22)"
+{
+#TRANS 3011 {} -5000.00 
+#TRANS 2611 {} -1250.00 
+#TRANS 1511 {} 6250.00 
+}
+
+#VER "B" "7" 20090607 "Kundfakt Stefan Jovinge (23)"
+{
+#TRANS 3011 {} -15000.00 
+#TRANS 2611 {} -3750.00 
+#TRANS 1511 {} 18750.00 
+}
+
+#VER "B" "8" 20090623 "Kundfakt Lena Axelsson (25)"
+{
+#TRANS 3011 {} -10000.00 
+#TRANS 2611 {} -2500.00 
+#TRANS 1511 {} 12500.00 
+}
+
+#VER "B" "9" 20090819 "Kundfakt Bjîrn èkesson (26)"
+{
+#TRANS 2611 {} -3000.00 
+#TRANS 1511 {} 15000.00 
+#TRANS 3011 {} -12000.00 
+}
+
+#VER "B" "10" 20091021 "Kundfakt Lena Axelsson (27)"
+{
+#TRANS 2611 {} -2500.00 
+#TRANS 1511 {} 12500.00 
+#TRANS 3011 {} -10000.00 
+}
+
+#VER "B" "11" 20091104 "Kundfakt Staffan Bensch (24)"
+{
+#TRANS 2611 {} -1000.00 
+#TRANS 1511 {} 5000.00 
+#TRANS 3011 {} -4000.00 
+}
+
+#VER "B" "12" 20091104 "Kundfakt Lars-Olaf Cardell/Ann Reutherborg (20)"
+{
+#TRANS 3011 {} -24750.00 
+#TRANS 1511 {} 30938.00 
+#TRANS 3740 {} -0.50 
+#TRANS 2611 {} -6187.50 
+}
+
+#VER "B" "13" 20091223 "Kundfakt Universitetsjukhuset i Lund (28)"
+{
+#TRANS 3011 {} -40000.00 
+#TRANS 1511 {} 50000.00 
+#TRANS 2611 {} -10000.00 
+}
+
+#VER "B" "14" 20100208 "Kundfakt Bjîrn èkesson (29)"
+{
+#TRANS 3011 {} -11400.00 
+#TRANS 2611 {} -2850.00 
+#TRANS 1511 {} 14250.00 
+}
+
+#VER "B" "15" 20100303 "Kundfakt Sofie Haglud (30)"
+{
+#TRANS 1511 {} 30000.00 
+#TRANS 3011 {} -24000.00 
+#TRANS 2611 {} -6000.00 
+}
+
+#VER "C" "1" 20090610 "Kundbet Ulrika Dreimanis (22)"
+{
+#TRANS 1940 {} 6250.00 
+#TRANS 1511 {} -6250.00 
+}
+
+#VER "C" "2" 20090612 "Kundbet David Ley (16)"
+{
+#TRANS 1940 {} 18750.00 
+#TRANS 1511 {} -18750.00 
+}
+
+#VER "C" "3" 20090612 "Kundbet Tadeusz Wieloch (17)"
+{
+#TRANS 1940 {} 18750.00 
+#TRANS 1511 {} -18750.00 
+}
+
+#VER "C" "4" 20090616 "Kundbet Alligator Bioscience AB (14)"
+{
+#TRANS 1940 {} 18750.00 
+#TRANS 1511 {} -18750.00 
+}
+
+#VER "C" "5" 20090622 "Kundbet Lars-Olaf Cardell/Ann Reutherborg (18)"
+{
+#TRANS 1940 {} 16563.00 
+#TRANS 1511 {} -16563.00 
+}
+
+#VER "C" "6" 20090630 "Kundbet Ingegerd Persson (21)"
+{
+#TRANS 1940 {} 3750.00 
+#TRANS 1511 {} -3750.00 
+}
+
+#VER "C" "7" 20090702 "Kundbet Staffan Bensch (12)"
+{
+#TRANS 1940 {} 21250.00 
+#TRANS 1511 {} -21250.00 
+}
+
+#VER "C" "8" 20090702 "Kundbet Staffan Bensch (13)"
+{
+#TRANS 1511 {} -3750.00 
+#TRANS 1940 {} 3750.00 
+}
+
+#VER "C" "9" 20090707 "Kundbet Stefan Jovinge (23)"
+{
+#TRANS 1940 {} 18750.00 
+#TRANS 1511 {} -18750.00 
+}
+
+#VER "C" "10" 20090723 "Kundbet Lena Axelsson (25)"
+{
+#TRANS 1940 {} 12500.00 
+#TRANS 1511 {} -12500.00 
+}
+
+#VER "C" "11" 20090922 "Kundbet Bjîrn èkesson (26)"
+{
+#TRANS 1940 {} 15000.00 
+#TRANS 1511 {} -15000.00 
+}
+
+#VER "C" "12" 20091123 "Kundbet Lena Axelsson (27)"
+{
+#TRANS 1511 {} -12500.00 
+#TRANS 1940 {} 12500.00 
+}
+
+#VER "C" "13" 20091208 "Kundbet Staffan Bensch (24)"
+{
+#TRANS 1940 {} 5000.00 
+#TRANS 1511 {} -5000.00 
+}
+
+#VER "C" "14" 20100123 "Kundbet Lars-Olaf Cardell/Ann Reutherborg (20)"
+{
+#TRANS 1940 {} 30938.00 
+#TRANS 1511 {} -30938.00 
+}
+
+#VER "C" "15" 20100123 "Kundbet Universitetsjukhuset i Lund (28)"
+{
+#TRANS 1511 {} -50000.00 
+#TRANS 1940 {} 50000.00 
+}
+
+#VER "C" "16" 20100308 "Kundbet Bjîrn èkesson (29)"
+{
+#TRANS 1940 {} 14250.00 
+#TRANS 1511 {} -14250.00 
+}
+
+#VER "D" "1" 20090520 "Levfakt representation (22)"
+{
+#TRANS 6071 {} 469.60 
+#TRANS 2641 {} 117.40 
+#TRANS 2441 {} -587.00 
+}
+
+#VER "D" "2" 20090520 "Levfakt 3 - telefon (23)"
+{
+#TRANS 6212 {} 109.53 
+#TRANS 2641 {} 27.47 
+#TRANS 2441 {} -137.00 
+}
+
+#VER "D" "3" 20090525 "Levfakt PÑr Lundbergs Fastighets AB (24)"
+{
+#TRANS 5010 {} 3450.00 
+#TRANS 2641 {} 863.00 
+#TRANS 2441 {} -4313.00 
+}
+
+#VER "D" "4" 20090609 "Levfakt representation (25)"
+{
+#TRANS 2641 {} 5.00 
+#TRANS 2441 {} -48.00 
+#TRANS 6071 {} 43.00 
+}
+
+#VER "D" "5" 20090609 "Levfakt 3 - telefon (26)"
+{
+#TRANS 6212 {} 45.57 
+#TRANS 2641 {} 11.43 
+#TRANS 2441 {} -57.00 
+}
+
+#VER "D" "6" 20090623 "Levfakt PÑr Lundbergs Fastighets AB (27)"
+{
+#TRANS 5010 {} 3450.00 
+#TRANS 2641 {} 863.00 
+#TRANS 2441 {} -4313.00 
+}
+
+#VER "D" "7" 20090623 "Levfakt Bokus (28)"
+{
+#TRANS 2441 {} -302.00 
+#TRANS 6970 {} 284.90 
+#TRANS 2641 {} 17.10 
+}
+
+#VER "D" "8" 20090630 "Levfakt Fortnox (29)"
+{
+#TRANS 2441 {} -668.00 
+#TRANS 6540 {} 534.00 
+#TRANS 2641 {} 134.00 
+}
+
+#VER "D" "9" 20090630 "Levfakt 3 - telefon (30)"
+{
+#TRANS 6212 {} 231.26 
+#TRANS 2641 {} 57.74 
+#TRANS 2441 {} -289.00 
+}
+
+#VER "D" "10" 20090616 "Levfakt FSD Internet TjÑnster AB (31)"
+{
+#TRANS 2641 {} 112.00 
+#TRANS 6540 {} 447.00 
+#TRANS 2441 {} -559.00 
+}
+
+#VER "D" "11" 20090525 "Levfakt PÑr Lundbergs Fastighets AB (32)"
+{
+#TRANS 2441 {} -4313.00 
+#TRANS 2641 {} 863.00 
+#TRANS 5010 {} 3450.00 
+}
+
+#VER "D" "12" 20090701 "Levfakt Bokus (33)"
+{
+#TRANS 2441 {} -231.00 
+#TRANS 2641 {} 13.08 
+#TRANS 6970 {} 217.92 
+}
+
+#VER "D" "13" 20090703 "Levfakt Bokus (34)"
+{
+#TRANS 6970 {} 233.96 
+#TRANS 2441 {} -248.00 
+#TRANS 2641 {} 14.04 
+}
+
+#VER "D" "14" 20090707 "Levfakt Bokus (35)"
+{
+#TRANS 2641 {} 25.87 
+#TRANS 6970 {} 431.13 
+#TRANS 2441 {} -457.00 
+}
+
+#VER "D" "15" 20090713 "Levfakt Bokus (36)"
+{
+#TRANS 2441 {} -520.00 
+#TRANS 2641 {} 29.44 
+#TRANS 6970 {} 490.56 
+}
+
+#VER "D" "16" 20090717 "Levfakt 3 - telefon (37)"
+{
+#TRANS 2641 {} 62.54 
+#TRANS 6212 {} 250.46 
+#TRANS 2441 {} -313.00 
+}
+
+#VER "D" "17" 20090819 "Levfakt Manning (38)"
+{
+#TRANS 6970 {} 356.86 
+#TRANS 2441 {} -356.86 
+}
+
+#VER "D" "18" 20090525 "Levfakt PÑr Lundbergs Fastighets AB (39)"
+{
+#TRANS 2641 {} 1613.00 
+#TRANS 5010 {} 6450.00 
+#TRANS 2441 {} -8063.00 
+}
+
+#VER "D" "19" 20090820 "Levfakt 3 - telefon (40)"
+{
+#TRANS 2641 {} 66.93 
+#TRANS 6212 {} 318.07 
+#TRANS 2441 {} -385.00 
+}
+
+#VER "D" "20" 20090911 "Levfakt FSD Internet TjÑnster AB (41)"
+{
+#TRANS 2441 {} -516.00 
+#TRANS 6540 {} 412.82 
+#TRANS 2641 {} 103.18 
+}
+
+#VER "D" "21" 20090910 "Levfakt Fortnox (42)"
+{
+#TRANS 2641 {} 134.00 
+#TRANS 6540 {} 534.00 
+#TRANS 2441 {} -668.00 
+}
+
+#VER "D" "22" 20090910 "Levfakt Bahnhof (43)"
+{
+#TRANS 6540 {} 2610.00 
+#TRANS 2641 {} 653.00 
+#TRANS 2441 {} -3263.00 
+}
+
+#VER "D" "23" 20090910 "Levfakt MacSupport (44)"
+{
+#TRANS 2641 {} 3599.00 
+#TRANS 1250 {} 14396.00 
+#TRANS 2441 {} -17995.00 
+}
+
+#VER "D" "24" 20090914 "Levfakt PÑr Lundbergs Fastighets AB (45)"
+{
+#TRANS 2441 {} -8063.00 
+#TRANS 5010 {} 6450.00 
+#TRANS 2641 {} 1613.00 
+}
+
+#VER "D" "25" 20090914 "Levfakt 3 - telefon (46)"
+{
+#TRANS 2641 {} 73.30 
+#TRANS 6212 {} 293.70 
+#TRANS 2441 {} -367.00 
+}
+
+#VER "D" "26" 20091020 "Levfakt PÑr Lundbergs Fastighets AB (47)"
+{
+#TRANS 5010 {} 6450.00 
+#TRANS 2641 {} 1613.00 
+#TRANS 2441 {} -8063.00 
+}
+
+#VER "D" "27" 20091021 "Levfakt Nystrîm & Partners Horwath (48)"
+{
+#TRANS 6420 {} 8120.00 
+#TRANS 2641 {} 2030.00 
+#TRANS 2441 {} -10150.00 
+}
+
+#VER "D" "28" 20091030 "Levfakt Corporate Express (49)"
+{
+#TRANS 2641 {} 282.42 
+#TRANS 2441 {} -1412.00 
+#TRANS 6110 {} 1129.58 
+}
+
+#VER "D" "29" 20091118 "Levfakt PÑr Lundbergs Fastighets AB (50)"
+{
+#TRANS 5010 {} 6450.00 
+#TRANS 2641 {} 1613.00 
+#TRANS 2441 {} -8063.00 
+}
+
+#VER "D" "30" 20091118 "Levfakt Bokus (51)"
+{
+#TRANS 6970 {} 217.92 
+#TRANS 2641 {} 13.08 
+#TRANS 2441 {} -231.00 
+}
+
+#VER "D" "31" 20091118 "Levfakt 3 - telefon (52)"
+{
+#TRANS 2441 {} -401.00 
+#TRANS 6212 {} 320.59 
+#TRANS 2641 {} 80.41 
+}
+
+#VER "D" "32" 20091114 "Levfakt 3 - telefon (53)"
+{
+#TRANS 6212 {} 323.97 
+#TRANS 2441 {} -405.00 
+#TRANS 2641 {} 81.03 
+}
+
+#VER "D" "33" 20091105 "Levfakt Bahnhof (54)"
+{
+#TRANS 6540 {} 2110.50 
+#TRANS 2641 {} 527.50 
+#TRANS 2441 {} -2638.00 
+}
+
+#VER "D" "34" 20091210 "Levfakt Fortnox (55)"
+{
+#TRANS 2441 {} -668.00 
+#TRANS 2641 {} 134.00 
+#TRANS 6540 {} 534.00 
+}
+
+#VER "D" "35" 20091213 "Levfakt 3 - telefon (56)"
+{
+#TRANS 6212 {} 223.96 
+#TRANS 2441 {} -280.00 
+#TRANS 2641 {} 56.04 
+}
+
+#VER "D" "36" 20091213 "Levfakt 3 - telefon (57)"
+{
+#TRANS 6212 {} 224.56 
+#TRANS 2641 {} 56.44 
+#TRANS 2441 {} -281.00 
+}
+
+#VER "D" "37" 20100217 "Levfakt 3 - telefon (58)"
+{
+#TRANS 6212 {} 242.22 
+#TRANS 2441 {} -298.00 
+#TRANS 2641 {} 55.78 
+}
+
+#VER "D" "38" 20100205 "Levfakt Bahnhof (59)"
+{
+#TRANS 6540 {} 2110.50 
+#TRANS 2641 {} 527.50 
+#TRANS 2441 {} -2638.00 
+}
+
+#VER "D" "39" 20100218 "Levfakt Bokus (60)"
+{
+#TRANS 2441 {} -739.00 
+#TRANS 2641 {} 41.83 
+#TRANS 6970 {} 697.17 
+}
+
+#VER "D" "40" 20100218 "Levfakt kontorsmateriel (61)"
+{
+#TRANS 2441 {} -1653.90 
+#TRANS 6110 {} 1323.12 
+#TRANS 2641 {} 330.78 
+}
+
+#VER "D" "41" 20100218 "Levfakt Lexis universitetsbokhandel AB (62)"
+{
+#TRANS 6110 {} 77.60 
+#TRANS 2641 {} 19.40 
+#TRANS 2441 {} -97.00 
+}
+
+#VER "D" "42" 20100303 "Levfakt representation (63)"
+{
+#TRANS 2641 {} 127.60 
+#TRANS 2441 {} -638.00 
+#TRANS 6071 {} 510.40 
+}
+
+#VER "D" "43" 20100317 "Levfakt 3 - telefon (64)"
+{
+#TRANS 6212 {} 240.62 
+#TRANS 2641 {} 60.38 
+#TRANS 2441 {} -301.00 
+}
+
+#VER "D" "44" 20100324 "Levfakt Bokus (65)"
+{
+#TRANS 6970 {} 179.24 
+#TRANS 2641 {} 10.76 
+#TRANS 2441 {} -190.00 
+}
+
+#VER "D" "45" 20100407 "Levfakt Bokus (66)"
+{
+#TRANS 2441 {} -175.00 
+#TRANS 2641 {} 9.91 
+#TRANS 6970 {} 165.09 
+}
+
+#VER "D" "46" 20100331 "Levfakt gratisdns (67)"
+{
+#TRANS 2641 {} 54.00 
+#TRANS 6540 {} 213.00 
+#TRANS 2441 {} -267.00 
+}
+
+#VER "D" "47" 20100413 "Levfakt Proed (68)"
+{
+#TRANS 6540 {} 47310.00 
+#TRANS 2441 {} -59138.00 
+#TRANS 2641 {} 11828.00 
+}
+
+#VER "D" "48" 20100413 "Levfakt Gerdahallen (69)"
+{
+#TRANS 2641 {} 84.91 
+#TRANS 2441 {} -1500.00 
+#TRANS 7621 {} 1415.09 
+}
+
+#VER "D" "49" 20100310 "Levfakt Fortnox (70)"
+{
+#TRANS 6540 {} 534.50 
+#TRANS 2641 {} 133.50 
+#TRANS 2441 {} -668.00 
+}
+
+#VER "D" "50" 20100414 "Levfakt 3 - telefon (71)"
+{
+#TRANS 6212 {} 455.75 
+#TRANS 2441 {} -566.00 
+#TRANS 2641 {} 110.25 
+}
+
+#VER "D" "51" 20100414 "Levfakt Office IT Partner Malmî (72)"
+{
+#TRANS 2641 {} 1246.25 
+#TRANS 2441 {} -6231.00 
+#TRANS 1250 {} 4984.75 
+}
+
+#VER "D" "52" 20100331 "Levfakt MacSupport (73)"
+{
+#TRANS 2441 {} -20775.00 
+#TRANS 1250 {} 16620.00 
+#TRANS 2641 {} 4155.00 
+}
+
+#VER "E" "1" 20090520 "Levbet representation (22)"
+{
+#TRANS 1940 {} -587.00 
+#TRANS 2441 {} 587.00 
+}
+
+#VER "E" "2" 20090520 "Levbet 3 - telefon (23)"
+{
+#TRANS 1940 {} -137.00 
+#TRANS 2441 {} 137.00 
+}
+
+#VER "E" "3" 20090526 "Levbet PÑr Lundbergs Fastighets AB (24)"
+{
+#TRANS 1940 {} -4313.00 
+#TRANS 2441 {} 4313.00 
+}
+
+#VER "E" "4" 20090615 "Levbet representation (25)"
+{
+#TRANS 2441 {} 48.00 
+#TRANS 1940 {} -48.00 
+}
+
+#VER "E" "5" 20090622 "Levbet 3 - telefon (26)"
+{
+#TRANS 2441 {} 57.00 
+#TRANS 1940 {} -57.00 
+}
+
+#VER "E" "6" 20090623 "Levbet PÑr Lundbergs Fastighets AB (27)"
+{
+#TRANS 1940 {} -4313.00 
+#TRANS 2441 {} 4313.00 
+}
+
+#VER "E" "7" 20090623 "Levbet Bokus (28)"
+{
+#TRANS 2441 {} 302.00 
+#TRANS 1940 {} -302.00 
+}
+
+#VER "E" "8" 20090630 "Levbet Fortnox (29)"
+{
+#TRANS 2441 {} 668.00 
+#TRANS 1940 {} -668.00 
+}
+
+#VER "E" "9" 20090630 "Levbet 3 - telefon (30)"
+{
+#TRANS 2441 {} 289.00 
+#TRANS 1940 {} -289.00 
+}
+
+#VER "E" "10" 20090716 "Levbet FSD Internet TjÑnster AB (31)"
+{
+#TRANS 1940 {} -559.00 
+#TRANS 2441 {} 559.00 
+}
+
+#VER "E" "11" 20090727 "Levbet PÑr Lundbergs Fastighets AB (32)"
+{
+#TRANS 2441 {} 4313.00 
+#TRANS 1940 {} -4313.00 
+}
+
+#VER "E" "12" 20090727 "Levbet Bokus (33)"
+{
+#TRANS 2441 {} 231.00 
+#TRANS 1940 {} -231.00 
+}
+
+#VER "E" "13" 20090727 "Levbet Bokus (34)"
+{
+#TRANS 2441 {} 248.00 
+#TRANS 1940 {} -248.00 
+}
+
+#VER "E" "14" 20090727 "Levbet Bokus (35)"
+{
+#TRANS 2441 {} 457.00 
+#TRANS 1940 {} -457.00 
+}
+
+#VER "E" "15" 20090727 "Levbet Bokus (36)"
+{
+#TRANS 1940 {} -520.00 
+#TRANS 2441 {} 520.00 
+}
+
+#VER "E" "16" 20090727 "Levbet 3 - telefon (37)"
+{
+#TRANS 2441 {} 313.00 
+#TRANS 1940 {} -313.00 
+}
+
+#VER "E" "17" 20090819 "Levbet Manning (38)"
+{
+#TRANS 1940 {} -356.86 
+#TRANS 2441 {} 356.86 
+}
+
+#VER "E" "18" 20090826 "Levbet PÑr Lundbergs Fastighets AB (39)"
+{
+#TRANS 2441 {} 8063.00 
+#TRANS 1940 {} -8063.00 
+}
+
+#VER "E" "19" 20090826 "Levbet 3 - telefon (40)"
+{
+#TRANS 2441 {} 385.00 
+#TRANS 1940 {} -385.00 
+}
+
+#VER "E" "20" 20090910 "Levbet Bahnhof (43)"
+{
+#TRANS 2441 {} 3263.00 
+#TRANS 1940 {} -3263.00 
+}
+
+#VER "E" "21" 20090910 "Levbet MacSupport (44)"
+{
+#TRANS 1940 {} -17995.00 
+#TRANS 2441 {} 17995.00 
+}
+
+#VER "E" "22" 20090930 "Levbet Fortnox (42)"
+{
+#TRANS 2441 {} 668.00 
+#TRANS 1940 {} -668.00 
+}
+
+#VER "E" "23" 20090930 "Levbet PÑr Lundbergs Fastighets AB (45)"
+{
+#TRANS 1940 {} -8063.00 
+#TRANS 2441 {} 8063.00 
+}
+
+#VER "E" "24" 20091011 "Levbet FSD Internet TjÑnster AB (41)"
+{
+#TRANS 2441 {} 516.00 
+#TRANS 1940 {} -516.00 
+}
+
+#VER "E" "25" 20090914 "Levbet 3 - telefon (46)"
+{
+#TRANS 1940 {} -367.00 
+#TRANS 2441 {} 367.00 
+}
+
+#VER "E" "26" 20091020 "Levbet PÑr Lundbergs Fastighets AB (47)"
+{
+#TRANS 2441 {} 8063.00 
+#TRANS 1940 {} -8063.00 
+}
+
+#VER "E" "27" 20091021 "Levbet Nystrîm & Partners Horwath (48)"
+{
+#TRANS 1940 {} -10150.00 
+#TRANS 2441 {} 10150.00 
+}
+
+#VER "E" "28" 20091030 "Levbet Corporate Express (49)"
+{
+#TRANS 1940 {} -1412.00 
+#TRANS 2441 {} 1412.00 
+}
+
+#VER "E" "29" 20091118 "Levbet PÑr Lundbergs Fastighets AB (50)"
+{
+#TRANS 1940 {} -8063.00 
+#TRANS 2441 {} 8063.00 
+}
+
+#VER "E" "30" 20091118 "Levbet Bokus (51)"
+{
+#TRANS 1940 {} -231.00 
+#TRANS 2441 {} 231.00 
+}
+
+#VER "E" "31" 20091118 "Levbet 3 - telefon (52)"
+{
+#TRANS 2441 {} 401.00 
+#TRANS 1940 {} -401.00 
+}
+
+#VER "E" "32" 20091214 "Levbet 3 - telefon (53)"
+{
+#TRANS 1940 {} -405.00 
+#TRANS 2441 {} 405.00 
+}
+
+#VER "E" "33" 20091214 "Levbet Bahnhof (54)"
+{
+#TRANS 1940 {} -2638.00 
+#TRANS 2441 {} 2638.00 
+}
+
+#VER "E" "34" 20091228 "Levbet Fortnox (55)"
+{
+#TRANS 1940 {} -668.00 
+#TRANS 2441 {} 668.00 
+}
+
+#VER "E" "35" 20091228 "Levbet 3 - telefon (56)"
+{
+#TRANS 2441 {} 280.00 
+#TRANS 1940 {} -280.00 
+}
+
+#VER "E" "36" 20100209 "Levbet 3 - telefon (57)"
+{
+#TRANS 2441 {} 281.00 
+#TRANS 1940 {} -281.00 
+}
+
+#VER "E" "37" 20100218 "Levbet kontorsmateriel (61)"
+{
+#TRANS 1940 {} -1653.90 
+#TRANS 2441 {} 1653.90 
+}
+
+#VER "E" "38" 20100403 "Levbet Lexis universitetsbokhandel AB (62)"
+{
+#TRANS 1940 {} -97.00 
+#TRANS 2441 {} 97.00 
+}
+
+#VER "E" "39" 20100226 "Levbet 3 - telefon (58)"
+{
+#TRANS 2441 {} 298.00 
+#TRANS 1940 {} -298.00 
+}
+
+#VER "E" "40" 20100226 "Levbet Bokus (60)"
+{
+#TRANS 2441 {} 739.00 
+#TRANS 1940 {} -739.00 
+}
+
+#VER "E" "41" 20100226 "Levbet Bahnhof (59)"
+{
+#TRANS 1940 {} -2638.00 
+#TRANS 2441 {} 2638.00 
+}
+
+#VER "E" "42" 20100304 "Levbet representation (63)"
+{
+#TRANS 1940 {} -638.00 
+#TRANS 2441 {} 638.00 
+}
+
+#VER "E" "43" 20100328 "Levbet 3 - telefon (64)"
+{
+#TRANS 2441 {} 301.00 
+#TRANS 1940 {} -301.00 
+}
+
+#VER "E" "44" 20100328 "Levbet Bokus (65)"
+{
+#TRANS 2441 {} 190.00 
+#TRANS 1940 {} -190.00 
+}
+
+#VER "E" "45" 20100417 "Levbet Bokus (66)"
+{
+#TRANS 1940 {} -175.00 
+#TRANS 2441 {} 175.00 
+}
+
+#VER "E" "46" 20100417 "Levbet gratisdns (67)"
+{
+#TRANS 1940 {} -267.00 
+#TRANS 2441 {} 267.00 
+}
+
+#VER "E" "47" 20100417 "Levbet Proed (68)"
+{
+#TRANS 1940 {} -59138.00 
+#TRANS 2441 {} 59138.00 
+}
+
+#VER "E" "48" 20100417 "Levbet Gerdahallen (69)"
+{
+#TRANS 2441 {} 1500.00 
+#TRANS 1940 {} -1500.00 
+}
+
+#VER "E" "49" 20100421 "Levbet Fortnox (70)"
+{
+#TRANS 1940 {} -668.00 
+#TRANS 2441 {} 668.00 
+}
+
+#VER "E" "50" 20100421 "Levbet 3 - telefon (71)"
+{
+#TRANS 2441 {} 566.00 
+#TRANS 1940 {} -566.00 
+}
+
+#VER "E" "51" 20100421 "Levbet Office IT Partner Malmî (72)"
+{
+#TRANS 2441 {} 6231.00 
+#TRANS 1940 {} -6231.00 
+}
+
+#VER "E" "52" 20100429 "Levbet MacSupport (73)"
+{
+#TRANS 1940 {} -20775.00 
+#TRANS 2441 {} 20775.00 
+}
