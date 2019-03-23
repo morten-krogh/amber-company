@@ -5,6 +5,5 @@ Alla aktier: 1-1000
 aktiekapital: 100,000 kroner
 kvotvärde: 100 kroner
 
-aktienummer	antal aktier	personnummer	namn	adresse	aktiebrev	förköbsklausul	hembudsklausul
-1-200	200	701007-9445	Ann-Sofie Albrekt	Infartsgatan 7, 26020 Teckomatorp	nej	ja	ja
-201-1000	800	701002-8350	Morten Krogh	Skrivarevägen 9, 22657 Lund	nej	ja	ja
+aktienummer	antal aktier	personnummer	namn	     adresse	                 aktiebrev	förköbsklausul	hembudsklausul
+1-1000	        1000	        701002-8350	Morten Krogh Skrivarevägen 9, 22657 Lund nej	        ja	        ja
