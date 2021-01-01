@@ -1,0 +1,999 @@
+#FLAGGA 0
+#FORMAT PC8
+#SIETYP 4
+#PROGRAM "Fortnox" 3.39.5
+#GEN 20210101
+#FNR 17932
+#FNAMN "Amber BioSciences AB"
+#ADRESS "Morten Krogh" "SkrivarevÑgen 9" "226 57 LUND" "+46 (0) 761 88 01 43" 
+#RAR 0 20080401 20090430
+#ORGNR 556755-7763
+#OMFATTN 20090430
+#KPTYP EUBAS97
+
+#KONTO 1110 "Byggnader"
+#SRU 1110 237
+#KONTO 1119 "Ackumulerade avskrivningar pÜ byggnader"
+#SRU 1119 237
+#KONTO 1130 "Mark"
+#SRU 1130 235
+#KONTO 1150 "MarkanlÑggningar"
+#SRU 1150 237
+#KONTO 1159 "Ackumulerade avskrivningar pÜ markanlÑggningar"
+#SRU 1159 237
+#KONTO 1210 "Maskiner och andra tekniska anlÑggningar"
+#SRU 1210 236
+#KONTO 1219 "Ackumulerade avskrivningar pÜ maskiner och andra tekniska anlÑggningar"
+#SRU 1219 236
+#KONTO 1220 "Inventarier och verktyg"
+#SRU 1220 236
+#KONTO 1229 "Ackumulerade avskrivningar pÜ inventarier och verktyg"
+#SRU 1229 236
+#KONTO 1240 "Bilar och andra transportmedel"
+#SRU 1240 236
+#KONTO 1249 "Ackumulerade avskrivningar pÜ bilar och andra transportmedel"
+#SRU 1249 236
+#KONTO 1250 "Datorer"
+#SRU 1250 236
+#KONTO 1259 "Ackumulerade avskrivningar pÜ datorer"
+#SRU 1259 236
+#KONTO 1291 "Konst och liknande tillgÜngar"
+#SRU 1291 235
+#KONTO 1350 "Andelar och vÑrdepapper i andra fîretag"
+#SRU 1350 233
+#KONTO 1380 "Andra lÜngfristiga fordringar"
+#SRU 1380 233
+#KONTO 1390 "Ackumulerade nedskrivningar av vÑrdepapper och lÜngfristiga fordringar (ofîrdelad)"
+#SRU 1390 233
+#KONTO 1400 "Lager (gruppkonto)"
+#SRU 1400 219
+#KONTO 1440 "Produkter i arbete"
+#SRU 1440 219
+#KONTO 1470 "PÜgÜende arbeten"
+#SRU 1470 219
+#KONTO 1490 "FîrÑndring av lager, produkter i arbete och pÜgÜende arbeten (ofîrdelad)"
+#SRU 1490 219
+#KONTO 1511 "Kundfordringar"
+#SRU 1511 204
+#KONTO 1580 "Fordringar fîr kontokort och kuponger"
+#SRU 1580 204
+#KONTO 1590 "Nedskrivning av kundfordringar (ofîrdelad)"
+#SRU 1590 204
+#KONTO 1610 "Kortfristiga fordringar hos anstÑllda"
+#SRU 1610 220
+#KONTO 1630 "AvrÑkning fîr skatter och avgifter (skattekonto)"
+#SRU 1630 220
+#KONTO 1640 "Skattefordringar"
+#SRU 1640 206
+#KONTO 1650 "Momsfordran"
+#SRU 1650 207
+#KONTO 1680 "Andra kortfristiga fordringar"
+#SRU 1680 220
+#KONTO 1700 "Fîrutbetalda kostnader och upplupna intÑkter (gruppkonto)"
+#SRU 1700 205
+#KONTO 1800 "Kortfristiga placeringar (gruppkonto)"
+#SRU 1800 202
+#KONTO 1890 "Nedskrivning av kortfristiga placeringar"
+#SRU 1890 203
+#KONTO 1910 "Kassa"
+#SRU 1910 200
+#KONTO 1920 "Plusgiro"
+#SRU 1920 200
+#KONTO 1930 "CheckrÑkningskonto"
+#SRU 1930 200
+#KONTO 1940 "Bank (îvriga konton)"
+#SRU 1940 200
+#KONTO 2010 "Eget kapital, delÑgare 1"
+#SRU 2010 360
+#KONTO 2013 "ôvriga egna uttag"
+#SRU 2013 362
+#KONTO 2018 "ôvriga egna insÑttningar"
+#SRU 2018 363
+#KONTO 2019 "èrets resultat, delÑgare 1"
+#SRU 2019 368
+#KONTO 2081 "Aktiekapital"
+#SRU 2081 350
+#KONTO 2086 "Reservfond"
+#SRU 2086 351
+#KONTO 2091 "Balanserad vinst eller fîrlust"
+#SRU 2091 354
+#KONTO 2099 "èrets resultat"
+#SRU 2099 354
+#KONTO 2150 "Ackumulerade îveravskrivningar"
+#SRU 2150 330
+#KONTO 2330 "CheckrÑkningskredit"
+#SRU 2330 329
+#KONTO 2350 "Andra lÜngfristiga skulder till kreditinstitut"
+#SRU 2350 329
+#KONTO 2391 "Avbetalningskontrakt, lÜngfristig del"
+#SRU 2391 329
+#KONTO 2393 "LÜn frÜn nÑrstÜende personer, lÜngfristig del"
+#SRU 2393 321
+#KONTO 2410 "Kortfristiga lÜneskulder till kreditinstitut"
+#SRU 2410 319
+#KONTO 2441 "Leverantîrsskulder"
+#SRU 2441 300
+#KONTO 2448 "Ej reskontrafîrda leverantîrsskulder"
+#SRU 2448 300
+#KONTO 2510 "Skatteskulder"
+#SRU 2510 301
+#KONTO 2611 "UtgÜende moms pÜ fîrsÑljning inom Sverige, oreducerad"
+#SRU 2611 307
+#KONTO 2621 "UtgÜende moms pÜ fîrsÑljning inom Sverige, reducerad 1"
+#SRU 2621 307
+#KONTO 2631 "UtgÜende moms pÜ fîrsÑljning inom Sverige, reducerad 2"
+#SRU 2631 307
+#KONTO 2641 "Debiterad ingÜende moms"
+#SRU 2641 307
+#KONTO 2650 "Redovisningskonto fîr moms"
+#SRU 2650 307
+#KONTO 2710 "Personalskatt"
+#SRU 2710 301
+#KONTO 2730 "Lagstadgade sociala avgifter, sÑrskild lîneskatt och sÑrskild sjukfîrsÑkringsavgift"
+#SRU 2730 301
+#KONTO 2740 "Avtalade sociala avgifter"
+#SRU 2740 319
+#KONTO 2790 "ôvriga lîneavdrag"
+#SRU 2790 319
+#KONTO 2840 "Kortfristiga lÜneskulder"
+#SRU 2840 319
+#KONTO 2890 "ôvriga kortfristiga skulder"
+#SRU 2890 319
+#KONTO 2893 "Skulder till nÑrstÜende personer, kortfristig del"
+#SRU 2893 321
+#KONTO 2910 "Upplupna lîner"
+#SRU 2910 305
+#KONTO 2920 "Upplupna semesterlîner"
+#SRU 2920 305
+#KONTO 2950 "Upplupna avtalade sociala avgifter"
+#SRU 2950 305
+#KONTO 2960 "Upplupna rÑntekostnader"
+#SRU 2960 305
+#KONTO 2990 "ôvriga upplupna kostnader och fîrutbetalda intÑkter"
+#SRU 2990 305
+#KONTO 3011 "FîrsÑljning tillverkade produkter B inom Sverige, ored moms"
+#SRU 3011 400
+#KONTO 3012 "FîrsÑljning tillverkade produkter B inom Sverige, red moms1"
+#SRU 3012 400
+#KONTO 3013 "FîrsÑljning tillverkade produkter B inom Sverige, red moms2"
+#SRU 3013 400
+#KONTO 3080 "IntÑktsreduktioner fîr tillverkade produkter"
+#SRU 3080 400
+#KONTO 3111 "FîrsÑljning handelsvaror B inom Sverige, ored moms"
+#SRU 3111 400
+#KONTO 3112 "FîrsÑljning handelsvaror B inom Sverige, red moms1"
+#SRU 3112 400
+#KONTO 3113 "FîrsÑljning handelsvaror B inom Sverige, red moms2"
+#SRU 3113 400
+#KONTO 3311 "FîrsÑljning tjÑnster B inom Sverige, ored moms"
+#SRU 3311 400
+#KONTO 3312 "FîrsÑljning tjÑnster B inom Sverige, red moms1"
+#SRU 3312 400
+#KONTO 3313 "FîrsÑljning tjÑnster B inom Sverige, red moms2"
+#SRU 3313 400
+#KONTO 3520 "Fakturerade frakter"
+#SRU 3520 400
+#KONTO 3540 "Faktureringsavgifter"
+#SRU 3540 400
+#KONTO 3730 "LÑmnade rabatter"
+#SRU 3730 400
+#KONTO 3740 "ôres- och kronutjÑmning"
+#SRU 3740 400
+#KONTO 3790 "ôvriga intÑktskorrigeringar"
+#SRU 3790 400
+#KONTO 3910 "Hyres- och arrendeintÑkter"
+#SRU 3910 401
+#KONTO 3950 "ètervunna, tidigare avskrivna kundfordringar"
+#SRU 3950 401
+#KONTO 3970 "Vinst vid avyttring av immateriella och materiella anlÑgg ningstillgÜngar"
+#SRU 3970 552
+#KONTO 3980 "ErhÜllna bidrag"
+#SRU 3980 401
+#KONTO 3990 "ôvriga ersÑttningar och intÑkter"
+#SRU 3990 401
+#KONTO 4011 "Inkîp av material I fîr tillverkade produkter B"
+#SRU 4011 500
+#KONTO 4090 "Fîrdelade inkîp av material fîr tillverkade produkter"
+#SRU 4090 500
+#KONTO 4111 "Inkîp I av handelsvaror B"
+#SRU 4111 500
+#KONTO 4190 "Fîrdelade inkîp av handelsvaror"
+#SRU 4190 500
+#KONTO 4310 "Inkîp fîr produktion av tjÑnster B (ofîrdelade)"
+#SRU 4310 500
+#KONTO 4600 "Legoarbeten och under entreprenader (gruppkonto)"
+#SRU 4600 501
+#KONTO 4700 "Reduktion av inkîpspriser (gruppkonto)"
+#SRU 4700 500
+#KONTO 4790 "ôvriga reduktioner av inkîpspriser"
+#SRU 4790 500
+#KONTO 5010 "Lokalhyra"
+#SRU 5010 528
+#KONTO 5020 "El fîr belysning"
+#SRU 5020 528
+#KONTO 5030 "VÑrme"
+#SRU 5030 528
+#KONTO 5040 "Vatten och avlopp"
+#SRU 5040 528
+#KONTO 5060 "StÑdning och renhÜllning"
+#SRU 5060 528
+#KONTO 5070 "Reparation och underhÜll av lokaler"
+#SRU 5070 528
+#KONTO 5090 "ôvriga lokalkostnader"
+#SRU 5090 528
+#KONTO 5210 "Hyra av maskiner och andra tekniska anlÑggningar"
+#SRU 5210 529
+#KONTO 5420 "Programvaror"
+#SRU 5420 531
+#KONTO 5460 "Fîrbrukningsmaterial"
+#SRU 5460 531
+#KONTO 5480 "ArbetsklÑder och skyddsmaterial"
+#SRU 5480 531
+#KONTO 5490 "ôvriga fîrbrukningsinventarier och fîrbrukningsmaterial"
+#SRU 5490 531
+#KONTO 5520 "Reparation och underhÜll av inventarier, verktyg och datorer m.m."
+#SRU 5520 530
+#KONTO 5580 "UnderhÜll och tvÑtt av arbetsklÑder"
+#SRU 5580 530
+#KONTO 5611 "Drivmedel fîr personbilar"
+#SRU 5611 536
+#KONTO 5612 "FîrsÑkring och skatt fîr personbilar"
+#SRU 5612 536
+#KONTO 5613 "Reparation och underhÜll av personbilar"
+#SRU 5613 536
+#KONTO 5615 "Leasing av personbilar"
+#SRU 5615 536
+#KONTO 5619 "ôvriga personbilskostnader"
+#SRU 5619 536
+#KONTO 5690 "ôvriga kostnader fîr transportmedel"
+#SRU 5690 538
+#KONTO 5710 "Frakter, transporter och fîrsÑkringar vid varudistribution"
+#SRU 5710 538
+#KONTO 5800 "Resekostnader (gruppkonto)"
+#SRU 5800 538
+#KONTO 5910 "Annonsering"
+#SRU 5910 541
+#KONTO 5930 "Reklamtrycksaker och direktreklam"
+#SRU 5930 541
+#KONTO 5940 "UtstÑllningar och mÑssor"
+#SRU 5940 541
+#KONTO 5980 "PR, institutionell reklam och sponsring"
+#SRU 5980 541
+#KONTO 5990 "ôvriga kostnader fîr reklam och PR"
+#SRU 5990 541
+#KONTO 6071 "Representation, avdragsgill"
+#SRU 6071 530
+#KONTO 6072 "Representation, ej avdragsgill"
+#SRU 6072 530
+#KONTO 6090 "ôvriga fîrsÑljningskostnader"
+#SRU 6090 530
+#KONTO 6110 "Kontorsmateriel"
+#SRU 6110 530
+#KONTO 6211 "Fast telefoni"
+#SRU 6211 530
+#KONTO 6212 "Mobiltelefon"
+#SRU 6212 530
+#KONTO 6230 "Datakommunikation"
+#SRU 6230 530
+#KONTO 6250 "Postbefordran"
+#SRU 6250 530
+#KONTO 6310 "FîretagsfîrsÑkringar"
+#SRU 6310 530
+#KONTO 6350 "Fîrluster pÜ kundfordringar"
+#SRU 6350 530
+#KONTO 6410 "Styrelsearvoden"
+#SRU 6410 530
+#KONTO 6420 "ErsÑttningar till revisor"
+#SRU 6420 530
+#KONTO 6490 "ôvriga fîrvaltningskostnader"
+#SRU 6490 530
+#KONTO 6530 "RedovisningstjÑnster"
+#SRU 6530 530
+#KONTO 6540 "IT-tjÑnster"
+#SRU 6540 530
+#KONTO 6560 "Serviceavgifter till branschorganisationer"
+#SRU 6560 530
+#KONTO 6570 "Bankkostnader"
+#SRU 6570 530
+#KONTO 6590 "ôvriga externa tjÑnster"
+#SRU 6590 530
+#KONTO 6950 "Tillsynsavgifter myndigheter"
+#SRU 6950 530
+#KONTO 6970 "Tidningar, tidskrifter och facklitteratur"
+#SRU 6970 530
+#KONTO 6981 "Fîreningsavgifter, avdragsgilla"
+#SRU 6981 530
+#KONTO 6982 "Fîreningsavgifter, ej avdragsgilla"
+#SRU 6982 530
+#KONTO 6991 "ôvriga externa kostnader, avdragsgilla"
+#SRU 6991 530
+#KONTO 6992 "ôvriga externa kostnader, ej avdragsgilla"
+#SRU 6992 530
+#KONTO 7010 "Lîner till kollektivanstÑllda"
+#SRU 7010 512
+#KONTO 7210 "Lîner till tjÑnstemÑn"
+#SRU 7210 512
+#KONTO 7220 "Lîner till fîretagsledare"
+#SRU 7220 512
+#KONTO 7291 "FîrÑndring av semesterlîneskuld till tjÑnstemÑn"
+#SRU 7291 512
+#KONTO 7292 "FîrÑndring av semesterlîneskuld till fîretagsledare"
+#SRU 7292 512
+#KONTO 7321 "Skattefria traktamenten, Sverige"
+#SRU 7321 514
+#KONTO 7322 "Skattepliktiga traktamenten, Sverige"
+#SRU 7322 514
+#KONTO 7331 "Skattefria bilersÑttningar"
+#SRU 7331 514
+#KONTO 7332 "Skattepliktiga bilersÑttningar"
+#SRU 7332 514
+#KONTO 7390 "ôvriga kostnadsersÑttningar och fîrmÜner"
+#SRU 7390 514
+#KONTO 7410 "PensionsfîrsÑkringspremier"
+#SRU 7410 524
+#KONTO 7510 "Lagstadgade sociala avgifter"
+#SRU 7510 520
+#KONTO 7530 "SÑrskild lîneskatt"
+#SRU 7530 520
+#KONTO 7570 "Premier fîr arbetsmarknadsfîrsÑkringar"
+#SRU 7570 520
+#KONTO 7580 "GruppfîrsÑkringspremier"
+#SRU 7580 520
+#KONTO 7610 "Utbildning"
+#SRU 7610 527
+#KONTO 7621 "Sjuk- och hÑlsovÜrd, avdragsgill"
+#SRU 7621 527
+#KONTO 7622 "Sjuk- och hÑlsovÜrd, ej avdragsgill"
+#SRU 7622 527
+#KONTO 7631 "Personalrepresentation, avdragsgill"
+#SRU 7631 527
+#KONTO 7632 "Personalrepresentation, ej avdragsgill"
+#SRU 7632 527
+#KONTO 7699 "ôvriga personalkostnader"
+#SRU 7699 527
+#KONTO 7821 "Avskrivningar pÜ byggnader"
+#SRU 7821 560
+#KONTO 7824 "Avskrivningar pÜ markanlÑggningar"
+#SRU 7824 560
+#KONTO 7831 "Avskrivningar pÜ maskiner och andra tekniska anlÑggningar"
+#SRU 7831 559
+#KONTO 7832 "Avskrivningar pÜ inventarier och verktyg"
+#SRU 7832 559
+#KONTO 7834 "Avskrivningar pÜ bilar och andra transportmedel"
+#SRU 7834 559
+#KONTO 7835 "Avskrivningar pÜ datorer"
+#SRU 7835 559
+#KONTO 7973 "Fîrlust vid avyttring av maskiner och inventarier"
+#SRU 7973 556
+#KONTO 7990 "ôvriga rîrelsekostnader"
+#SRU 7990 530
+#KONTO 8210 "Utdelning pÜ andelar i andra fîretag"
+#SRU 8210 565
+#KONTO 8270 "Nedskrivningar av innehav av andelar i och lÜngfristiga fordringar hos andra fîretag"
+#SRU 8270 570
+#KONTO 8310 "RÑnteintÑkter frÜn om sÑttningstillgÜngar"
+#SRU 8310 568
+#KONTO 8313 "RÑnteintÑkter frÜn kortfristiga fordringar"
+#SRU 8313 568
+#KONTO 8314 "Skattefria rÑnteintÑkter"
+#SRU 8314 568
+#KONTO 8340 "Utdelningar pÜ kortfristiga placeringar"
+#SRU 8340 568
+#KONTO 8350 "Resultat vid fîrsÑljning av kortfristiga placeringar"
+#SRU 8350 550
+#KONTO 8370 "Nedskrivningar av kortfristiga placeringar"
+#SRU 8370 569
+#KONTO 8380 "èterfîringar av nedskrivningar av kortfristiga placeringar"
+#SRU 8380 568
+#KONTO 8410 "RÑntekostnader fîr lÜngfristiga skulder"
+#SRU 8410 569
+#KONTO 8423 "RÑntekostnader fîr skatter och avgifter"
+#SRU 8423 569
+#KONTO 8431 "Valutakursvinster pÜ skulder"
+#SRU 8431 566
+#KONTO 8436 "Valutakursfîrluster pÜ skulder"
+#SRU 8436 567
+#KONTO 8811 "AvsÑttning till periodiseringsfond"
+#SRU 8811 586
+#KONTO 8819 "èterfîring frÜn periodiseringsfond"
+#SRU 8819 589
+#KONTO 8910 "Skatt pÜ Ürets beskattningsbara resultat"
+#SRU 8910 598
+#KONTO 8999 "èrets resultat"
+#SRU 8999 599
+
+#DIM 1 "KostnadsstÑlle"
+#DIM 6 "Projekt"
+
+#IB 0 1229 0 0
+#UB 0 1229 -3223.8 0
+#IB 0 1250 0 0
+#UB 0 1250 16119 0
+#IB 0 1511 0 0
+#UB 0 1511 25000 0
+#IB 0 1630 0 0
+#UB 0 1630 -353.6 0
+#IB 0 1940 0 0
+#UB 0 1940 135960.88 0
+#IB 0 2018 0 0
+#UB 0 2018 0 0
+#IB 0 2081 0 0
+#UB 0 2081 -100000 0
+#IB 0 2099 0 0
+#UB 0 2099 -72819.25 0
+#IB 0 2441 0 0
+#UB 0 2441 0 0
+#IB 0 2611 0 0
+#UB 0 2611 -5000 0
+#IB 0 2641 0 0
+#UB 0 2641 2320.77 0
+#IB 0 2650 0 0
+#UB 0 2650 1996 0
+#PSALDO 0 200904 1229 {} -3223.8 0
+#PSALDO 0 200812 1250 {} 7785 0
+#PSALDO 0 200904 1250 {} 8334 0
+#PSALDO 0 200807 1511 {} 0 0
+#PSALDO 0 200808 1511 {} 3750 0
+#PSALDO 0 200811 1511 {} 27813 0
+#PSALDO 0 200812 1511 {} -18750 0
+#PSALDO 0 200901 1511 {} -12813 0
+#PSALDO 0 200902 1511 {} 18750 0
+#PSALDO 0 200903 1511 {} -4375 0
+#PSALDO 0 200904 1511 {} 10625 0
+#PSALDO 0 200806 1630 {} 3496 0
+#PSALDO 0 200807 1630 {} 10377 0
+#PSALDO 0 200811 1630 {} 2782 0
+#PSALDO 0 200812 1630 {} -28318.6 0
+#PSALDO 0 200901 1630 {} 11310 0
+#PSALDO 0 200904 1630 {} 0 0
+#PSALDO 0 200804 1940 {} 100000 0
+#PSALDO 0 200806 1940 {} -3755 0
+#PSALDO 0 200807 1940 {} 1046 0
+#PSALDO 0 200809 1940 {} -1001 0
+#PSALDO 0 200810 1940 {} -559 0
+#PSALDO 0 200811 1940 {} -4182 0
+#PSALDO 0 200812 1940 {} 57982.88 0
+#PSALDO 0 200901 1940 {} -15656 0
+#PSALDO 0 200902 1940 {} -10209 0
+#PSALDO 0 200903 1940 {} 16968 0
+#PSALDO 0 200904 1940 {} -4674 0
+#PSALDO 0 200812 2018 {} 0 0
+#PSALDO 0 200804 2081 {} -100000 0
+#PSALDO 0 200812 2099 {} -72819.25 0
+#PSALDO 0 200806 2441 {} -559 0
+#PSALDO 0 200807 2441 {} 559 0
+#PSALDO 0 200809 2441 {} -559 0
+#PSALDO 0 200810 2441 {} 559 0
+#PSALDO 0 200812 2441 {} -10816 0
+#PSALDO 0 200901 2441 {} 837 0
+#PSALDO 0 200902 2441 {} 9979 0
+#PSALDO 0 200903 2441 {} -299 0
+#PSALDO 0 200904 2441 {} 299 0
+#PSALDO 0 200807 2611 {} -2500 0
+#PSALDO 0 200808 2611 {} -750 0
+#PSALDO 0 200810 2611 {} 3250 0
+#PSALDO 0 200811 2611 {} -5562.5 0
+#PSALDO 0 200812 2611 {} 5562.5 0
+#PSALDO 0 200902 2611 {} -3750 0
+#PSALDO 0 200903 2611 {} 3750 0
+#PSALDO 0 200904 2611 {} -5000 0
+#PSALDO 0 200806 2641 {} 163.75 0
+#PSALDO 0 200807 2641 {} 104 0
+#PSALDO 0 200809 2641 {} 311.75 0
+#PSALDO 0 200810 2641 {} -579.5 0
+#PSALDO 0 200812 2641 {} -0 0
+#PSALDO 0 200902 2641 {} 45.92 0
+#PSALDO 0 200903 2641 {} -45.92 0
+#PSALDO 0 200904 2641 {} 2320.77 0
+#PSALDO 0 200810 2650 {} -2670 0
+#PSALDO 0 200812 2650 {} -11656 0
+#PSALDO 0 200901 2650 {} 16322 0
+#PSALDO 0 200903 2650 {} -6275 0
+#PSALDO 0 200904 2650 {} 6275 0
+#PSALDO 0 200807 3011 {} -10000 0
+#PSALDO 0 200808 3011 {} -3000 0
+#PSALDO 0 200811 3011 {} -22250 0
+#PSALDO 0 200812 3011 {} -36500 0
+#PSALDO 0 200902 3011 {} -15000 0
+#PSALDO 0 200903 3011 {} -11500 0
+#PSALDO 0 200904 3011 {} -20000 0
+#PSALDO 0 200810 3740 {} -0.5 0
+#PSALDO 0 200811 3740 {} -0.5 0
+#PSALDO 0 200812 3740 {} -0.49 0
+#PSALDO 0 200903 3740 {} -0.1 0
+#PSALDO 0 200904 5800 {} 561.18 0
+#PSALDO 0 200812 6110 {} 374.4 0
+#PSALDO 0 200904 6110 {} 660 0
+#PSALDO 0 200812 6212 {} 198 0
+#PSALDO 0 200902 6212 {} 184.08 0
+#PSALDO 0 200903 6212 {} 239.23 0
+#PSALDO 0 200812 6230 {} 447 0
+#PSALDO 0 200806 6540 {} 654.25 0
+#PSALDO 0 200807 6540 {} 414 0
+#PSALDO 0 200809 6540 {} 1248.25 0
+#PSALDO 0 200812 6540 {} 801 0
+#PSALDO 0 200903 6540 {} 801 0
+#PSALDO 0 200811 6570 {} 1400 0
+#PSALDO 0 200812 6970 {} 262 0
+#PSALDO 0 200903 6970 {} 736.79 0
+#PSALDO 0 200904 6970 {} 599.05 0
+#PSALDO 0 200812 7699 {} 4309.71 0
+#PSALDO 0 200904 7832 {} 3223.8 0
+#PSALDO 0 200812 8910 {} 28318.6 0
+#PSALDO 0 200812 8999 {} 72819.25 0
+#RES 0 3011 -118250 0
+#RES 0 3740 -1.59 0
+#RES 0 5800 561.18 0
+#RES 0 6110 1034.4 0
+#RES 0 6212 621.31 0
+#RES 0 6230 447 0
+#RES 0 6540 3918.5 0
+#RES 0 6570 1400 0
+#RES 0 6970 1597.84 0
+#RES 0 7699 4309.71 0
+#RES 0 7832 3223.8 0
+#RES 0 8910 28318.6 0
+#RES 0 8999 72819.25 0
+
+
+
+
+
+
+#VER A 1 20080401 "Inbetalning, aktiekapital" 
+{
+#TRANS 1940 {} 100000 "" "" 0
+#TRANS 2081 {} -100000 "" "" 0
+}
+#VER A 2 20080630 "PreliminÑr skatt" 
+{
+#TRANS 1630 {} 1748 "" "" 0
+#TRANS 1940 {} -1748 "" "" 0
+}
+#VER A 3 20080707 "PreliminÑr skatt" 
+{
+#TRANS 1630 {} 1748 "" "" 0
+#TRANS 1940 {} -1748 "" "" 0
+}
+#VER A 4 20080707 "PreliminÑr skatt" 
+{
+#TRANS 1630 {} 8740 "" "" 0
+#TRANS 1940 {} -8740 "" "" 0
+}
+#VER A 5 20080707 "Fortnox" 
+{
+#TRANS 6540 {} 259 "" "" 0
+#TRANS 1940 {} -259 "" "" 0
+}
+#VER A 6 20080604 "PreliminÑr skatt" 
+{
+#TRANS 1630 {} 1748 "" "" 0
+#TRANS 1940 {} -1748 "" "" 0
+}
+#VER A 7 20080707 "éndringsverifikation A5" 
+{
+#TRANS 1940 {} 259 "" "" 0
+#TRANS 6540 {} -259 "" "" 0
+}
+#VER A 8 20080707 "Inbetalning till skattekonto" 
+{
+#TRANS 1940 {} 111 "" "" 0
+#TRANS 1630 {} -111 "" "" 0
+}
+#VER A 9 20081103 "Inbetalning till skattekonto" 
+{
+#TRANS 1940 {} -2782 "" "" 0
+#TRANS 1630 {} 2782 "" "" 0
+}
+#VER A 10 20081103 "bank avgift" 
+{
+#TRANS 1940 {} -1400 "" "" 0
+#TRANS 6570 {} 1400 "" "" 0
+}
+#VER A 11 20081231 "Momsrapport 2008-10-01 - 2008-12-31" 
+{
+#TRANS 2611 {} 14687.5 "" "" 0
+#TRANS 2641 {} -3032.01 "" "" 0
+#TRANS 2650 {} -11656 "" "" 0
+#TRANS 3740 {} 0.51 "" "" 0
+}
+#VER A 12 20090127 "Inbetalning till skattekonto" 
+{
+#TRANS 1940 {} -13652 "" "" 0
+#TRANS 1630 {} 13652 "" "" 0
+}
+#VER A 13 20081001 "Momsrapport 2008-04-01 - 2008-10-01" 
+{
+#TRANS 2611 {} 3250 "" "" 0
+#TRANS 2641 {} -579.5 "" "" 0
+#TRANS 2650 {} -2670 "" "" 0
+#TRANS 3740 {} -0.5 "" "" 0
+}
+#VER A 14 20090127 "Inbetalning till skattekonto" 
+{
+#TRANS 1630 {} 13980 "" "" 0
+#TRANS 1940 {} -13980 "" "" 0
+}
+#VER A 15 20090127 "moms avrÑkning" 
+{
+#TRANS 2650 {} 16322 "" "" 0
+#TRANS 1630 {} -16322 "" "" 0
+}
+#VER A 16 20090331 "Momsrapport 2009-01-01 - 2009-03-31" 
+{
+#TRANS 2611 {} 6625 "" "" 0
+#TRANS 2641 {} -349.94 "" "" 0
+#TRANS 2650 {} -6275 "" "" 0
+#TRANS 3740 {} -0.06 "" "" 0
+}
+#VER A 17 20090427 "moms avrÑkning" 
+{
+#TRANS 2650 {} 6275 "" "" 0
+#TRANS 1630 {} -6275 "" "" 0
+}
+#VER A 18 20090427 "Inbetalning till skattekonto" 
+{
+#TRANS 1630 {} 6275 "" "" 0
+#TRANS 1940 {} -6275 "" "" 0
+}
+#VER A 19 20090430 "Avskrivning" 
+{
+#TRANS 1229 {} -3223.8 "" "" 0
+#TRANS 7832 {} 3223.8 "" "" 0
+}
+#VER A 20 20081231 "Bolagsskatt" 
+{
+#TRANS 8910 {} 28318.6 "" "" 0
+#TRANS 1630 {} -28318.6 "" "" 0
+}
+#VER A 21 20081231 "èrets resultat" 
+{
+#TRANS 8999 {} 72819.25 "" "" 0
+#TRANS 2099 {} -72819.25 "" "" 0
+}
+#VER B 1 20080708 "Kundfakt Bjîrn CanbÑck Bioinformatik (1)" 
+{
+#TRANS 3011 {} -10000 "" "" 0
+#TRANS 2611 {} -2500 "" "" 0
+#TRANS 1511 {} 12500 "" "" 0
+}
+#VER B 2 20080811 "Kundfakt Bengt Widegren (2)" 
+{
+#TRANS 3011 {} -3000 "" "" 0
+#TRANS 2611 {} -750 "" "" 0
+#TRANS 1511 {} 3750 "" "" 0
+}
+#VER B 3 20081103 "Kundfakt Stefan Jovinge (3)" 
+{
+#TRANS 3011 {} -8000 "" "" 0
+#TRANS 2611 {} -2000 "" "" 0
+#TRANS 1511 {} 10000 "" "" 0
+}
+#VER B 4 20081103 "Kundfakt Bjîrn èkesson (4)" 
+{
+#TRANS 3011 {} -8000 "" "" 0
+#TRANS 2611 {} -2000 "" "" 0
+#TRANS 1511 {} 10000 "" "" 0
+}
+#VER B 5 20081110 "Kundfakt Lars-Olaf Cardell/Ann Reutherborg (5)" 
+{
+#TRANS 3011 {} -6250 "" "" 0
+#TRANS 2611 {} -1562.5 "" "" 0
+#TRANS 3740 {} -0.5 "" "" 0
+#TRANS 1511 {} 7813 "" "" 0
+}
+#VER B 6 20081208 "Kundfakt Staffan Bensch (6)" 
+{
+#TRANS 3011 {} -26250 "" "" 0
+#TRANS 2611 {} -6562.5 "" "" 0
+#TRANS 3740 {} -0.5 "" "" 0
+#TRANS 1511 {} 32813 "" "" 0
+}
+#VER B 7 20081208 "Kundfakt Lars-Olaf Cardell/Ann Reutherborg (7)" 
+{
+#TRANS 3011 {} -10250 "" "" 0
+#TRANS 2611 {} -2562.5 "" "" 0
+#TRANS 3740 {} -0.5 "" "" 0
+#TRANS 1511 {} 12813 "" "" 0
+}
+#VER B 8 20090206 "Kundfakt Bjîrn èkesson (9)" 
+{
+#TRANS 3011 {} -11000 "" "" 0
+#TRANS 2611 {} -2750 "" "" 0
+#TRANS 1511 {} 13750 "" "" 0
+}
+#VER B 9 20090222 "Kundfakt Eva Maria Fenyî (10)" 
+{
+#TRANS 3011 {} -4000 "" "" 0
+#TRANS 2611 {} -1000 "" "" 0
+#TRANS 1511 {} 5000 "" "" 0
+}
+#VER B 10 20090330 "Kundfakt Lars-Olaf Cardell/Ann Reutherborg (11)" 
+{
+#TRANS 3011 {} -11500 "" "" 0
+#TRANS 2611 {} -2875 "" "" 0
+#TRANS 1511 {} 14375 "" "" 0
+}
+#VER B 11 20090403 "Kundfakt Staffan Bensch (12)" 
+{
+#TRANS 3011 {} -17000 "" "" 0
+#TRANS 2611 {} -4250 "" "" 0
+#TRANS 1511 {} 21250 "" "" 0
+}
+#VER B 12 20090416 "Kundfakt Staffan Bensch (13)" 
+{
+#TRANS 3011 {} -3000 "" "" 0
+#TRANS 2611 {} -750 "" "" 0
+#TRANS 1511 {} 3750 "" "" 0
+}
+#VER C 1 20080728 "Kundbet Bjîrn CanbÑck Bioinformatik (1)" 
+{
+#TRANS 1940 {} 12500 "" "" 0
+#TRANS 1511 {} -12500 "" "" 0
+}
+#VER C 2 20081204 "Kundbet Bengt Widegren (2)" 
+{
+#TRANS 1511 {} -3750 "" "" 0
+#TRANS 1940 {} 3750 "" "" 0
+}
+#VER C 3 20081202 "Kundbet Bjîrn èkesson (4)" 
+{
+#TRANS 1511 {} -10000 "" "" 0
+#TRANS 1940 {} 10000 "" "" 0
+}
+#VER C 4 20081210 "Kundbet Lars-Olaf Cardell/Ann Reutherborg (5)" 
+{
+#TRANS 1511 {} -7813 "" "" 0
+#TRANS 1940 {} 7813 "" "" 0
+}
+#VER C 5 20081211 "Kundbet Stefan Jovinge (3)" 
+{
+#TRANS 1511 {} -10000 "" "" 0
+#TRANS 1940 {} 10000 "" "" 0
+}
+#VER C 6 20081230 "Kundbet Staffan Bensch (6)" 
+{
+#TRANS 1511 {} -32813 "" "" 0
+#TRANS 1940 {} 32813 "" "" 0
+}
+#VER C 7 20090115 "Kundbet Lars-Olaf Cardell/Ann Reutherborg (7)" 
+{
+#TRANS 1511 {} -12813 "" "" 0
+#TRANS 1940 {} 12813 "" "" 0
+}
+#VER C 8 20090307 "Kundbet Bjîrn èkesson (9)" 
+{
+#TRANS 1940 {} 13750 "" "" 0
+#TRANS 1511 {} -13750 "" "" 0
+}
+#VER C 9 20090331 "Kundbet Eva Maria Fenyî (10)" 
+{
+#TRANS 1940 {} 5000 "" "" 0
+#TRANS 1511 {} -5000 "" "" 0
+}
+#VER C 10 20090429 "Kundbet Lars-Olaf Cardell/Ann Reutherborg (11)" 
+{
+#TRANS 1940 {} 14375 "" "" 0
+#TRANS 1511 {} -14375 "" "" 0
+}
+#VER D 1 20080618 "Levfakt FSD Internet TjÑnster AB (1)" 
+{
+#TRANS 2441 {} -559 "" "" 0
+#TRANS 2641 {} 111.75 "" "" 0
+#TRANS 6540 {} 447.25 "" "" 0
+}
+#VER D 2 20080618 "Levfakt Fortnox (2)" 
+{
+#TRANS 2441 {} -259 "" "" 0
+#TRANS 2641 {} 52 "" "" 0
+#TRANS 6540 {} 207 "" "" 0
+}
+#VER D 3 20080710 "Levfakt Fortnox (3)" 
+{
+#TRANS 2441 {} -518 "" "" 0
+#TRANS 2641 {} 104 "" "" 0
+#TRANS 6540 {} 414 "" "" 0
+}
+#VER D 4 20080919 "Levfakt Fortnox (4)" 
+{
+#TRANS 2441 {} -1001 "" "" 0
+#TRANS 2641 {} 200 "" "" 0
+#TRANS 6540 {} 801 "" "" 0
+}
+#VER D 5 20080916 "Levfakt FSD Internet TjÑnster AB (5)" 
+{
+#TRANS 2441 {} -559 "" "" 0
+#TRANS 2641 {} 111.75 "" "" 0
+#TRANS 6540 {} 447.25 "" "" 0
+}
+#VER D 6 20081218 "Kontorsmateriel, Ann-Sofie" 
+{
+#TRANS 2018 {} -468 "" "" 0
+#TRANS 2641 {} 93.6 "" "" 0
+#TRANS 6110 {} 374.4 "" "" 0
+}
+#VER D 7 20081215 "Levfakt Fortnox (7)" 
+{
+#TRANS 2441 {} -1001 "" "" 0
+#TRANS 2641 {} 200 "" "" 0
+#TRANS 6540 {} 801 "" "" 0
+}
+#VER D 8 20081214 "Julbord, kaffe, frukt" 
+{
+#TRANS 2441 {} -4924.12 "" "" 0
+#TRANS 2641 {} 614.41 "" "" 0
+#TRANS 7699 {} 4309.71 "" "" 0
+}
+#VER D 9 20081218 "Levfakt Bokus (9)" 
+{
+#TRANS 2441 {} -278 "" "" 0
+#TRANS 2641 {} 16 "" "" 0
+#TRANS 6970 {} 262 "" "" 0
+}
+#VER D 10 20081205 "Levfakt FSD Internet TjÑnster AB (10)" 
+{
+#TRANS 2441 {} -559 "" "" 0
+#TRANS 2641 {} 112 "" "" 0
+#TRANS 6230 {} 447 "" "" 0
+}
+#VER D 11 20081205 "Levfakt Datafant AB (11)" 
+{
+#TRANS 2441 {} -9731 "" "" 0
+#TRANS 2641 {} 1946 "" "" 0
+#TRANS 1250 {} 7785 "" "" 0
+}
+#VER D 12 20081205 "Levfakt 3 - telefon (12)" 
+{
+#TRANS 2441 {} -248 "" "" 0
+#TRANS 2641 {} 50 "" "" 0
+#TRANS 6212 {} 198 "" "" 0
+}
+#VER D 13 20090223 "Levfakt 3 - telefon (13)" 
+{
+#TRANS 2441 {} -230 "" "" 0
+#TRANS 2641 {} 45.92 "" "" 0
+#TRANS 6212 {} 184.08 "" "" 0
+}
+#VER D 14 20090313 "Levfakt Fortnox (14)" 
+{
+#TRANS 2441 {} -1001 "" "" 0
+#TRANS 2641 {} 200 "" "" 0
+#TRANS 6540 {} 801 "" "" 0
+}
+#VER D 15 20090325 "Levfakt Bokus (15)" 
+{
+#TRANS 2441 {} -781 "" "" 0
+#TRANS 2641 {} 44.21 "" "" 0
+#TRANS 6970 {} 736.79 "" "" 0
+}
+#VER D 16 20090317 "Levfakt 3 - telefon (16)" 
+{
+#TRANS 2441 {} -299 "" "" 0
+#TRANS 2641 {} 59.81 "" "" 0
+#TRANS 6212 {} 239.23 "" "" 0
+#TRANS 3740 {} -0.04 "" "" 0
+}
+#VER D 17 20090403 "Levfakt Bokus (17)" 
+{
+#TRANS 2441 {} -635 "" "" 0
+#TRANS 2641 {} 35.95 "" "" 0
+#TRANS 6970 {} 599.05 "" "" 0
+}
+#VER D 18 20090408 "Levfakt Datafant AB (18)" 
+{
+#TRANS 2441 {} -10418 "" "" 0
+#TRANS 2641 {} 2084 "" "" 0
+#TRANS 1250 {} 8334 "" "" 0
+}
+#VER D 19 20090408 "Levfakt supermarket (19)" 
+{
+#TRANS 2441 {} -825 "" "" 0
+#TRANS 2641 {} 165 "" "" 0
+#TRANS 6110 {} 660 "" "" 0
+}
+#VER D 20 20090408 "Levfakt resor (20)" 
+{
+#TRANS 2441 {} -597 "" "" 0
+#TRANS 2641 {} 35.82 "" "" 0
+#TRANS 5800 {} 561.18 "" "" 0
+}
+#VER E 1 20080707 "Levbet FSD Internet TjÑnster AB (1)" 
+{
+#TRANS 1940 {} -559 "" "" 0
+#TRANS 2441 {} 559 "" "" 0
+}
+#VER E 2 20080618 "Levbet Fortnox (2)" 
+{
+#TRANS 1940 {} -259 "" "" 0
+#TRANS 2441 {} 259 "" "" 0
+}
+#VER E 3 20080721 "Levbet Fortnox (3)" 
+{
+#TRANS 2441 {} 518 "" "" 0
+#TRANS 1940 {} -518 "" "" 0
+}
+#VER E 4 20080928 "Levbet Fortnox (4)" 
+{
+#TRANS 2441 {} 1001 "" "" 0
+#TRANS 1940 {} -1001 "" "" 0
+}
+#VER E 5 20081016 "Levbet FSD Internet TjÑnster AB (5)" 
+{
+#TRANS 1940 {} -559 "" "" 0
+#TRANS 2441 {} 559 "" "" 0
+}
+#VER E 6 20081218 "ôverfîrsel til Ann-Sofie" 
+{
+#TRANS 2018 {} 468 "" "" 0
+#TRANS 1940 {} -468 "" "" 0
+}
+#VER E 7 20081218 "Levbet Fortnox (7)" 
+{
+#TRANS 1940 {} -1001 "" "" 0
+#TRANS 2441 {} 1001 "" "" 0
+}
+#VER E 8 20081218 "Levbet supermarket (8)" 
+{
+#TRANS 1940 {} -4924.12 "" "" 0
+#TRANS 2441 {} 4924.12 "" "" 0
+}
+#VER E 9 20090101 "Levbet Bokus (9)" 
+{
+#TRANS 1940 {} -278 "" "" 0
+#TRANS 2441 {} 278 "" "" 0
+}
+#VER E 10 20090104 "Levbet FSD Internet TjÑnster AB (10)" 
+{
+#TRANS 1940 {} -559 "" "" 0
+#TRANS 2441 {} 559 "" "" 0
+}
+#VER E 11 20090206 "Levbet Datafant AB (11)" 
+{
+#TRANS 2441 {} 9731 "" "" 0
+#TRANS 1940 {} -9731 "" "" 0
+}
+#VER E 12 20090209 "Levbet 3 - telefon (12)" 
+{
+#TRANS 2441 {} 248 "" "" 0
+#TRANS 1940 {} -248 "" "" 0
+}
+#VER E 13 20090223 "Levbet 3 - telefon (13)" 
+{
+#TRANS 2441 {} 230 "" "" 0
+#TRANS 1940 {} -230 "" "" 0
+}
+#VER E 14 20090328 "Levbet Fortnox (14)" 
+{
+#TRANS 1940 {} -1001 "" "" 0
+#TRANS 2441 {} 1001 "" "" 0
+}
+#VER E 15 20090328 "Levbet Bokus (15)" 
+{
+#TRANS 1940 {} -781 "" "" 0
+#TRANS 2441 {} 781 "" "" 0
+}
+#VER E 16 20090417 "Levbet 3 - telefon (16)" 
+{
+#TRANS 1940 {} -299 "" "" 0
+#TRANS 2441 {} 299 "" "" 0
+}
+#VER E 17 20090427 "Levbet Bokus (17)" 
+{
+#TRANS 1940 {} -635 "" "" 0
+#TRANS 2441 {} 635 "" "" 0
+}
+#VER E 18 20090427 "Levbet Datafant AB (18)" 
+{
+#TRANS 1940 {} -10418 "" "" 0
+#TRANS 2441 {} 10418 "" "" 0
+}
+#VER E 19 20090416 "Levbet supermarket (19)" 
+{
+#TRANS 2441 {} 825 "" "" 0
+#TRANS 1940 {} -825 "" "" 0
+}
+#VER E 20 20090418 "Levbet resor (20)" 
+{
+#TRANS 2441 {} 597 "" "" 0
+#TRANS 1940 {} -597 "" "" 0
+}
