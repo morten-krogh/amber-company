@@ -50,6 +50,7 @@ def read_sie(path):
         assert movements[account] == result.get(account, ZERO), account
     metadata['latest_voucher'] = f'{vouchers[-1][0]}{vouchers[-1][1]}'
     metadata['sha256'] = hashlib.sha256(data).hexdigest()
+    metadata['source_file'] = path.name
     metadata['generated'] = datetime.now().astimezone().isoformat(timespec='seconds')
     return accounts, opening, closing, metadata
 
@@ -115,7 +116,7 @@ def write_xlsx(report, path):
 
     titles = ['Balansrapport', meta['FNAMN'] + ' · ' + meta['ORGNR'],
               f'Räkenskapsår: {meta["start"]}–{meta["end"]} · Senaste verifikation: {meta["latest_voucher"]}',
-              'Källa: sie4-export.se · Genererad: ' + meta['generated']]
+              'Källa: ' + meta['source_file'] + ' · Genererad: ' + meta['generated']]
     for n, title in enumerate(titles, 1):
         cellrows.append(f'<row r="{n}" ht="22" customHeight="1">{cell("A"+str(n), title, 1 if n == 1 else 0)}</row>')
         merge.append(f'<mergeCell ref="A{n}:E{n}"/>')

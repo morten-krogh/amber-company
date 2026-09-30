@@ -1067,6 +1067,12 @@
       "closing_equity_and_liabilities": "1482546.51",
       "inherited_balance_difference": "-0.34",
       "verification": "All 114 Excel numeric cells match report values; all cached formula results verified; PDF text and rendered layout inspected."
+    },
+    {
+      "description": "Rename corrected working file to distinguish it from original Bokio export.",
+      "before": "sie4-export.se",
+      "after": "sie4-2025.se",
+      "contents_changed": false
     }
   ],
   "validation": {
@@ -1096,5 +1102,6 @@
     "Tax calculation assumes no unused tax losses and deductible computer depreciation; verify against prior declarations if obtained.",
     "Inherited opening SIE imbalance of -0.34 SEK persists at closing; explicitly shown in regenerated reports; investigate source opening balances before correcting."
   ],
-  "last_updated": "2026-09-30T18:58:01.714164"
+  "last_updated": "2026-09-30T20:43:08.931843",
+  "working_file": "sie4-2025.se"
 }

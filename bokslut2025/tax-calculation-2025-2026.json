@@ -43,5 +43,6 @@
     "https://www.skatteverket.se/foretag/drivaforetag/foretagsformer/aktiebolag.4.5c13cb6b1198121ee8580002546.html",
     "https://www4.skatteverket.se/rattsligvagledning/27071.html"
   ],
-  "note": "Recorded current tax expense, not a forecast of cash payable after settlement or a filed tax declaration."
+  "note": "Recorded current tax expense, not a forecast of cash payable after settlement or a filed tax declaration.",
+  "source_file": "sie4-2025.se"
 }

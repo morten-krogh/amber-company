@@ -12,6 +12,7 @@ struct Metadata: Decodable {
     let latest_voucher: String
     let generated: String
     let sha256: String
+    let source_file: String
 }
 struct Row: Decodable {
     let kind: String
@@ -68,7 +69,7 @@ func beginPage() {
     text("Balansrapport", x: 24, top: 22, width: 450, height: 25, size: 18, bold: true)
     text(report.metadata.FNAMN + " · " + report.metadata.ORGNR, x: 24, top: 51, width: 540, size: 10)
     text("Räkenskapsår: \(report.metadata.start)–\(report.metadata.end) · Senaste verifikation: \(report.metadata.latest_voucher)", x: 24, top: 69, width: 550)
-    text("Källa: sie4-export.se · Genererad: \(report.metadata.generated.prefix(10)) · Belopp i SEK", x: 24, top: 84, width: 550)
+    text("Källa: \(report.metadata.source_file) · Genererad: \(report.metadata.generated.prefix(10)) · Belopp i SEK", x: 24, top: 84, width: 550)
     y = 108
     let headings = ["Konto", "Kontonamn", "Ingående balans", "Period", "Utgående balans"]
     for i in 0..<5 { text(headings[i], x: columns[i], top: y, width: widths[i], size: 7.4, bold: true, right: i >= 2) }
