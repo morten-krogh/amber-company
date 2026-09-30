@@ -1,0 +1,307 @@
+{
+  "timestamp": "2026-09-30T20:53:17.307708+02:00",
+  "working_file": "sie4-2026.se",
+  "backup": "sie4-export.backup-20260930-204100.se",
+  "sha256_before": "0a768066a68a373b2c20c4af0a70049bbde64cb47cfb85590c98aa7e65d04665",
+  "sha256_after": "4612fbcde06e6fac27e993a7f55f15159f3eb7ed64f0caf6b8097c2a0cf063e2",
+  "carryforward_source": "bokslut2025/sie4-2025.se",
+  "carryforward_source_sha256": "909030fef732f09e45d11f62bce36aa5e0f4b0c045a225a30f64a87c5bef38bc",
+  "description": "Synchronize current-year opening and prior-year comparative balances/results with corrected 2025 SIE; recalculate current-year closing balances; preserve all current-year voucher bytes.",
+  "added_account_definitions": [
+    {
+      "account": "2136",
+      "name": "Periodiseringsfond 2026 - nr 2 (2025-05-01 till 2026-04-30)",
+      "sru": "7321"
+    }
+  ],
+  "changes": [
+    {
+      "record": "#IB",
+      "year": 0,
+      "account": "1259",
+      "before": "-168598.84",
+      "after": "-184438.05"
+    },
+    {
+      "record": "#IB",
+      "year": 0,
+      "account": "1510",
+      "before": "147824.67",
+      "after": "147825.00"
+    },
+    {
+      "record": "#IB",
+      "year": 0,
+      "account": "1630",
+      "before": "96679.11",
+      "after": "96679.00"
+    },
+    {
+      "record": "#IB",
+      "year": 0,
+      "account": "1930",
+      "before": "97270.07",
+      "after": "97270.17"
+    },
+    {
+      "record": "#IB",
+      "year": 0,
+      "account": "2099",
+      "before": "-204129.24",
+      "after": "-169584.46"
+    },
+    {
+      "record": "#IB",
+      "year": 0,
+      "account": "2129",
+      "before": "-71540.00",
+      "after": "0.00"
+    },
+    {
+      "record": "#IB",
+      "year": 0,
+      "account": "2136",
+      "before": null,
+      "after": "-73575.00"
+    },
+    {
+      "record": "#IB",
+      "year": 0,
+      "account": "2512",
+      "before": "-29996.00",
+      "after": "-45468.00"
+    },
+    {
+      "record": "#IB",
+      "year": 0,
+      "account": "2518",
+      "before": "1932.00",
+      "after": "733.11"
+    },
+    {
+      "record": "#UB",
+      "year": -1,
+      "account": "1259",
+      "before": "-168598.84",
+      "after": "-184438.05"
+    },
+    {
+      "record": "#UB",
+      "year": 0,
+      "account": "1259",
+      "before": "-168598.84",
+      "after": "-184438.05"
+    },
+    {
+      "record": "#UB",
+      "year": -1,
+      "account": "1510",
+      "before": "147824.67",
+      "after": "147825.00"
+    },
+    {
+      "record": "#UB",
+      "year": 0,
+      "account": "1510",
+      "before": "-0.33",
+      "after": "0.00"
+    },
+    {
+      "record": "#UB",
+      "year": -1,
+      "account": "1630",
+      "before": "96679.11",
+      "after": "96679.00"
+    },
+    {
+      "record": "#UB",
+      "year": 0,
+      "account": "1630",
+      "before": "14553.11",
+      "after": "14553.00"
+    },
+    {
+      "record": "#UB",
+      "year": -1,
+      "account": "1930",
+      "before": "97270.07",
+      "after": "97270.17"
+    },
+    {
+      "record": "#UB",
+      "year": 0,
+      "account": "1930",
+      "before": "205095.07",
+      "after": "205095.17"
+    },
+    {
+      "record": "#UB",
+      "year": -1,
+      "account": "2099",
+      "before": "-204129.24",
+      "after": "-169584.46"
+    },
+    {
+      "record": "#UB",
+      "year": 0,
+      "account": "2099",
+      "before": "-204129.24",
+      "after": "-169584.46"
+    },
+    {
+      "record": "#UB",
+      "year": -1,
+      "account": "2129",
+      "before": "-71540.00",
+      "after": "0.00"
+    },
+    {
+      "record": "#UB",
+      "year": 0,
+      "account": "2129",
+      "before": "-71540.00",
+      "after": "0.00"
+    },
+    {
+      "record": "#UB",
+      "year": -1,
+      "account": "2136",
+      "before": null,
+      "after": "-73575.00"
+    },
+    {
+      "record": "#UB",
+      "year": 0,
+      "account": "2136",
+      "before": null,
+      "after": "-73575.00"
+    },
+    {
+      "record": "#UB",
+      "year": -1,
+      "account": "2512",
+      "before": "-29996.00",
+      "after": "-45468.00"
+    },
+    {
+      "record": "#UB",
+      "year": 0,
+      "account": "2512",
+      "before": "-29996.00",
+      "after": "-45468.00"
+    },
+    {
+      "record": "#UB",
+      "year": -1,
+      "account": "2518",
+      "before": "1932.00",
+      "after": "733.11"
+    },
+    {
+      "record": "#UB",
+      "year": 0,
+      "account": "2518",
+      "before": "1932.00",
+      "after": "733.11"
+    },
+    {
+      "record": "#RES",
+      "year": -1,
+      "account": "3740",
+      "before": "-0.40",
+      "after": "-1.83"
+    },
+    {
+      "record": "#RES",
+      "year": -1,
+      "account": "5010",
+      "before": "76000.00",
+      "after": "84000.00"
+    },
+    {
+      "record": "#RES",
+      "year": -1,
+      "account": "6540",
+      "before": "9400.00",
+      "after": "0.00"
+    },
+    {
+      "record": "#RES",
+      "year": -1,
+      "account": "6570",
+      "before": null,
+      "after": "1400.00"
+    },
+    {
+      "record": "#RES",
+      "year": -1,
+      "account": "7832",
+      "before": null,
+      "after": "15839.21"
+    },
+    {
+      "record": "#RES",
+      "year": -1,
+      "account": "8314",
+      "before": null,
+      "after": "-226.00"
+    },
+    {
+      "record": "#RES",
+      "year": -1,
+      "account": "8811",
+      "before": null,
+      "after": "73575.00"
+    },
+    {
+      "record": "#RES",
+      "year": -1,
+      "account": "8819",
+      "before": null,
+      "after": "-71540.00"
+    },
+    {
+      "record": "#RES",
+      "year": -1,
+      "account": "8910",
+      "before": "28570.00",
+      "after": "45468.00"
+    },
+    {
+      "record": "#RES",
+      "year": -1,
+      "account": "8999",
+      "before": "204129.00",
+      "after": "169584.22"
+    }
+  ],
+  "validation": {
+    "current_vouchers": 13,
+    "current_transaction_lines": 26,
+    "all_vouchers_balance": true,
+    "current_vouchers_preserved_byte_for_byte": true,
+    "opening_matches_2025_closing": true,
+    "prior_year_figures_match_2025": true,
+    "current_closing_balances_reconcile": true,
+    "current_result_totals_reconcile": true,
+    "encoding": "CP437",
+    "line_endings": "CRLF"
+  },
+  "current_balances": {
+    "1259": "-184438.05",
+    "1510": "0.00",
+    "1630": "14553.00",
+    "1930": "205095.17",
+    "2099": "-169584.46",
+    "2129": "0.00",
+    "2136": "-73575.00",
+    "2512": "-45468.00",
+    "2518": "733.11"
+  },
+  "pending": [
+    "Inherited opening balance discrepancy of -0.34 SEK carried forward consistently from 2025.",
+    "733.11 SEK on 2518 remains provisionally classified, as documented in 2025.",
+    "Account 2099 contains prior-year profit including historical 0.24 SEK residual; transfer of prior-year profit and future dividend decisions have not been recorded.",
+    "Current-year completeness has not been checked against bank or tax-account statements."
+  ]
+}
