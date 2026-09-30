@@ -1,0 +1,1652 @@
+{
+  "prepared": "2026-09-30T21:53:21.780503+02:00",
+  "report": "redovisning.xhtml",
+  "backup": "redovisning.backup-20260930-210843.xhtml",
+  "source": "sie4-2025.se",
+  "source_sha256": "909030fef732f09e45d11f62bce36aa5e0f4b0c045a225a30f64a87c5bef38bc",
+  "status": "draft_pending_business_details_and_historical_reconciliation",
+  "years": {
+    "current": "2025-05-01 to 2026-04-30",
+    "comparative": "2024-05-01 to 2025-04-30"
+  },
+  "exact_current_profit_and_loss": {
+    "Nettoomsattning": "328507.83",
+    "OvrigaRorelseintakter": "0",
+    "RorelseintakterLagerforandringarMm": "328507.83",
+    "RavarorFornodenheterKostnader": "0",
+    "HandelsvarorKostnader": "0",
+    "OvrigaExternaKostnader": "95807.40",
+    "Personalkostnader": "0",
+    "AvskrivningarNedskrivningarMateriellaImmateriellaAnlaggningstillgangar": "15839.21",
+    "OvrigaRorelsekostnader": "0",
+    "Rorelsekostnader": "111646.61",
+    "Rorelseresultat": "216861.22",
+    "ResultatOvrigaFinansiellaAnlaggningstillgangar": "0",
+    "OvrigaRanteintakterLiknandeResultatposter": "226.00",
+    "RantekostnaderLiknandeResultatposter": "0",
+    "FinansiellaPoster": "226.00",
+    "ResultatEfterFinansiellaPoster": "217087.22",
+    "ForandringPeriodiseringsfond": "-2035.00",
+    "ForandringOveravskrivningar": "0",
+    "Bokslutsdispositioner": "-2035.00",
+    "ResultatForeSkatt": "215052.22",
+    "SkattAretsResultat": "45468.00",
+    "AretsResultat": "169584.22",
+    "ForandringLagerProdukterIArbeteFardigaVarorPagaendeArbetenAnnansRakning": "0"
+  },
+  "exact_comparative_profit_and_loss": {
+    "Nettoomsattning": "85097.80",
+    "OvrigaRorelseintakter": "0",
+    "RorelseintakterLagerforandringarMm": "85097.80",
+    "RavarorFornodenheterKostnader": "0",
+    "HandelsvarorKostnader": "0",
+    "OvrigaExternaKostnader": "88171.56",
+    "Personalkostnader": "0",
+    "AvskrivningarNedskrivningarMateriellaImmateriellaAnlaggningstillgangar": "0",
+    "OvrigaRorelsekostnader": "0",
+    "Rorelsekostnader": "88171.56",
+    "Rorelseresultat": "-3073.76",
+    "ResultatOvrigaFinansiellaAnlaggningstillgangar": "0",
+    "OvrigaRanteintakterLiknandeResultatposter": "0",
+    "RantekostnaderLiknandeResultatposter": "0",
+    "FinansiellaPoster": "0",
+    "ResultatEfterFinansiellaPoster": "-3073.76",
+    "ForandringPeriodiseringsfond": "10000.00",
+    "ForandringOveravskrivningar": "0",
+    "Bokslutsdispositioner": "10000.00",
+    "ResultatForeSkatt": "6926.24",
+    "SkattAretsResultat": "1426.00",
+    "AretsResultat": "5500.24",
+    "ForandringLagerProdukterIArbeteFardigaVarorPagaendeArbetenAnnansRakning": "0"
+  },
+  "exact_current_balance": {
+    "ByggnaderMark": "0",
+    "MaskinerAndraTekniskaAnlaggningar": "0",
+    "InventarierVerktygInstallationer": "0.00",
+    "MateriellaAnlaggningstillgangar": "0.00",
+    "AndraLangfristigaVardepappersinnehav": "1140772.00",
+    "FinansiellaAnlaggningstillgangar": "1140772.00",
+    "Anlaggningstillgangar": "1140772.00",
+    "LagerRavarorFornodenheter": "0",
+    "LagerVarorUnderTillverkning": "0",
+    "LagerFardigaVarorHandelsvaror": "0",
+    "VarulagerMm": "0",
+    "Kundfordringar": "147825.00",
+    "OvrigaFordringarKortfristiga": "97978.00",
+    "ForutbetaldaKostnaderUpplupnaIntakter": "0",
+    "KortfristigaFordringar": "245803.00",
+    "KassaBankExklRedovisningsmedel": "97270.17",
+    "KassaBank": "97270.17",
+    "Omsattningstillgangar": "343073.17",
+    "Tillgangar": "1483845.17",
+    "Aktiekapital": "100000.00",
+    "Reservfond": "0",
+    "BundetEgetKapital": "100000.00",
+    "BalanseratResultat": "111671.16",
+    "AretsResultatEgetKapital": "169584.46",
+    "FrittEgetKapital": "281255.62",
+    "EgetKapital": "381255.62",
+    "ForandringEgetKapitalTotalt": "381255.62",
+    "MedelDisponera": "281255.62",
+    "Periodiseringsfonder": "96664.00",
+    "AckumuleradeOveravskrivningar": "0",
+    "ObeskattadeReserver": "96664.00",
+    "AvsattningarPensionerLiknandeForpliktelserEnligtLag": "0",
+    "OvrigaAvsattningar": "0",
+    "Avsattningar": "0",
+    "OvrigaLangfristigaSkulderKreditinstitut": "0",
+    "OvrigaLangfristigaSkulder": "879065.00",
+    "LangfristigaSkulder": "879065.00",
+    "Leverantorsskulder": "0.00",
+    "Skatteskulder": "44734.89",
+    "OvrigaKortfristigaSkulder": "82126.00",
+    "UpplupnaKostnaderForutbetaldaIntakter": "0",
+    "KortfristigaSkulder": "126860.89",
+    "EgetKapitalSkulder": "1483845.51"
+  },
+  "exact_comparative_balance": {
+    "ByggnaderMark": "0",
+    "MaskinerAndraTekniskaAnlaggningar": "0",
+    "InventarierVerktygInstallationer": "15839.21",
+    "MateriellaAnlaggningstillgangar": "15839.21",
+    "AndraLangfristigaVardepappersinnehav": "930526.00",
+    "FinansiellaAnlaggningstillgangar": "930526.00",
+    "Anlaggningstillgangar": "946365.21",
+    "LagerRavarorFornodenheter": "0",
+    "LagerVarorUnderTillverkning": "0",
+    "LagerFardigaVarorHandelsvaror": "0",
+    "VarulagerMm": "0",
+    "Kundfordringar": "-0.33",
+    "OvrigaFordringarKortfristiga": "18090.11",
+    "ForutbetaldaKostnaderUpplupnaIntakter": "0",
+    "KortfristigaFordringar": "18089.78",
+    "KassaBankExklRedovisningsmedel": "222336.07",
+    "KassaBank": "222336.07",
+    "Omsattningstillgangar": "240425.85",
+    "Tillgangar": "1186791.06",
+    "Aktiekapital": "100000.00",
+    "Reservfond": "0",
+    "BundetEgetKapital": "100000.00",
+    "BalanseratResultat": "104745.16",
+    "AretsResultatEgetKapital": "6926.24",
+    "FrittEgetKapital": "111671.40",
+    "EgetKapital": "211671.40",
+    "ForandringEgetKapitalTotalt": "211671.40",
+    "MedelDisponera": "111671.40",
+    "Periodiseringsfonder": "94629.00",
+    "AckumuleradeOveravskrivningar": "0",
+    "ObeskattadeReserver": "94629.00",
+    "AvsattningarPensionerLiknandeForpliktelserEnligtLag": "0",
+    "OvrigaAvsattningar": "0",
+    "Avsattningar": "0",
+    "OvrigaLangfristigaSkulderKreditinstitut": "0",
+    "OvrigaLangfristigaSkulder": "879065.00",
+    "LangfristigaSkulder": "879065.00",
+    "Leverantorsskulder": "0.00",
+    "Skatteskulder": "1426.00",
+    "OvrigaKortfristigaSkulder": "0.00",
+    "UpplupnaKostnaderForutbetaldaIntakter": "0",
+    "KortfristigaSkulder": "1426.00",
+    "EgetKapitalSkulder": "1186791.40"
+  },
+  "classification_notes": [
+    "Computer balances 1250/1259 are InventarierVerktygInstallationer.",
+    "1350 shares and 1384 derivatives are combined as long-term securities; note discloses component amounts.",
+    "1630 tax-account cash balance and positive 2640 VAT balance are other current receivables, not bank cash.",
+    "2518 is offset against 2512 in current tax liabilities for presentation; historical 733.11 SEK remains unverified.",
+    "Prior-year costs previously shown under other operating costs are classified as external expenses from accounts 5xxx/6xxx."
+  ],
+  "pending": [
+    "Board statement on defensibility of proposed dividend of 50000 SEK.",
+    "AGM date and certification after the meeting. Signing date interpreted as 1 October 2026.",
+    "Confirm current signatories carried over from prior report.",
+    "Confirm remaining term of 879065 SEK long-term debt; five-year maturity disclosure left pending.",
+    "Opening and closing balance mismatch -0.34 SEK is inherited from SIE; rounded balance-sheet totals differ by 1 SEK.",
+    "Prior-year calculated profit after tax 5500.24 SEK differs from prior closing 2099 balance 6926.24 SEK by 1426.00 SEK. Prior-year #RES 8999 is 5501.00 SEK, which also differs from calculated profit. No historical ledger records changed.",
+    "Current closing 2099 includes historical 0.24 SEK residual beyond calculated current profit; rounded amounts both 169584 SEK.",
+    "Tax assumes no unused losses and deductible computer depreciation, as previously documented.",
+    "733.11 SEK provisional historical classification on 2518 remains unresolved."
+  ],
+  "validation": {
+    "well_formed_xml": true,
+    "context_references_resolve": true,
+    "all_context_dates_valid": true,
+    "numeric_sign_attributes_valid": true,
+    "updated_existing_numeric_facts": 208,
+    "overview_years": 4,
+    "external_taxonomy_validation_performed": false,
+    "technical_namespaces_and_schema_reference_preserved": true,
+    "source_hash_matches": true,
+    "numeric_facts_validated": 219,
+    "financial_facts_match_declared_precision": 153,
+    "duplicate_facts_consistent": true,
+    "dividend_proposal_sums_correctly": true
+  },
+  "updated_facts": [
+    {
+      "concept": "Nettoomsattning",
+      "context": "period0",
+      "scale": 3,
+      "exact": "328507.83",
+      "displayed": "329"
+    },
+    {
+      "concept": "Nettoomsattning",
+      "context": "period1",
+      "scale": 3,
+      "exact": "85097.80",
+      "displayed": "85"
+    },
+    {
+      "concept": "ResultatEfterFinansiellaPoster",
+      "context": "period0",
+      "scale": 3,
+      "exact": "217087.22",
+      "displayed": "217"
+    },
+    {
+      "concept": "ResultatEfterFinansiellaPoster",
+      "context": "period1",
+      "scale": 3,
+      "exact": "-3073.76",
+      "displayed": "-3"
+    },
+    {
+      "concept": "Soliditet",
+      "context": "balans0",
+      "scale": -2,
+      "exact": "30.86621470082353673058759897",
+      "displayed": "30,9"
+    },
+    {
+      "concept": "Soliditet",
+      "context": "balans1",
+      "scale": -2,
+      "exact": "24.16658126831525003230138926",
+      "displayed": "24,2"
+    },
+    {
+      "concept": "Aktiekapital",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "100000.00",
+      "displayed": "100 000"
+    },
+    {
+      "concept": "Reservfond",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "BalanseratResultat",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "104745.16",
+      "displayed": "104 745"
+    },
+    {
+      "concept": "AretsResultatEgetKapital",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "6926.24",
+      "displayed": "6 926"
+    },
+    {
+      "concept": "ForandringEgetKapitalTotalt",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "211671.40",
+      "displayed": "211 671"
+    },
+    {
+      "concept": "ForandringEgetKapitalAretsResultatUtdelning",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ForandringEgetKapitalTotaltUtdelning",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ForandringEgetKapitalAretsResultatAretsResultat",
+      "context": "period0",
+      "scale": 0,
+      "exact": "169584.22",
+      "displayed": "169 584"
+    },
+    {
+      "concept": "ForandringEgetKapitalTotaltAretsResultat",
+      "context": "period0",
+      "scale": 0,
+      "exact": "169584.22",
+      "displayed": "169 584"
+    },
+    {
+      "concept": "Aktiekapital",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "100000.00",
+      "displayed": "100 000"
+    },
+    {
+      "concept": "Reservfond",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "BalanseratResultat",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "111671.16",
+      "displayed": "111 671"
+    },
+    {
+      "concept": "AretsResultatEgetKapital",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "169584.46",
+      "displayed": "169 584"
+    },
+    {
+      "concept": "ForandringEgetKapitalTotalt",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "381255.62",
+      "displayed": "381 256"
+    },
+    {
+      "concept": "BalanseratResultat",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "111671.16",
+      "displayed": "111 671"
+    },
+    {
+      "concept": "AretsResultatEgetKapital",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "169584.46",
+      "displayed": "169 584"
+    },
+    {
+      "concept": "MedelDisponera",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "281255.62",
+      "displayed": "281 256"
+    },
+    {
+      "concept": "Nettoomsattning",
+      "context": "period0",
+      "scale": 0,
+      "exact": "328507.83",
+      "displayed": "328 508"
+    },
+    {
+      "concept": "Nettoomsattning",
+      "context": "period1",
+      "scale": 0,
+      "exact": "85097.80",
+      "displayed": "85 098"
+    },
+    {
+      "concept": "ForandringLagerProdukterIArbeteFardigaVarorPagaendeArbetenAnnansRakning",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ForandringLagerProdukterIArbeteFardigaVarorPagaendeArbetenAnnansRakning",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "OvrigaRorelseintakter",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "OvrigaRorelseintakter",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "RorelseintakterLagerforandringarMm",
+      "context": "period0",
+      "scale": 0,
+      "exact": "328507.83",
+      "displayed": "328 508"
+    },
+    {
+      "concept": "RorelseintakterLagerforandringarMm",
+      "context": "period1",
+      "scale": 0,
+      "exact": "85097.80",
+      "displayed": "85 098"
+    },
+    {
+      "concept": "RavarorFornodenheterKostnader",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "RavarorFornodenheterKostnader",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "HandelsvarorKostnader",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "HandelsvarorKostnader",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "OvrigaExternaKostnader",
+      "context": "period0",
+      "scale": 0,
+      "exact": "95807.40",
+      "displayed": "-95 807"
+    },
+    {
+      "concept": "OvrigaExternaKostnader",
+      "context": "period1",
+      "scale": 0,
+      "exact": "88171.56",
+      "displayed": "-88 172"
+    },
+    {
+      "concept": "Personalkostnader",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "Personalkostnader",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "AvskrivningarNedskrivningarMateriellaImmateriellaAnlaggningstillgangar",
+      "context": "period0",
+      "scale": 0,
+      "exact": "15839.21",
+      "displayed": "-15 839"
+    },
+    {
+      "concept": "AvskrivningarNedskrivningarMateriellaImmateriellaAnlaggningstillgangar",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "OvrigaRorelsekostnader",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "OvrigaRorelsekostnader",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "Rorelsekostnader",
+      "context": "period0",
+      "scale": 0,
+      "exact": "111646.61",
+      "displayed": "-111 647"
+    },
+    {
+      "concept": "Rorelsekostnader",
+      "context": "period1",
+      "scale": 0,
+      "exact": "88171.56",
+      "displayed": "-88 172"
+    },
+    {
+      "concept": "Rorelseresultat",
+      "context": "period0",
+      "scale": 0,
+      "exact": "216861.22",
+      "displayed": "216 861"
+    },
+    {
+      "concept": "Rorelseresultat",
+      "context": "period1",
+      "scale": 0,
+      "exact": "-3073.76",
+      "displayed": "-3 074"
+    },
+    {
+      "concept": "ResultatOvrigaFinansiellaAnlaggningstillgangar",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ResultatOvrigaFinansiellaAnlaggningstillgangar",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "OvrigaRanteintakterLiknandeResultatposter",
+      "context": "period0",
+      "scale": 0,
+      "exact": "226.00",
+      "displayed": "226"
+    },
+    {
+      "concept": "OvrigaRanteintakterLiknandeResultatposter",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "RantekostnaderLiknandeResultatposter",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "RantekostnaderLiknandeResultatposter",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "FinansiellaPoster",
+      "context": "period0",
+      "scale": 0,
+      "exact": "226.00",
+      "displayed": "226"
+    },
+    {
+      "concept": "FinansiellaPoster",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ResultatEfterFinansiellaPoster",
+      "context": "period0",
+      "scale": 0,
+      "exact": "217087.22",
+      "displayed": "217 087"
+    },
+    {
+      "concept": "ResultatEfterFinansiellaPoster",
+      "context": "period1",
+      "scale": 0,
+      "exact": "-3073.76",
+      "displayed": "-3 074"
+    },
+    {
+      "concept": "ForandringPeriodiseringsfond",
+      "context": "period0",
+      "scale": 0,
+      "exact": "-2035.00",
+      "displayed": "-2 035"
+    },
+    {
+      "concept": "ForandringPeriodiseringsfond",
+      "context": "period1",
+      "scale": 0,
+      "exact": "10000.00",
+      "displayed": "10 000"
+    },
+    {
+      "concept": "ForandringOveravskrivningar",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ForandringOveravskrivningar",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "Bokslutsdispositioner",
+      "context": "period0",
+      "scale": 0,
+      "exact": "-2035.00",
+      "displayed": "-2 035"
+    },
+    {
+      "concept": "Bokslutsdispositioner",
+      "context": "period1",
+      "scale": 0,
+      "exact": "10000.00",
+      "displayed": "10 000"
+    },
+    {
+      "concept": "ResultatForeSkatt",
+      "context": "period0",
+      "scale": 0,
+      "exact": "215052.22",
+      "displayed": "215 052"
+    },
+    {
+      "concept": "ResultatForeSkatt",
+      "context": "period1",
+      "scale": 0,
+      "exact": "6926.24",
+      "displayed": "6 926"
+    },
+    {
+      "concept": "SkattAretsResultat",
+      "context": "period0",
+      "scale": 0,
+      "exact": "45468.00",
+      "displayed": "-45 468"
+    },
+    {
+      "concept": "SkattAretsResultat",
+      "context": "period1",
+      "scale": 0,
+      "exact": "1426.00",
+      "displayed": "-1 426"
+    },
+    {
+      "concept": "AretsResultat",
+      "context": "period0",
+      "scale": 0,
+      "exact": "169584.22",
+      "displayed": "169 584"
+    },
+    {
+      "concept": "AretsResultat",
+      "context": "period1",
+      "scale": 0,
+      "exact": "5500.24",
+      "displayed": "5 500"
+    },
+    {
+      "concept": "ByggnaderMark",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMark",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "InventarierVerktygInstallationer",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0.00",
+      "displayed": "0"
+    },
+    {
+      "concept": "InventarierVerktygInstallationer",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "15839.21",
+      "displayed": "15 839"
+    },
+    {
+      "concept": "MateriellaAnlaggningstillgangar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0.00",
+      "displayed": "0"
+    },
+    {
+      "concept": "MateriellaAnlaggningstillgangar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "15839.21",
+      "displayed": "15 839"
+    },
+    {
+      "concept": "AndraLangfristigaVardepappersinnehav",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "1140772.00",
+      "displayed": "1 140 772"
+    },
+    {
+      "concept": "AndraLangfristigaVardepappersinnehav",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "930526.00",
+      "displayed": "930 526"
+    },
+    {
+      "concept": "FinansiellaAnlaggningstillgangar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "1140772.00",
+      "displayed": "1 140 772"
+    },
+    {
+      "concept": "FinansiellaAnlaggningstillgangar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "930526.00",
+      "displayed": "930 526"
+    },
+    {
+      "concept": "Anlaggningstillgangar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "1140772.00",
+      "displayed": "1 140 772"
+    },
+    {
+      "concept": "Anlaggningstillgangar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "946365.21",
+      "displayed": "946 365"
+    },
+    {
+      "concept": "LagerRavarorFornodenheter",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "LagerRavarorFornodenheter",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "LagerVarorUnderTillverkning",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "LagerVarorUnderTillverkning",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "LagerFardigaVarorHandelsvaror",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "LagerFardigaVarorHandelsvaror",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "VarulagerMm",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "VarulagerMm",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "Kundfordringar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "147825.00",
+      "displayed": "147 825"
+    },
+    {
+      "concept": "Kundfordringar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "-0.33",
+      "displayed": "0"
+    },
+    {
+      "concept": "OvrigaFordringarKortfristiga",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "97978.00",
+      "displayed": "97 978"
+    },
+    {
+      "concept": "OvrigaFordringarKortfristiga",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "18090.11",
+      "displayed": "18 090"
+    },
+    {
+      "concept": "ForutbetaldaKostnaderUpplupnaIntakter",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ForutbetaldaKostnaderUpplupnaIntakter",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "KortfristigaFordringar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "245803.00",
+      "displayed": "245 803"
+    },
+    {
+      "concept": "KortfristigaFordringar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "18089.78",
+      "displayed": "18 090"
+    },
+    {
+      "concept": "KassaBankExklRedovisningsmedel",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "97270.17",
+      "displayed": "97 270"
+    },
+    {
+      "concept": "KassaBankExklRedovisningsmedel",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "222336.07",
+      "displayed": "222 336"
+    },
+    {
+      "concept": "KassaBank",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "97270.17",
+      "displayed": "97 270"
+    },
+    {
+      "concept": "KassaBank",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "222336.07",
+      "displayed": "222 336"
+    },
+    {
+      "concept": "Omsattningstillgangar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "343073.17",
+      "displayed": "343 073"
+    },
+    {
+      "concept": "Omsattningstillgangar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "240425.85",
+      "displayed": "240 426"
+    },
+    {
+      "concept": "Tillgangar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "1483845.17",
+      "displayed": "1 483 845"
+    },
+    {
+      "concept": "Tillgangar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "1186791.06",
+      "displayed": "1 186 791"
+    },
+    {
+      "concept": "Aktiekapital",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "100000.00",
+      "displayed": "100 000"
+    },
+    {
+      "concept": "Aktiekapital",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "100000.00",
+      "displayed": "100 000"
+    },
+    {
+      "concept": "Reservfond",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "Reservfond",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "BundetEgetKapital",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "100000.00",
+      "displayed": "100 000"
+    },
+    {
+      "concept": "BundetEgetKapital",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "100000.00",
+      "displayed": "100 000"
+    },
+    {
+      "concept": "BalanseratResultat",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "111671.16",
+      "displayed": "111 671"
+    },
+    {
+      "concept": "BalanseratResultat",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "104745.16",
+      "displayed": "104 745"
+    },
+    {
+      "concept": "AretsResultatEgetKapital",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "169584.46",
+      "displayed": "169 584"
+    },
+    {
+      "concept": "AretsResultatEgetKapital",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "6926.24",
+      "displayed": "6 926"
+    },
+    {
+      "concept": "FrittEgetKapital",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "281255.62",
+      "displayed": "281 256"
+    },
+    {
+      "concept": "FrittEgetKapital",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "111671.40",
+      "displayed": "111 671"
+    },
+    {
+      "concept": "EgetKapital",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "381255.62",
+      "displayed": "381 256"
+    },
+    {
+      "concept": "EgetKapital",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "211671.40",
+      "displayed": "211 671"
+    },
+    {
+      "concept": "Periodiseringsfonder",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "96664.00",
+      "displayed": "96 664"
+    },
+    {
+      "concept": "Periodiseringsfonder",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "94629.00",
+      "displayed": "94 629"
+    },
+    {
+      "concept": "AckumuleradeOveravskrivningar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "AckumuleradeOveravskrivningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ObeskattadeReserver",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "96664.00",
+      "displayed": "96 664"
+    },
+    {
+      "concept": "ObeskattadeReserver",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "94629.00",
+      "displayed": "94 629"
+    },
+    {
+      "concept": "AvsattningarPensionerLiknandeForpliktelserEnligtLag",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "AvsattningarPensionerLiknandeForpliktelserEnligtLag",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "OvrigaAvsattningar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "OvrigaAvsattningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "Avsattningar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "Avsattningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "OvrigaLangfristigaSkulderKreditinstitut",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "OvrigaLangfristigaSkulderKreditinstitut",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "OvrigaLangfristigaSkulder",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "879065.00",
+      "displayed": "879 065"
+    },
+    {
+      "concept": "OvrigaLangfristigaSkulder",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "879065.00",
+      "displayed": "879 065"
+    },
+    {
+      "concept": "LangfristigaSkulder",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "879065.00",
+      "displayed": "879 065"
+    },
+    {
+      "concept": "LangfristigaSkulder",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "879065.00",
+      "displayed": "879 065"
+    },
+    {
+      "concept": "Leverantorsskulder",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0.00",
+      "displayed": "0"
+    },
+    {
+      "concept": "Leverantorsskulder",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0.00",
+      "displayed": "0"
+    },
+    {
+      "concept": "Skatteskulder",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "44734.89",
+      "displayed": "44 735"
+    },
+    {
+      "concept": "Skatteskulder",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "1426.00",
+      "displayed": "1 426"
+    },
+    {
+      "concept": "OvrigaKortfristigaSkulder",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "82126.00",
+      "displayed": "82 126"
+    },
+    {
+      "concept": "OvrigaKortfristigaSkulder",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0.00",
+      "displayed": "0"
+    },
+    {
+      "concept": "UpplupnaKostnaderForutbetaldaIntakter",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "UpplupnaKostnaderForutbetaldaIntakter",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "KortfristigaSkulder",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "126860.89",
+      "displayed": "126 861"
+    },
+    {
+      "concept": "KortfristigaSkulder",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "1426.00",
+      "displayed": "1 426"
+    },
+    {
+      "concept": "EgetKapitalSkulder",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "1483845.51",
+      "displayed": "1 483 846"
+    },
+    {
+      "concept": "EgetKapitalSkulder",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "1186791.40",
+      "displayed": "1 186 791"
+    },
+    {
+      "concept": "ByggnaderMarkAnskaffningsvarden",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMarkAnskaffningsvarden",
+      "context": "balans2",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMarkForandringAnskaffningsvardenInkop",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMarkAnskaffningsvarden",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMarkAnskaffningsvarden",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMarkAvskrivningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMarkAvskrivningar",
+      "context": "balans2",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMarkForandringAvskrivningarAretsAvskrivningar",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMarkForandringAvskrivningarAretsAvskrivningar",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMarkAvskrivningar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMarkAvskrivningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMark",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "ByggnaderMark",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningarAnskaffningsvarden",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningarAnskaffningsvarden",
+      "context": "balans2",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningarForandringAnskaffningsvardenInkop",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningarForandringAnskaffningsvardenInkop",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningarAnskaffningsvarden",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningarAnskaffningsvarden",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningarAvskrivningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningarAvskrivningar",
+      "context": "balans2",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningarForandringAvskrivningarAretsAvskrivningar",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningarForandringAvskrivningarAretsAvskrivningar",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningarAvskrivningar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningarAvskrivningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "MaskinerAndraTekniskaAnlaggningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "InventarierVerktygInstallationerAnskaffningsvarden",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "184438.05",
+      "displayed": "184 438"
+    },
+    {
+      "concept": "InventarierVerktygInstallationerAnskaffningsvarden",
+      "context": "balans2",
+      "scale": 0,
+      "exact": "184438.05",
+      "displayed": "184 438"
+    },
+    {
+      "concept": "InventarierVerktygInstallationerForandringAnskaffningsvardenInkop",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "InventarierVerktygInstallationerForandringAnskaffningsvardenInkop",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "InventarierVerktygInstallationerAnskaffningsvarden",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "184438.05",
+      "displayed": "184 438"
+    },
+    {
+      "concept": "InventarierVerktygInstallationerAnskaffningsvarden",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "184438.05",
+      "displayed": "184 438"
+    },
+    {
+      "concept": "InventarierVerktygInstallationerAvskrivningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "168598.84",
+      "displayed": "-168 599"
+    },
+    {
+      "concept": "InventarierVerktygInstallationerAvskrivningar",
+      "context": "balans2",
+      "scale": 0,
+      "exact": "168598.84",
+      "displayed": "-168 599"
+    },
+    {
+      "concept": "InventarierVerktygInstallationerForandringAvskrivningarAretsAvskrivningar",
+      "context": "period0",
+      "scale": 0,
+      "exact": "15839.21",
+      "displayed": "-15 839"
+    },
+    {
+      "concept": "InventarierVerktygInstallationerForandringAvskrivningarAretsAvskrivningar",
+      "context": "period1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "InventarierVerktygInstallationerAvskrivningar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "184438.05",
+      "displayed": "-184 438"
+    },
+    {
+      "concept": "InventarierVerktygInstallationerAvskrivningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "168598.84",
+      "displayed": "-168 599"
+    },
+    {
+      "concept": "InventarierVerktygInstallationer",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0.00",
+      "displayed": "0"
+    },
+    {
+      "concept": "InventarierVerktygInstallationer",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "15839.21",
+      "displayed": "15 839"
+    },
+    {
+      "concept": "AndraLangfristigaVardepappersinnehavAnskaffningsvarden",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "930526.00",
+      "displayed": "930 526"
+    },
+    {
+      "concept": "AndraLangfristigaVardepappersinnehavAnskaffningsvarden",
+      "context": "balans2",
+      "scale": 0,
+      "exact": "930526.00",
+      "displayed": "930 526"
+    },
+    {
+      "concept": "AndraLangfristigaVardepappersinnehavForandringAnskaffningsvardenForsaljningar",
+      "context": "period0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "AndraLangfristigaVardepappersinnehavAnskaffningsvarden",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "1140772.00",
+      "displayed": "1 140 772"
+    },
+    {
+      "concept": "AndraLangfristigaVardepappersinnehavAnskaffningsvarden",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "930526.00",
+      "displayed": "930 526"
+    },
+    {
+      "concept": "AndraLangfristigaVardepappersinnehav",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "1140772.00",
+      "displayed": "1 140 772"
+    },
+    {
+      "concept": "AndraLangfristigaVardepappersinnehav",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "930526.00",
+      "displayed": "930 526"
+    },
+    {
+      "concept": "LangfristigaSkulderForfallerSenare5Ar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "879065.00",
+      "displayed": "879 065"
+    },
+    {
+      "concept": "StalldaSakerheterForetagsinteckningar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "StalldaSakerheterForetagsinteckningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "StalldaSakerheterFastighetsinteckningar",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "StalldaSakerheterFastighetsinteckningar",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "StalldaSakerheter",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "StalldaSakerheter",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "EventualForpliktelser",
+      "context": "balans0",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    },
+    {
+      "concept": "EventualForpliktelser",
+      "context": "balans1",
+      "scale": 0,
+      "exact": "0",
+      "displayed": "0"
+    }
+  ],
+  "confirmed_details": {
+    "customer": "Bionamic AB",
+    "significant_events_after_year_end": false,
+    "average_employees": 1,
+    "signing_date": "2026-10-01",
+    "proposed_dividend_sek": "50000.00",
+    "carry_forward_sek": "231255.62",
+    "agm_date": null
+  }
+}
