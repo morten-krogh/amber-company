@@ -1,0 +1,538 @@
+{
+  "metadata": {
+    "ORGNR": "5567557763",
+    "FNAMN": "Amber BioSciences AB",
+    "start": "20250501",
+    "end": "20260430",
+    "latest_voucher": "V99",
+    "sha256": "909030fef732f09e45d11f62bce36aa5e0f4b0c045a225a30f64a87c5bef38bc",
+    "generated": "2026-09-30T20:25:07+02:00"
+  },
+  "rows": [
+    {
+      "kind": "major",
+      "label": "Tillgångar",
+      "account": "",
+      "values": null,
+      "members": []
+    },
+    {
+      "kind": "section",
+      "label": "Anläggningstillgångar",
+      "account": "",
+      "values": null,
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Datorer",
+      "account": "1250",
+      "values": [
+        "184438.05",
+        "0.00",
+        "184438.05"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Ackumulerade avskrivningar på datorer",
+      "account": "1259",
+      "values": [
+        "-168598.84",
+        "-15839.21",
+        "-184438.05"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Andelar och värdepapper i andra företag",
+      "account": "1350",
+      "values": [
+        "927670.00",
+        "210246.00",
+        "1137916.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Derivat",
+      "account": "1384",
+      "values": [
+        "2856.00",
+        "0.00",
+        "2856.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "subtotal",
+      "label": "Summa anläggningstillgångar",
+      "account": "",
+      "values": [
+        "946365.21",
+        "194406.79",
+        "1140772.00"
+      ],
+      "members": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "section",
+      "label": "Omsättningstillgångar",
+      "account": "",
+      "values": null,
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Kundfordringar",
+      "account": "1510",
+      "values": [
+        "-0.33",
+        "147825.33",
+        "147825.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Kundfordringar",
+      "account": "1511",
+      "values": [
+        "0.00",
+        "0.00",
+        "0.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Avräkning för skatter och avgifter (skattekonto)",
+      "account": "1630",
+      "values": [
+        "18090.11",
+        "78588.89",
+        "96679.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Skattefordringar",
+      "account": "1640",
+      "values": [
+        "0.00",
+        "0.00",
+        "0.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Momsfordran",
+      "account": "1650",
+      "values": [
+        "0.00",
+        "0.00",
+        "0.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Företagskonto / affärskonto",
+      "account": "1930",
+      "values": [
+        "222336.07",
+        "-125065.90",
+        "97270.17"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Övriga bankkonton",
+      "account": "1940",
+      "values": [
+        "0.00",
+        "0.00",
+        "0.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "subtotal",
+      "label": "Summa omsättningstillgångar",
+      "account": "",
+      "values": [
+        "240425.85",
+        "101348.32",
+        "341774.17"
+      ],
+      "members": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "kind": "total",
+      "label": "Summa tillgångar",
+      "account": "",
+      "values": [
+        "1186791.06",
+        "295755.11",
+        "1482546.17"
+      ],
+      "members": [
+        6,
+        15
+      ]
+    },
+    {
+      "kind": "major",
+      "label": "Eget kapital och skulder",
+      "account": "",
+      "values": null,
+      "members": []
+    },
+    {
+      "kind": "section",
+      "label": "Eget kapital",
+      "account": "",
+      "values": null,
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Aktiekapital",
+      "account": "2081",
+      "values": [
+        "100000.00",
+        "0.00",
+        "100000.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Balanserad vinst eller förlust",
+      "account": "2091",
+      "values": [
+        "-0",
+        "111671.00",
+        "111671.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Vinst eller förlust från föregående år",
+      "account": "2098",
+      "values": [
+        "104745.16",
+        "-104745.00",
+        "0.16"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Årets resultat",
+      "account": "2099",
+      "values": [
+        "6926.24",
+        "162658.22",
+        "169584.46"
+      ],
+      "members": []
+    },
+    {
+      "kind": "subtotal",
+      "label": "Summa eget kapital",
+      "account": "",
+      "values": [
+        "211671.40",
+        "169584.22",
+        "381255.62"
+      ],
+      "members": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "kind": "section",
+      "label": "Obeskattade reserver",
+      "account": "",
+      "values": null,
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Periodiseringsfond 2022",
+      "account": "2125",
+      "values": [
+        "15012.00",
+        "0.00",
+        "15012.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Periodiseringsfond 2023",
+      "account": "2126",
+      "values": [
+        "8077.00",
+        "0.00",
+        "8077.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Periodiseringsfond 2019",
+      "account": "2129",
+      "values": [
+        "71540.00",
+        "-71540.00",
+        "-0.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Periodiseringsfond 2026 - nr 2 (2025-05-01 till 2026-04-30)",
+      "account": "2136",
+      "values": [
+        "-0",
+        "73575.00",
+        "73575.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "subtotal",
+      "label": "Summa obeskattade reserver",
+      "account": "",
+      "values": [
+        "94629.00",
+        "2035.00",
+        "96664.00"
+      ],
+      "members": [
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "kind": "section",
+      "label": "Långfristiga skulder",
+      "account": "",
+      "values": null,
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Övriga långfristiga skulder",
+      "account": "2390",
+      "values": [
+        "879065.00",
+        "0.00",
+        "879065.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "subtotal",
+      "label": "Summa långfristiga skulder",
+      "account": "",
+      "values": [
+        "879065.00",
+        "0.00",
+        "879065.00"
+      ],
+      "members": [
+        31
+      ]
+    },
+    {
+      "kind": "section",
+      "label": "Kortfristiga skulder",
+      "account": "",
+      "values": null,
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Leverantörsskulder",
+      "account": "2440",
+      "values": [
+        "-0.00",
+        "0.00",
+        "-0.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Leverantörsskulder",
+      "account": "2441",
+      "values": [
+        "-0.00",
+        "0.00",
+        "-0.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Skatteskulder",
+      "account": "2510",
+      "values": [
+        "-0.00",
+        "0.00",
+        "-0.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Beräknad inkomstskatt",
+      "account": "2512",
+      "values": [
+        "1426.00",
+        "44042.00",
+        "45468.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Betald F-skatt",
+      "account": "2518",
+      "values": [
+        "-0",
+        "-733.11",
+        "-733.11"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Utgående moms på försäljning inom Sverige, 25 %",
+      "account": "2611",
+      "values": [
+        "-0",
+        "0.00",
+        "-0.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Ingående moms",
+      "account": "2640",
+      "values": [
+        "-0.00",
+        "-1299.00",
+        "-1299.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Debiterad ingående moms",
+      "account": "2641",
+      "values": [
+        "-0.00",
+        "0.00",
+        "-0.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "account",
+      "label": "Redovisningskonto för moms",
+      "account": "2650",
+      "values": [
+        "-0.00",
+        "82126.00",
+        "82126.00"
+      ],
+      "members": []
+    },
+    {
+      "kind": "subtotal",
+      "label": "Summa kortfristiga skulder",
+      "account": "",
+      "values": [
+        "1426.00",
+        "124135.89",
+        "125561.89"
+      ],
+      "members": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "kind": "total",
+      "label": "Summa eget kapital och skulder",
+      "account": "",
+      "values": [
+        "1186791.40",
+        "295755.11",
+        "1482546.51"
+      ],
+      "members": [
+        23,
+        29,
+        32,
+        43
+      ]
+    },
+    {
+      "kind": "check",
+      "label": "Kontrolldifferens: tillgångar minus eget kapital och skulder",
+      "account": "",
+      "values": [
+        "-0.34",
+        "0.00",
+        "-0.34"
+      ],
+      "members": [
+        16,
+        44
+      ]
+    }
+  ],
+  "notes": [
+    "Kontrolldifferens −0,34 SEK finns redan i ingående SIE-balans och kvarstår i utgående balans. Ingen justeringspost har lagts till i rapporten.",
+    "Konto 2518 innehåller 733,11 SEK preliminärt omklassificerad historisk differens; orsaken är ännu inte fastställd.",
+    "Skatteberäkningen förutsätter inga inrullade skattemässiga underskott och att årets datoravskrivning är avdragsgill."
+  ]
+}

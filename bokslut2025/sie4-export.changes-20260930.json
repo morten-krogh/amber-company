@@ -1,0 +1,1100 @@
+{
+  "timestamp": "2026-09-30T18:27:45.359739",
+  "backup": "sie4-export.backup-20260930-182635.se",
+  "sha256_before": "f9a6df2394153b0bb36a87c658eb99cd8790d36e82e77db5705b4b9f68dc566f",
+  "sha256_after": "909030fef732f09e45d11f62bce36aa5e0f4b0c045a225a30f64a87c5bef38bc",
+  "changes": [
+    {
+      "voucher": "V2",
+      "field": "verdatum",
+      "before": "20250601",
+      "after": "20250602",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V4",
+      "field": "verdatum",
+      "before": "20250628",
+      "after": "20250630",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V6",
+      "field": "verdatum",
+      "before": "20250804",
+      "after": "20250805",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V8",
+      "field": "verdatum",
+      "before": "20250831",
+      "after": "20250901",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V10",
+      "field": "verdatum",
+      "before": "20250928",
+      "after": "20250929",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V14",
+      "field": "verdatum",
+      "before": "20251102",
+      "after": "20251103",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V16",
+      "field": "verdatum",
+      "before": "20251102",
+      "after": "20251103",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V18",
+      "field": "verdatum",
+      "before": "20251102",
+      "after": "20251103",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V20",
+      "field": "verdatum",
+      "before": "20251130",
+      "after": "20251201",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V22",
+      "field": "verdatum",
+      "before": "20251231",
+      "after": "20260102",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V27",
+      "field": "verdatum",
+      "before": "20260125",
+      "after": "20260126",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V29",
+      "field": "verdatum",
+      "before": "20260308",
+      "after": "20260309",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V34",
+      "field": "verdatum",
+      "before": "20260406",
+      "after": "20260330",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V35",
+      "field": "verdatum",
+      "before": "20260331",
+      "after": "20260323",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V36",
+      "field": "verdatum",
+      "before": "20260406",
+      "after": "20260323",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V39",
+      "field": "verdatum",
+      "before": "20260406",
+      "after": "20260407",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V41",
+      "field": "verdatum",
+      "before": "20260426",
+      "after": "20260427",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V43",
+      "field": "verdatum",
+      "before": "20260426",
+      "after": "20260427",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "voucher": "V45",
+      "field": "verdatum",
+      "before": "20260320",
+      "after": "20260323",
+      "source": "bokslut2025/bank.pdf, Bokf. datum"
+    },
+    {
+      "description": "User confirmed V49 misclassification. Preserve original V49, reverse with V52, record rent V53 and bank fee V54.",
+      "new_vouchers": [
+        52,
+        53,
+        54
+      ],
+      "result_totals": {
+        "5010": {
+          "before": "76000.00",
+          "after": "84000.00"
+        },
+        "6540": {
+          "before": "9400.00",
+          "after": "0.00"
+        },
+        "6570": {
+          "before": "0.00",
+          "after": "1400.00"
+        }
+      },
+      "source": "bokslut2025/bank.pdf and user confirmation"
+    },
+    {
+      "voucher": "V44",
+      "field": "verdatum",
+      "before": "20260225",
+      "after": "20260226",
+      "source": "bokslut2025/skattekonto.pdf"
+    },
+    {
+      "voucher": "V46",
+      "field": "verdatum",
+      "before": "20260212",
+      "after": "20260101",
+      "source": "bokslut2025/skattekonto.pdf"
+    },
+    {
+      "description": "Reverse expired periodiseringsfond and V47, record tax-account statement activity, reverse V51 and reclose provisional profit. Preserve original opening balances.",
+      "sources": [
+        "bokslut2025/skattekonto.pdf",
+        "bokslut2020/redovisning.odt",
+        "bokslut2024/resultat-rapport-bokio.pdf"
+      ],
+      "new_vouchers": [
+        {
+          "voucher": "V55",
+          "date": "20260430",
+          "description": "Återföring av kvarvarande periodiseringsfond från 2019-2020",
+          "transactions": [
+            {
+              "account": "2129",
+              "amount": "71540.00"
+            },
+            {
+              "account": "8819",
+              "amount": "-71540.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V56",
+          "date": "20260430",
+          "description": "Annullering av V47: ersätts med skattekontots faktiska transaktioner",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "1932.00"
+            },
+            {
+              "account": "2518",
+              "amount": "-1932.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V57",
+          "date": "20250503",
+          "description": "Intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "16.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-16.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V58",
+          "date": "20250601",
+          "description": "Intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "15.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-15.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V59",
+          "date": "20250705",
+          "description": "Intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "16.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-16.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V60",
+          "date": "20250802",
+          "description": "Intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "14.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-14.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V61",
+          "date": "20250906",
+          "description": "Intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "15.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-15.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V62",
+          "date": "20251004",
+          "description": "Intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "12.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-12.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V63",
+          "date": "20251101",
+          "description": "Intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "11.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-11.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V64",
+          "date": "20251206",
+          "description": "Intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "13.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-13.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V65",
+          "date": "20260103",
+          "description": "Intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "10.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-10.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V66",
+          "date": "20260201",
+          "description": "Intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "10.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-10.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V67",
+          "date": "20260301",
+          "description": "Intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "9.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-9.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V68",
+          "date": "20260404",
+          "description": "Intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "18.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-18.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V69",
+          "date": "20260404",
+          "description": "Korrigerad intäktsränta på skattekonto",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "67.00"
+            },
+            {
+              "account": "8314",
+              "amount": "-67.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V70",
+          "date": "20250512",
+          "description": "Debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "804.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-804.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V71",
+          "date": "20250612",
+          "description": "Debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "804.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-804.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V72",
+          "date": "20250714",
+          "description": "Debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "804.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-804.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V73",
+          "date": "20250818",
+          "description": "Debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "804.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-804.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V74",
+          "date": "20250912",
+          "description": "Debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "804.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-804.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V75",
+          "date": "20251013",
+          "description": "Debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "804.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-804.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V76",
+          "date": "20251112",
+          "description": "Debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "804.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-804.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V77",
+          "date": "20251212",
+          "description": "Debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "804.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-804.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V78",
+          "date": "20260119",
+          "description": "Debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "804.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-804.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V79",
+          "date": "20260212",
+          "description": "Debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "804.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-804.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V80",
+          "date": "20260312",
+          "description": "Debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "804.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-804.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V81",
+          "date": "20260413",
+          "description": "Debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "804.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-804.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V82",
+          "date": "20260404",
+          "description": "Slutlig skatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "2512",
+              "amount": "1425.00"
+            },
+            {
+              "account": "1630",
+              "amount": "-1425.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V83",
+          "date": "20260404",
+          "description": "Tillgodoförd debiterad preliminärskatt enligt skattekontoutdrag",
+          "transactions": [
+            {
+              "account": "1630",
+              "amount": "9648.00"
+            },
+            {
+              "account": "2518",
+              "amount": "-9648.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V84",
+          "date": "20260430",
+          "description": "Annullering av V51: resultat omräknas efter bokslutskorrigeringar",
+          "transactions": [
+            {
+              "account": "2099",
+              "amount": "204129.00"
+            },
+            {
+              "account": "8999",
+              "amount": "-204129.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V85",
+          "date": "20260430",
+          "description": "Årets resultat efter korrigeringar; skatt och ny fond ännu preliminära",
+          "transactions": [
+            {
+              "account": "2099",
+              "amount": "-275895.00"
+            },
+            {
+              "account": "8999",
+              "amount": "275895.00"
+            }
+          ]
+        }
+      ],
+      "updated_totals": [
+        {
+          "record": "#UB",
+          "account": "1630",
+          "before": "96679.11",
+          "after": "97412.11"
+        },
+        {
+          "record": "#UB",
+          "account": "2099",
+          "before": "-204129.24",
+          "after": "-275895.24"
+        },
+        {
+          "record": "#UB",
+          "account": "2129",
+          "before": "-71540.00",
+          "after": "0.00"
+        },
+        {
+          "record": "#UB",
+          "account": "2512",
+          "before": "-29996.00",
+          "after": "-28571.00"
+        },
+        {
+          "record": "#UB",
+          "account": "2518",
+          "before": "1932.00",
+          "after": "0.00"
+        },
+        {
+          "record": "#RES",
+          "account": "8999",
+          "before": "204129.00",
+          "after": "275895.00"
+        }
+      ],
+      "added_result_accounts": [
+        "8819",
+        "8314"
+      ]
+    },
+    {
+      "description": "User requested depreciation now: write off full remaining computer book value at year-end, preserve existing closing entry by reversal and replacement.",
+      "new_vouchers": [
+        {
+          "voucher": "V86",
+          "date": "20260430",
+          "description": "Avskrivning av datorer: hela kvarvarande bokförda värdet",
+          "transactions": [
+            {
+              "account": "7832",
+              "amount": "15839.21"
+            },
+            {
+              "account": "1259",
+              "amount": "-15839.21"
+            }
+          ]
+        },
+        {
+          "voucher": "V87",
+          "date": "20260430",
+          "description": "Annullering av V85: resultat omräknas efter avskrivning",
+          "transactions": [
+            {
+              "account": "2099",
+              "amount": "275895.00"
+            },
+            {
+              "account": "8999",
+              "amount": "-275895.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V88",
+          "date": "20260430",
+          "description": "Årets resultat efter avskrivning; skatt och ny fond ännu preliminära",
+          "transactions": [
+            {
+              "account": "2099",
+              "amount": "-260055.79"
+            },
+            {
+              "account": "8999",
+              "amount": "260055.79"
+            }
+          ]
+        }
+      ],
+      "updated_totals": [
+        {
+          "record": "#UB",
+          "account": "1259",
+          "before": "-168598.84",
+          "after": "-184438.05"
+        },
+        {
+          "record": "#UB",
+          "account": "2099",
+          "before": "-275895.24",
+          "after": "-260056.03"
+        },
+        {
+          "record": "#RES",
+          "account": "8999",
+          "before": "275895.00",
+          "after": "260055.79"
+        }
+      ],
+      "added_result_accounts": [
+        "7832"
+      ]
+    },
+    {
+      "description": "User explicitly requested transfer of historical 733.11 SEK tax-account difference to preliminary tax paid. Provisional classification: no historical evidence establishes this amount as prepaid tax.",
+      "new_vouchers": [
+        {
+          "voucher": "V89",
+          "date": "20250501",
+          "transactions": [
+            {
+              "account": "2518",
+              "amount": "733.11"
+            },
+            {
+              "account": "1630",
+              "amount": "-733.11"
+            }
+          ]
+        }
+      ],
+      "updated_totals": [
+        {
+          "record": "#UB",
+          "account": "1630",
+          "before": "97412.11",
+          "after": "96679.00"
+        },
+        {
+          "record": "#UB",
+          "account": "2518",
+          "before": "0.00",
+          "after": "733.11"
+        }
+      ],
+      "source": "User instruction; bokslut2025/skattekonto.pdf establishes actual opening/closing cash balance only",
+      "tax_treatment": "No change to profit or tax expense. Do not treat provisional 2518 balance as verified tax credit or deduction."
+    },
+    {
+      "description": "User requested V34 voucher date match V33 invoice and clearing small residuals through adjustment account 3740.",
+      "voucher_date_change": {
+        "voucher": "V34",
+        "before": "20260330",
+        "after": "20260331",
+        "bank_account_transaction_date": "20260330",
+        "note": "Preserve bank booking date using optional #TRANS transdat field for account 1930."
+      },
+      "new_vouchers": [
+        {
+          "voucher": "V90",
+          "date": "20260430",
+          "description": "Öresjustering av historisk bankdifferens enligt bankutdrag",
+          "transactions": [
+            {
+              "account": "1930",
+              "amount": "0.10"
+            },
+            {
+              "account": "3740",
+              "amount": "-0.10"
+            }
+          ]
+        },
+        {
+          "voucher": "V91",
+          "date": "20260430",
+          "description": "Öresjustering av gammal kundfordringsdifferens",
+          "transactions": [
+            {
+              "account": "1510",
+              "amount": "0.33"
+            },
+            {
+              "account": "3740",
+              "amount": "-0.33"
+            }
+          ]
+        },
+        {
+          "voucher": "V92",
+          "date": "20260430",
+          "description": "Kronjustering av tidigare beräknad skatt mot slutlig skatt",
+          "transactions": [
+            {
+              "account": "2512",
+              "amount": "1.00"
+            },
+            {
+              "account": "3740",
+              "amount": "-1.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V93",
+          "date": "20260430",
+          "description": "Annullering av V88: resultat omräknas efter öresjusteringar",
+          "transactions": [
+            {
+              "account": "2099",
+              "amount": "260055.79"
+            },
+            {
+              "account": "8999",
+              "amount": "-260055.79"
+            }
+          ]
+        },
+        {
+          "voucher": "V94",
+          "date": "20260430",
+          "description": "Årets resultat efter öresjusteringar; skatt och ny fond ännu preliminära",
+          "transactions": [
+            {
+              "account": "2099",
+              "amount": "-260057.22"
+            },
+            {
+              "account": "8999",
+              "amount": "260057.22"
+            }
+          ]
+        }
+      ],
+      "updated_totals": [
+        {
+          "record": "#UB",
+          "account": "1510",
+          "before": "147824.67",
+          "after": "147825.00"
+        },
+        {
+          "record": "#UB",
+          "account": "1930",
+          "before": "97270.07",
+          "after": "97270.17"
+        },
+        {
+          "record": "#UB",
+          "account": "2099",
+          "before": "-260056.03",
+          "after": "-260057.46"
+        },
+        {
+          "record": "#UB",
+          "account": "2512",
+          "before": "-28571.00",
+          "after": "-28570.00"
+        },
+        {
+          "record": "#RES",
+          "account": "3740",
+          "before": "-0.40",
+          "after": "-1.83"
+        },
+        {
+          "record": "#RES",
+          "account": "8999",
+          "before": "260055.79",
+          "after": "260057.22"
+        }
+      ],
+      "profit_increase": "1.43"
+    },
+    {
+      "description": "User authorized maximum new periodiseringsfond allocation and replacement corporate tax and final profit closing entries.",
+      "new_account": {
+        "number": "2136",
+        "name": "Periodiseringsfond 2026 - nr 2 (2025-05-01 till 2026-04-30)",
+        "SRU": "7321",
+        "reason": "2126 is already occupied by the existing 2023 fund; keep that historical definition."
+      },
+      "new_vouchers": [
+        {
+          "voucher": "V95",
+          "date": "20260430",
+          "description": "Avsättning till periodiseringsfond för 2025-2026; maximalt avdrag",
+          "transactions": [
+            {
+              "account": "8811",
+              "amount": "73575.00"
+            },
+            {
+              "account": "2136",
+              "amount": "-73575.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V96",
+          "date": "20260430",
+          "description": "Annullering av V50: ersätts med omräknad inkomstskatt",
+          "transactions": [
+            {
+              "account": "2512",
+              "amount": "28570.00"
+            },
+            {
+              "account": "8910",
+              "amount": "-28570.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V97",
+          "date": "20260430",
+          "description": "Årets inkomstskatt efter fondavsättning; inga inrullade underskott antagna",
+          "transactions": [
+            {
+              "account": "8910",
+              "amount": "45468.00"
+            },
+            {
+              "account": "2512",
+              "amount": "-45468.00"
+            }
+          ]
+        },
+        {
+          "voucher": "V98",
+          "date": "20260430",
+          "description": "Annullering av V94: resultat omräknas efter fondavsättning och skatt",
+          "transactions": [
+            {
+              "account": "2099",
+              "amount": "260057.22"
+            },
+            {
+              "account": "8999",
+              "amount": "-260057.22"
+            }
+          ]
+        },
+        {
+          "voucher": "V99",
+          "date": "20260430",
+          "description": "Årets resultat efter fondavsättning och beräknad inkomstskatt",
+          "transactions": [
+            {
+              "account": "2099",
+              "amount": "-169584.22"
+            },
+            {
+              "account": "8999",
+              "amount": "169584.22"
+            }
+          ]
+        }
+      ],
+      "updated_totals": [
+        {
+          "record": "#UB",
+          "account": "2099",
+          "before": "-260057.46",
+          "after": "-169584.46"
+        },
+        {
+          "record": "#UB",
+          "account": "2512",
+          "before": "-28570.00",
+          "after": "-45468.00"
+        },
+        {
+          "record": "#RES",
+          "account": "8910",
+          "before": "28570.00",
+          "after": "45468.00"
+        },
+        {
+          "record": "#RES",
+          "account": "8999",
+          "before": "260057.22",
+          "after": "169584.22"
+        }
+      ],
+      "added_balance_accounts": [
+        "2136"
+      ],
+      "added_result_accounts": [
+        "8811"
+      ],
+      "tax_calculation_file": "tax-calculation-2025-2026.json",
+      "assumptions": [
+        "No unused tax loss carryforwards, based on user instruction; not independently verified against prior declaration.",
+        "Computer depreciation of 15839.21 SEK is assumed deductible for tax; historical tax depreciation schedule not available.",
+        "Provisional historical 733.11 SEK on 2518 is not treated as verified prepaid tax or as a deduction."
+      ]
+    },
+    {
+      "description": "Regenerated balance report PDF and XLSX directly from corrected SIE through V99; retain inherited balance discrepancy explicitly.",
+      "reports": [
+        "balans-rapport-bokio.pdf",
+        "balans-rapport-bokio.xlsx",
+        "balans-rapport.json"
+      ],
+      "original_report_backups": [
+        "balans-rapport-bokio.backup-20260930-202458.pdf",
+        "balans-rapport-bokio.backup-20260930-202458.xlsx"
+      ],
+      "source_sha256": "909030fef732f09e45d11f62bce36aa5e0f4b0c045a225a30f64a87c5bef38bc",
+      "opening_assets": "1186791.06",
+      "opening_equity_and_liabilities": "1186791.40",
+      "closing_assets": "1482546.17",
+      "closing_equity_and_liabilities": "1482546.51",
+      "inherited_balance_difference": "-0.34",
+      "verification": "All 114 Excel numeric cells match report values; all cached formula results verified; PDF text and rendered layout inspected."
+    }
+  ],
+  "validation": {
+    "vouchers": 99,
+    "transactions": 210,
+    "all_vouchers_balance": true,
+    "balances_and_results_reconcile": true,
+    "bank_closing_balance": "97270.17",
+    "tax_account_closing_balance": "96679.00",
+    "tax_statement_closing_balance": "96679.00",
+    "unresolved_tax_account_opening_difference": "0.00",
+    "profit_before_tax": "215052.22",
+    "encoding": "CP437",
+    "line_endings": "CRLF",
+    "computer_net_book_value": "0.00",
+    "provisional_unverified_2518_balance": "733.11",
+    "customer_receivables_closing_balance": "147825.00",
+    "tax_expense": "45468.00",
+    "profit_after_tax": "169584.22",
+    "new_periodiseringsfond": "73575.00",
+    "new_periodiseringsfond_account": "2136",
+    "inherited_opening_balance_sum": "-0.34"
+  },
+  "pending": [
+    "V39 uses bank booking date 2026-04-07; corresponding tax-account deposit booked 2026-04-08",
+    "V89: 733.11 SEK historical difference provisionally classified on 2518 at user request; actual cause and prepaid-tax entitlement remain unverified",
+    "Tax calculation assumes no unused tax losses and deductible computer depreciation; verify against prior declarations if obtained.",
+    "Inherited opening SIE imbalance of -0.34 SEK persists at closing; explicitly shown in regenerated reports; investigate source opening balances before correcting."
+  ],
+  "last_updated": "2026-09-30T18:58:01.714164"
+}

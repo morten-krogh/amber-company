@@ -5,12 +5,11 @@
 #SIETYP 4
 #ORGNR 5567557763
 #FNAMN "Amber BioSciences AB"
-#RAR 0 20250501 20260430
-#RAR -1 20240501 20250430
-#RAR -2 20230501 20240430
-#RAR -3 20220501 20230430
-#RAR -4 20210501 20220430
-#RAR -5 20200501 20210430
+#RAR 0 20240501 20250430
+#RAR -1 20230501 20240430
+#RAR -2 20220501 20230430
+#RAR -3 20210501 20220430
+#RAR -4 20200501 20210430
 #KPTYP BAS2014
 #KONTO 1010 "Utvecklingsutgifter"
 #SRU 1010 7201
@@ -2466,813 +2465,675 @@
 #SRU 8990 7450
 #KONTO 8999 "èrets resultat"
 #SRU 8999 7450
-#KONTO 2136 "Periodiseringsfond 2026 - nr 2 (2025-05-01 till 2026-04-30)"
-#SRU 2136 7321
-#IB -5 1250 166735.64
-#IB -4 1250 168598.84
+#IB -4 1250 166735.64
 #IB -3 1250 168598.84
-#IB -2 1250 184438.05
+#IB -2 1250 168598.84
 #IB -1 1250 184438.05
 #IB 0 1250 184438.05
-#IB -5 1259 -166735.64
-#IB -4 1259 -168598.84
+#IB -4 1259 -166735.64
 #IB -3 1259 -168598.84
 #IB -2 1259 -168598.84
 #IB -1 1259 -168598.84
 #IB 0 1259 -168598.84
-#IB -5 1350 18605.00
 #IB -4 1350 18605.00
-#IB -3 1350 927670.00
+#IB -3 1350 18605.00
 #IB -2 1350 927670.00
 #IB -1 1350 927670.00
 #IB 0 1350 927670.00
-#IB -1 1384 2856.00
 #IB 0 1384 2856.00
-#IB -4 1510 8384.50
-#IB -3 1510 0.00
-#IB -2 1510 10288.50
-#IB -1 1510 11638.77
-#IB 0 1510 -0.33
-#IB -5 1511 10000.00
-#IB -4 1511 0.00
+#IB -3 1510 8384.50
+#IB -2 1510 0.00
+#IB -1 1510 10288.50
+#IB 0 1510 11638.77
+#IB -4 1511 10000.00
 #IB -3 1511 0.00
 #IB -2 1511 0.00
 #IB -1 1511 0.00
 #IB 0 1511 0.00
-#IB -5 1630 -48634.00
-#IB -4 1630 59388.00
-#IB -3 1630 109388.00
-#IB -2 1630 130316.28
+#IB -4 1630 -48634.00
+#IB -3 1630 59388.00
+#IB -2 1630 109388.00
 #IB -1 1630 130316.28
-#IB 0 1630 18090.11
-#IB -5 1640 0.00
+#IB 0 1630 130316.28
 #IB -4 1640 0.00
 #IB -3 1640 0.00
 #IB -2 1640 0.00
 #IB -1 1640 0.00
 #IB 0 1640 0.00
-#IB -4 1650 5880.00
-#IB -3 1650 12108.00
-#IB -2 1650 0.00
-#IB -1 1650 8201.00
-#IB 0 1650 0.00
-#IB -5 1930 0.00
-#IB -4 1930 215639.60
-#IB -3 1930 187450.40
-#IB -2 1930 155203.61
-#IB -1 1930 169106.56
-#IB 0 1930 222336.07
-#IB -5 1940 357453.80
-#IB -4 1940 0.00
+#IB -3 1650 5880.00
+#IB -2 1650 12108.00
+#IB -1 1650 0.00
+#IB 0 1650 8201.00
+#IB -4 1930 0.00
+#IB -3 1930 215639.60
+#IB -2 1930 187450.40
+#IB -1 1930 155203.61
+#IB 0 1930 169106.56
+#IB -4 1940 357453.80
 #IB -3 1940 0.00
 #IB -2 1940 0.00
 #IB -1 1940 0.00
 #IB 0 1940 0.00
-#IB -5 2081 -100000.00
 #IB -4 2081 -100000.00
 #IB -3 2081 -100000.00
 #IB -2 2081 -100000.00
 #IB -1 2081 -100000.00
 #IB 0 2081 -100000.00
-#IB -5 2098 -210831.80
-#IB -4 2098 -58595.80
+#IB -4 2098 -210831.80
 #IB -3 2098 -58595.80
 #IB -2 2098 -58595.80
 #IB -1 2098 -58595.80
-#IB 0 2098 -104745.16
-#IB -4 2099 -12116.30
-#IB -3 2099 -47573.60
-#IB -2 2099 -77333.60
-#IB -1 2099 -101566.60
-#IB 0 2099 -6926.24
-#IB -2 2125 -15012.00
+#IB 0 2098 -58595.80
+#IB -3 2099 -12116.30
+#IB -2 2099 -47573.60
+#IB -1 2099 -77333.60
+#IB 0 2099 -101566.60
 #IB -1 2125 -15012.00
 #IB 0 2125 -15012.00
-#IB -1 2126 -8077.00
 #IB 0 2126 -8077.00
-#IB -5 2129 -81540.00
 #IB -4 2129 -81540.00
 #IB -3 2129 -81540.00
 #IB -2 2129 -81540.00
 #IB -1 2129 -81540.00
-#IB 0 2129 -71540.00
-#IB -3 2390 -879065.00
+#IB 0 2129 -81540.00
 #IB -2 2390 -879065.00
 #IB -1 2390 -879065.00
 #IB 0 2390 -879065.00
-#IB -4 2440 0.00
-#IB -3 2440 -5000.00
-#IB -2 2440 -6000.00
-#IB -1 2440 0.00
+#IB -3 2440 0.00
+#IB -2 2440 -5000.00
+#IB -1 2440 -6000.00
 #IB 0 2440 0.00
-#IB -5 2441 0.00
 #IB -4 2441 0.00
 #IB -3 2441 0.00
 #IB -2 2441 0.00
 #IB -1 2441 0.00
 #IB 0 2441 0.00
-#IB -5 2510 52348.00
-#IB -4 2510 -52348.00
+#IB -4 2510 52348.00
 #IB -3 2510 -52348.00
-#IB -2 2510 0.00
+#IB -2 2510 -52348.00
 #IB -1 2510 0.00
 #IB 0 2510 0.00
-#IB -4 2512 -3297.00
-#IB -3 2512 -12494.00
-#IB -2 2512 -21771.00
+#IB -3 2512 -3297.00
+#IB -2 2512 -12494.00
 #IB -1 2512 -21771.00
-#IB 0 2512 -1426.00
-#IB -4 2640 0.00
+#IB 0 2512 -21771.00
 #IB -3 2640 0.00
 #IB -2 2640 0.00
 #IB -1 2640 0.00
 #IB 0 2640 0.00
-#IB -5 2641 2599.00
-#IB -4 2641 0.00
+#IB -4 2641 2599.00
 #IB -3 2641 0.00
 #IB -2 2641 0.00
 #IB -1 2641 0.00
 #IB 0 2641 0.00
-#IB -4 2650 0.00
 #IB -3 2650 0.00
 #IB -2 2650 0.00
 #IB -1 2650 0.00
 #IB 0 2650 0.00
-#UB -5 1250 168598.84
 #UB -4 1250 168598.84
-#UB -3 1250 184438.05
+#UB -3 1250 168598.84
 #UB -2 1250 184438.05
 #UB -1 1250 184438.05
 #UB 0 1250 184438.05
-#UB -5 1259 -168598.84
 #UB -4 1259 -168598.84
 #UB -3 1259 -168598.84
 #UB -2 1259 -168598.84
 #UB -1 1259 -168598.84
-#UB 0 1259 -184438.05
-#UB -5 1350 18605.00
-#UB -4 1350 927670.00
+#UB 0 1259 -168598.84
+#UB -4 1350 18605.00
 #UB -3 1350 927670.00
 #UB -2 1350 927670.00
 #UB -1 1350 927670.00
-#UB 0 1350 1137916.00
-#UB -2 1384 2856.00
+#UB 0 1350 927670.00
 #UB -1 1384 2856.00
 #UB 0 1384 2856.00
-#UB -5 1510 8384.50
-#UB -4 1510 0.00
-#UB -3 1510 10288.50
-#UB -2 1510 11638.77
-#UB -1 1510 -0.33
-#UB 0 1510 147825.00
-#UB -5 1511 0.00
+#UB -4 1510 8384.50
+#UB -3 1510 0.00
+#UB -2 1510 10288.50
+#UB -1 1510 11638.77
+#UB 0 1510 -0.33
 #UB -4 1511 0.00
 #UB -3 1511 0.00
 #UB -2 1511 0.00
 #UB -1 1511 0.00
 #UB 0 1511 0.00
-#UB -5 1630 59388.00
-#UB -4 1630 109388.00
-#UB -3 1630 130316.28
+#UB -4 1630 59388.00
+#UB -3 1630 109388.00
 #UB -2 1630 130316.28
-#UB -1 1630 18090.11
-#UB 0 1630 96679.00
-#UB -5 1640 0.00
+#UB -1 1630 130316.28
+#UB 0 1630 18090.11
 #UB -4 1640 0.00
 #UB -3 1640 0.00
 #UB -2 1640 0.00
 #UB -1 1640 0.00
 #UB 0 1640 0.00
-#UB -5 1650 5880.00
-#UB -4 1650 12108.00
-#UB -3 1650 0.00
-#UB -2 1650 8201.00
-#UB -1 1650 0.00
+#UB -4 1650 5880.00
+#UB -3 1650 12108.00
+#UB -2 1650 0.00
+#UB -1 1650 8201.00
 #UB 0 1650 0.00
-#UB -5 1930 215639.60
-#UB -4 1930 187450.40
-#UB -3 1930 155203.61
-#UB -2 1930 169106.56
-#UB -1 1930 222336.07
-#UB 0 1930 97270.17
-#UB -5 1940 0.00
+#UB -4 1930 215639.60
+#UB -3 1930 187450.40
+#UB -2 1930 155203.61
+#UB -1 1930 169106.56
+#UB 0 1930 222336.07
 #UB -4 1940 0.00
 #UB -3 1940 0.00
 #UB -2 1940 0.00
 #UB -1 1940 0.00
 #UB 0 1940 0.00
-#UB -5 2081 -100000.00
 #UB -4 2081 -100000.00
 #UB -3 2081 -100000.00
 #UB -2 2081 -100000.00
 #UB -1 2081 -100000.00
 #UB 0 2081 -100000.00
-#UB 0 2091 -111671.00
-#UB -5 2098 -58595.80
 #UB -4 2098 -58595.80
 #UB -3 2098 -58595.80
 #UB -2 2098 -58595.80
-#UB -1 2098 -104745.16
-#UB 0 2098 -0.16
-#UB -5 2099 -12116.30
-#UB -4 2099 -47573.60
-#UB -3 2099 -77333.60
-#UB -2 2099 -101566.60
-#UB -1 2099 -6926.24
-#UB 0 2099 -169584.46
-#UB -3 2125 -15012.00
+#UB -1 2098 -58595.80
+#UB 0 2098 -104745.16
+#UB -4 2099 -12116.30
+#UB -3 2099 -47573.60
+#UB -2 2099 -77333.60
+#UB -1 2099 -101566.60
+#UB 0 2099 -6926.24
 #UB -2 2125 -15012.00
 #UB -1 2125 -15012.00
 #UB 0 2125 -15012.00
-#UB -2 2126 -8077.00
 #UB -1 2126 -8077.00
 #UB 0 2126 -8077.00
-#UB -5 2129 -81540.00
 #UB -4 2129 -81540.00
 #UB -3 2129 -81540.00
 #UB -2 2129 -81540.00
-#UB -1 2129 -71540.00
-#UB 0 2129 0.00
-#UB -4 2390 -879065.00
+#UB -1 2129 -81540.00
+#UB 0 2129 -71540.00
 #UB -3 2390 -879065.00
 #UB -2 2390 -879065.00
 #UB -1 2390 -879065.00
 #UB 0 2390 -879065.00
-#UB -5 2440 0.00
-#UB -4 2440 -5000.00
-#UB -3 2440 -6000.00
-#UB -2 2440 0.00
+#UB -4 2440 0.00
+#UB -3 2440 -5000.00
+#UB -2 2440 -6000.00
 #UB -1 2440 0.00
 #UB 0 2440 0.00
-#UB -5 2441 0.00
 #UB -4 2441 0.00
 #UB -3 2441 0.00
 #UB -2 2441 0.00
 #UB -1 2441 0.00
 #UB 0 2441 0.00
-#UB -5 2510 -52348.00
 #UB -4 2510 -52348.00
-#UB -3 2510 0.00
+#UB -3 2510 -52348.00
 #UB -2 2510 0.00
 #UB -1 2510 0.00
 #UB 0 2510 0.00
-#UB -5 2512 -3297.00
-#UB -4 2512 -12494.00
-#UB -3 2512 -21771.00
+#UB -4 2512 -3297.00
+#UB -3 2512 -12494.00
 #UB -2 2512 -21771.00
-#UB -1 2512 -1426.00
-#UB 0 2512 -45468.00
-#UB 0 2518 733.11
-#UB 0 2611 0.00
-#UB -5 2640 0.00
+#UB -1 2512 -21771.00
+#UB 0 2512 -1426.00
 #UB -4 2640 0.00
 #UB -3 2640 0.00
 #UB -2 2640 0.00
 #UB -1 2640 0.00
-#UB 0 2640 1299.00
-#UB -5 2641 0.00
+#UB 0 2640 0.00
 #UB -4 2641 0.00
 #UB -3 2641 0.00
 #UB -2 2641 0.00
 #UB -1 2641 0.00
 #UB 0 2641 0.00
-#UB -5 2650 0.00
 #UB -4 2650 0.00
 #UB -3 2650 0.00
 #UB -2 2650 0.00
 #UB -1 2650 0.00
-#UB 0 2650 -82126.00
-#UB 0 2136 -73575.00
-#RES 0 3011 -328506.00
-#RES -1 3305 -85098.60
-#RES -1 3740 0.80
-#RES 0 3740 -1.83
-#RES -1 5010 72000.00
-#RES 0 5010 84000.00
-#RES -1 5410 595.20
-#RES 0 5410 5594.40
-#RES -1 6212 432.00
-#RES -1 6530 10764.00
-#RES 0 6530 0.00
-#RES 0 6540 0.00
-#RES -1 6570 3580.36
-#RES 0 6570 1400.00
-#RES 0 6590 4188.00
-#RES -1 6991 800.00
-#RES 0 6992 625.00
-#RES -1 8819 -10000.00
-#RES -1 8910 1426.00
-#RES 0 8910 45468.00
-#RES -1 8999 5501.00
-#RES 0 8999 169584.22
-#RES 0 8314 -226.00
-#RES 0 8819 -71540.00
-#RES 0 7832 15839.21
-#RES 0 8811 73575.00
-#VER "V" "1" 20250531 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20250601
+#UB 0 2650 0.00
+#RES -1 3305 -128053.80
+#RES 0 3305 -85098.60
+#RES -1 3740 0.40
+#RES 0 3740 0.80
+#RES -1 5010 54000.00
+#RES 0 5010 72000.00
+#RES -1 5011 6000.00
+#RES -1 5410 2640.80
+#RES 0 5410 595.20
+#RES -1 5520 2919.00
+#RES -1 6212 26972.80
+#RES 0 6212 432.00
+#RES 0 6530 10764.00
+#RES -1 6540 272.00
+#RES -1 6550 -1463.11
+#RES -1 6570 3322.18
+#RES 0 6570 3580.36
+#RES 0 6991 800.00
+#RES -1 7960 1079.51
+#RES -1 8811 8077.00
+#RES 0 8819 -10000.00
+#RES 0 8910 1426.00
+#RES -1 8999 24233.00
+#RES 0 8999 5501.00
+#VER "V" "1" 20240526 "èrets resultat" 20240526
 {
-	#TRANS 2440 {} -4000.00
-	#TRANS 5010 {} 4000.00
+	#TRANS 2099 {} -47574.00
+	#TRANS 8999 {} 47574.00
 }
-#VER "V" "2" 20250602 "Leverantîrsfaktura betald till Morten Krogh (V1)" 20250601
+#VER "V" "2" 20240507 "Faktura #159 betalad av Ditto (V76)" 20240526
 {
-	#TRANS 1930 {} -4000.00
-	#TRANS 2440 {} 4000.00
+	#TRANS 1510 {} -10356.23
+	#TRANS 1930 {} 10356.23
 }
-#VER "V" "3" 20250628 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20250628
+#VER "V" "3" 20240507 "Reglerade faktura 159 med bankavgift fîr 568,87" 20240526
 {
-	#TRANS 2440 {} -4000.00
-	#TRANS 5010 {} 4000.00
+	#TRANS 1510 {} -568.87
+	#TRANS 6570 {} 568.87
 }
-#VER "V" "4" 20250630 "Leverantîrsfaktura betald till Morten Krogh (V3)" 20250628
+#VER "V" "4" 20240526 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20240526
 {
-	#TRANS 1930 {} -4000.00
-	#TRANS 2440 {} 4000.00
+	#TRANS 2440 {} -6000.00
+	#TRANS 5010 {} 6000.00
 }
-#VER "V" "5" 20250804 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20250804
+#VER "V" "5" 20240526 "Leverantîrsfaktura betald till Morten Krogh (V4)" 20240526
 {
-	#TRANS 2440 {} -4000.00
-	#TRANS 5010 {} 4000.00
+	#TRANS 1930 {} -6000.00
+	#TRANS 2440 {} 6000.00
 }
-#VER "V" "6" 20250805 "Leverantîrsfaktura betald till Morten Krogh (V5)" 20250804
+#VER "V" "6" 20240526 "Faktura 160 Ditto" 20240526
 {
-	#TRANS 1930 {} -4000.00
-	#TRANS 2440 {} 4000.00
+	#TRANS 1510 {} 10700.20
+	#TRANS 3305 {} -10700.20
 }
-#VER "V" "7" 20250831 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20250831
+#VER "V" "7" 20240605 "Faktura #160 betalad av Ditto (V6)" 20240630
 {
-	#TRANS 2440 {} -4000.00
-	#TRANS 5010 {} 4000.00
+	#TRANS 1510 {} -10096.93
+	#TRANS 1930 {} 10096.93
 }
-#VER "V" "8" 20250901 "Leverantîrsfaktura betald till Morten Krogh (V7)" 20250831
+#VER "V" "8" 20240605 "Reglerade faktura 160 med bankavgift fîr 603,27" 20240630
 {
-	#TRANS 1930 {} -4000.00
-	#TRANS 2440 {} 4000.00
+	#TRANS 1510 {} -603.27
+	#TRANS 6570 {} 603.27
 }
-#VER "V" "9" 20250928 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20250928
+#VER "V" "9" 20240630 "Hyra momsfri" 20240630
 {
-	#TRANS 2440 {} -4000.00
-	#TRANS 5010 {} 4000.00
+	#TRANS 1930 {} -6000.00
+	#TRANS 5010 {} 6000.00
 }
-#VER "V" "10" 20250929 "Leverantîrsfaktura betald till Morten Krogh (V9)" 20250928
+#VER "V" "10" 20240630 "Faktura 161 Ditto" 20240630
 {
-	#TRANS 1930 {} -4000.00
-	#TRANS 2440 {} 4000.00
+	#TRANS 1510 {} 10611.40
+	#TRANS 3305 {} -10611.40
 }
-#VER "V" "11" 20250928 "Vinst eller fîrlust frÜn fîregÜende Ür" 20250928
+#VER "V" "11" 20240710 "Faktura #161 betalad av Ditto (V10)" 20240727
 {
-	#TRANS 2098 {} -6926.00
-	#TRANS 2099 {} 6926.00
+	#TRANS 1510 {} -10189.20
+	#TRANS 1930 {} 10189.20
 }
-#VER "V" "12" 20250928 "Balansered vinst" 20250928
+#VER "V" "12" 20240710 "Reglerade faktura 161 med bankavgift fîr 422,20" 20240727
 {
-	#TRANS 2091 {} -111671.00
-	#TRANS 2098 {} 111671.00
+	#TRANS 1510 {} -422.20
+	#TRANS 6570 {} 422.20
 }
-#VER "V" "13" 20251031 "Leverantîrsfaktura: inkclub - Inkîp fîrbrukningsinventarier 25% moms" 20251102
+#VER "V" "13" 20240727 "Faktura 162 Ditto" 20240727
 {
-	#TRANS 2440 {} -498.00
-	#TRANS 2640 {} 99.60
-	#TRANS 5410 {} 398.40
+	#TRANS 1510 {} 10803.40
+	#TRANS 3305 {} -10803.40
 }
-#VER "V" "14" 20251103 "Leverantîrsfaktura betald till inkclub (V13)" 20251102
+#VER "V" "14" 20240819 "Faktura #162 betalad av Ditto (V13)" 20240825
 {
-	#TRANS 1930 {} -498.00
-	#TRANS 2440 {} 498.00
+	#TRANS 1510 {} -10123.27
+	#TRANS 1930 {} 10123.27
 }
-#VER "V" "15" 20251001 "Leverantîrsfaktura: Bokio - Inkîp tjÑnster 25% moms" 20251102
+#VER "V" "15" 20240819 "Reglerade faktura 162 med bankavgift fîr 680,13" 20240825
 {
-	#TRANS 2440 {} -5235.00
-	#TRANS 2640 {} 1047.00
-	#TRANS 6590 {} 4188.00
+	#TRANS 1510 {} -680.13
+	#TRANS 6570 {} 680.13
 }
-#VER "V" "16" 20251103 "Leverantîrsfaktura betald till Bokio (V15)" 20251102
+#VER "V" "16" 20240823 "Leverantîrsfaktura: Macsupport Aktiebolag - Mobiltelefon" 20240825
 {
-	#TRANS 1930 {} -5235.00
-	#TRANS 2440 {} 5235.00
+	#TRANS 2440 {} -540.00
+	#TRANS 2640 {} 108.00
+	#TRANS 6212 {} 432.00
 }
-#VER "V" "17" 20251031 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20251102
+#VER "V" "17" 20240826 "Faktura 163 Ditto" 20240929
+{
+	#TRANS 1510 {} 10282.80
+	#TRANS 3305 {} -10282.80
+}
+#VER "V" "18" 20240921 "Faktura #163 betalad av Ditto (V17)" 20240929
+{
+	#TRANS 1510 {} -9816.18
+	#TRANS 1930 {} 9816.18
+}
+#VER "V" "19" 20240921 "Faktura #163 betalad av Ditto (V17)" 20240929
+{
+	#TRANS 1510 {} -466.62
+	#TRANS 1930 {} 466.62
+}
+#VER "V" "20" 20240929 "Bankavgift pÜ betalning" 20240929
+{
+	#TRANS 1930 {} -466.62
+	#TRANS 6570 {} 466.62
+}
+#VER "V" "21" 20240929 "Leverantîrsfaktura betald till Macsupport Aktiebolag (V16)" 20240929
+{
+	#TRANS 1930 {} -540.00
+	#TRANS 2440 {} 540.00
+}
+#VER "V" "22" 20240730 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20240929
+{
+	#TRANS 2440 {} -6000.00
+	#TRANS 5010 {} 6000.00
+}
+#VER "V" "23" 20240830 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20240929
+{
+	#TRANS 2440 {} -6000.00
+	#TRANS 5010 {} 6000.00
+}
+#VER "V" "24" 20240929 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20240929
+{
+	#TRANS 2440 {} -6000.00
+	#TRANS 5010 {} 6000.00
+}
+#VER "V" "25" 20240929 "Leverantîrsfaktura betald till Morten Krogh (V22)" 20240929
+{
+	#TRANS 1930 {} -6000.00
+	#TRANS 2440 {} 6000.00
+}
+#VER "V" "26" 20240929 "Leverantîrsfaktura betald till Morten Krogh (V23)" 20240929
+{
+	#TRANS 1930 {} -6000.00
+	#TRANS 2440 {} 6000.00
+}
+#VER "V" "27" 20240929 "Leverantîrsfaktura betald till Morten Krogh (V24)" 20240929
+{
+	#TRANS 1930 {} -6000.00
+	#TRANS 2440 {} 6000.00
+}
+#VER "V" "28" 20240929 "Faktura 164 Ditto" 20240929
+{
+	#TRANS 1510 {} 10103.10
+	#TRANS 3305 {} -10103.10
+}
+#VER "V" "29" 20240927 "Leverantîrsfaktura: C&C Sweden AB - Inkîp fîrbrukningsinventarier 25% moms" 20241006
+{
+	#TRANS 2440 {} -445.00
+	#TRANS 2640 {} 89.00
+	#TRANS 5410 {} 356.00
+}
+#VER "V" "30" 20241006 "Leverantîrsfaktura betald till C&C Sweden AB (V29)" 20241006
+{
+	#TRANS 1930 {} -445.00
+	#TRANS 2440 {} 445.00
+}
+#VER "V" "31" 20241006 "Bolagsverket, avdragsgill" 20241006
+{
+	#TRANS 1930 {} -800.00
+	#TRANS 6991 {} 800.00
+}
+#VER "V" "32" 20241001 "Leverantîrsfaktura: Bokio - RedovisningstjÑnster" 20241006
+{
+	#TRANS 2440 {} -4485.00
+	#TRANS 2640 {} 897.00
+	#TRANS 6530 {} 3588.00
+}
+#VER "V" "33" 20241001 "RedovisningstjÑnster" 20241006
+{
+	#TRANS 1930 {} -4485.00
+	#TRANS 2640 {} 897.00
+	#TRANS 6530 {} 3588.00
+}
+#VER "V" "34" 20241001 "Bokio - RedovisningstjÑnster" 20241006
+{
+	#TRANS 2440 {} -4485.00
+	#TRANS 2640 {} 897.00
+	#TRANS 6530 {} 3588.00
+}
+#VER "V" "35" 20241006 "Leverantîrsfaktura betald till Bokio (V32)" 20241006
+{
+	#TRANS 1930 {} -4485.00
+	#TRANS 2440 {} 4485.00
+}
+#VER "V" "36" 20241006 "Leverantîrsfaktura betald till Bokio (V34)" 20241006
+{
+	#TRANS 1930 {} -4485.00
+	#TRANS 2440 {} 4485.00
+}
+#VER "V" "37" 20241018 "Faktura #164 betalad av Ditto (V28)" 20241019
+{
+	#TRANS 1510 {} -10086.26
+	#TRANS 1930 {} 10086.26
+}
+#VER "V" "38" 20241018 "Reglerade faktura 164 med bankavgift fîr 16,84" 20241019
+{
+	#TRANS 1510 {} -16.84
+	#TRANS 6570 {} 16.84
+}
+#VER "V" "39" 20241019 "Leverantîrsfaktura: Elgiganten Aktiebolag - Inkîp fîrbrukningsinventarier 25% moms" 20241019
+{
+	#TRANS 2440 {} -299.00
+	#TRANS 2640 {} 59.80
+	#TRANS 5410 {} 239.20
+}
+#VER "V" "40" 20241030 "Faktura 165 Ditto" 20241030
+{
+	#TRANS 1510 {} 10694.40
+	#TRANS 3305 {} -10694.40
+}
+#VER "V" "41" 20241102 "Leverantîrsfaktura betald till Elgiganten Aktiebolag (V39)" 20241102
+{
+	#TRANS 1930 {} -299.00
+	#TRANS 2440 {} 299.00
+}
+#VER "V" "42" 20241102 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20241102
+{
+	#TRANS 2440 {} -6000.00
+	#TRANS 5010 {} 6000.00
+}
+#VER "V" "43" 20241102 "Leverantîrsfaktura betald till Morten Krogh (V42)" 20241102
+{
+	#TRANS 1930 {} -6000.00
+	#TRANS 2440 {} 6000.00
+}
+#VER "V" "44" 20240930 "Momsredovisning: juli 2024 - september 2024" 20241102
+{
+	#TRANS 1650 {} 197.00
+	#TRANS 2640 {} -197.00
+}
+#VER "V" "45" 20240513 "Moms till godo - Skatteverket" 20241102
+{
+	#TRANS 1630 {} 1379.00
+	#TRANS 1650 {} -1379.00
+}
+#VER "V" "46" 20241117 "Faktura #165 betalad av Ditto (V40)" 20241201
+{
+	#TRANS 1510 {} -10576.64
+	#TRANS 1930 {} 10576.64
+}
+#VER "V" "47" 20241117 "Reglerade faktura 165 med bankavgift fîr 117,76" 20241201
+{
+	#TRANS 1510 {} -117.76
+	#TRANS 6570 {} 117.76
+}
+#VER "V" "48" 20241201 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20241201
+{
+	#TRANS 2440 {} -6000.00
+	#TRANS 5010 {} 6000.00
+}
+#VER "V" "49" 20241201 "Leverantîrsfaktura betald till Morten Krogh (V48)" 20241201
+{
+	#TRANS 1930 {} -6000.00
+	#TRANS 2440 {} 6000.00
+}
+#VER "V" "50" 20241201 "Faktura 166 Ditto" 20241201
+{
+	#TRANS 1510 {} 10905.10
+	#TRANS 3305 {} -10905.10
+}
+#VER "V" "51" 20241217 "Faktura #166 betalad av Ditto (V50)" 20241231
+{
+	#TRANS 1510 {} -10517.87
+	#TRANS 1930 {} 10517.87
+}
+#VER "V" "52" 20241217 "Reglerade faktura 166 med bankavgift fîr 387,23" 20241231
+{
+	#TRANS 1510 {} -387.23
+	#TRANS 6570 {} 387.23
+}
+#VER "V" "53" 20241231 "Faktura 167 Ditto" 20241231
+{
+	#TRANS 1510 {} 10998.20
+	#TRANS 3305 {} -10998.20
+}
+#VER "V" "54" 20241231 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20241231
+{
+	#TRANS 2440 {} -6000.00
+	#TRANS 5010 {} 6000.00
+}
+#VER "V" "55" 20241231 "Leverantîrsfaktura betald till Morten Krogh (V54)" 20241231
+{
+	#TRANS 1930 {} -6000.00
+	#TRANS 2440 {} 6000.00
+}
+#VER "V" "56" 20250116 "Faktura #167 betalad av Ditto (V53)" 20250202
+{
+	#TRANS 1510 {} -10680.76
+	#TRANS 1930 {} 10680.76
+}
+#VER "V" "57" 20250116 "Reglerade faktura 167 med bankavgift fîr 317,44" 20250202
+{
+	#TRANS 1510 {} -317.44
+	#TRANS 6570 {} 317.44
+}
+#VER "V" "58" 20250202 "Faktura 168 Ditto" 20250202
+{
+	#TRANS 1510 {} 11040.10
+	#TRANS 3305 {} -11040.10
+}
+#VER "V" "59" 20250202 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20250202
 {
 	#TRANS 2440 {} -8000.00
 	#TRANS 5010 {} 8000.00
 }
-#VER "V" "18" 20251103 "Leverantîrsfaktura betald till Morten Krogh (V17)" 20251102
+#VER "V" "60" 20250202 "Leverantîrsfaktura betald till Morten Krogh (V59)" 20250202
 {
 	#TRANS 1930 {} -8000.00
 	#TRANS 2440 {} 8000.00
 }
-#VER "V" "19" 20251130 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20251130
+#VER "V" "61" 20241231 "Momsredovisning: oktober 2024 - december 2024" 20250202
+{
+	#TRANS 1650 {} 2750.00
+	#TRANS 2640 {} -2750.80
+	#TRANS 3740 {} 0.80
+}
+#VER "V" "62" 20250302 "Faktura 169 Ditto" 20250302
+{
+	#TRANS 1510 {} 10746.30
+	#TRANS 3305 {} -10746.30
+}
+#VER "V" "63" 20250202 "Annullering av V58: Faktura 168 Ditto" 20250330
+{
+	#TRANS 1510 {} -11040.10
+	#TRANS 3305 {} 11040.10
+}
+#VER "V" "64" 20250302 "Annullering av V62: Faktura 169 Ditto" 20250330
+{
+	#TRANS 1510 {} -10746.30
+	#TRANS 3305 {} 10746.30
+}
+#VER "V" "65" 20250330 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20250330
 {
 	#TRANS 2440 {} -8000.00
 	#TRANS 5010 {} 8000.00
 }
-#VER "V" "20" 20251201 "Leverantîrsfaktura betald till Morten Krogh (V19)" 20251130
+#VER "V" "66" 20250406 "Leverantîrsfaktura betald till Morten Krogh (V65)" 20250406
 {
 	#TRANS 1930 {} -8000.00
 	#TRANS 2440 {} 8000.00
 }
-#VER "V" "21" 20251231 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20251231
+#VER "V" "67" 20250430 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20250501
 {
 	#TRANS 2440 {} -8000.00
 	#TRANS 5010 {} 8000.00
 }
-#VER "V" "22" 20260102 "Leverantîrsfaktura betald till Morten Krogh (V21)" 20251231
+#VER "V" "68" 20250430 "Leverantîrsfaktura betald till Morten Krogh (V67)" 20250501
 {
 	#TRANS 1930 {} -8000.00
 	#TRANS 2440 {} 8000.00
 }
-#VER "V" "23" 20251001 "RedovisningstjÑnster" 20251231
-{
-	#TRANS 1930 {} -5235.00
-	#TRANS 2640 {} 1047.00
-	#TRANS 6530 {} 4188.00
-}
-#VER "V" "24" 20251001 "Annullering av V23: RedovisningstjÑnster" 20251231
-{
-	#TRANS 1930 {} 5235.00
-	#TRANS 2640 {} -1047.00
-	#TRANS 6530 {} -4188.00
-}
-#VER "V" "25" 20251231 "Momsredovisning: oktober 2025 - december 2025" 20251231
-{
-	#TRANS 1650 {} 1146.00
-	#TRANS 2640 {} -1146.60
-	#TRANS 3740 {} 0.60
-}
-#VER "V" "26" 20260125 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20260125
-{
-	#TRANS 2440 {} -8000.00
-	#TRANS 5010 {} 8000.00
-}
-#VER "V" "27" 20260126 "Leverantîrsfaktura betald till Morten Krogh (V26)" 20260125
-{
-	#TRANS 1930 {} -8000.00
-	#TRANS 2440 {} 8000.00
-}
-#VER "V" "28" 20260228 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20260308
-{
-	#TRANS 2440 {} -8000.00
-	#TRANS 5010 {} 8000.00
-}
-#VER "V" "29" 20260309 "Leverantîrsfaktura betald till Morten Krogh (V28)" 20260308
-{
-	#TRANS 1930 {} -8000.00
-	#TRANS 2440 {} 8000.00
-}
-#VER "V" "30" 20260318 "Faktura 168 Bionamic AB" 20260318
-{
-	#TRANS 1510 {} 131404.00
-	#TRANS 2611 {} -26280.75
-	#TRANS 3011 {} -105123.00
-	#TRANS 3740 {} -0.25
-}
-#VER "V" "31" 20260318 "Faktura 169 Bionamic AB" 20260318
-{
-	#TRANS 1510 {} 131404.00
-	#TRANS 2611 {} -26280.75
-	#TRANS 3011 {} -105123.00
-	#TRANS 3740 {} -0.25
-}
-#VER "V" "32" 20260318 "Faktura 170 Bionamic AB" 20260318
-{
-	#TRANS 1510 {} 147825.00
-	#TRANS 2611 {} -29565.00
-	#TRANS 3011 {} -118260.00
-}
-#VER "V" "33" 20260331 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20260406
-{
-	#TRANS 2440 {} -8000.00
-	#TRANS 5010 {} 8000.00
-}
-#VER "V" "34" 20260331 "Leverantîrsfaktura betald till Morten Krogh (V33)" 20260406
-{
-	#TRANS 1930 {} -8000.00 20260330
-	#TRANS 2440 {} 8000.00
-}
-#VER "V" "35" 20260323 "Faktura #168 betalad av Bionamic AB (V30)" 20260406
-{
-	#TRANS 1510 {} -131404.00
-	#TRANS 1930 {} 131404.00
-}
-#VER "V" "36" 20260323 "Faktura #169 betalad av Bionamic AB (V31)" 20260406
-{
-	#TRANS 1510 {} -131404.00
-	#TRANS 1930 {} 131404.00
-}
-#VER "V" "37" 20260323 "Aktier i Bionamic" 20260406
-{
-	#TRANS 1350 {} 210246.00
-	#TRANS 1930 {} -210246.00
-}
-#VER "V" "38" 20260331 "Momsredovisning: januari 2026 - mars 2026" 20260406
-{
-	#TRANS 2611 {} 82126.50
-	#TRANS 2650 {} -82126.00
-	#TRANS 3740 {} -0.50
-}
-#VER "V" "39" 20260407 "InsÑttning till skattekonto" 20260406
-{
-	#TRANS 1630 {} 80000.00
-	#TRANS 1930 {} -80000.00
-}
-#VER "V" "40" 20260426 "Leverantîrsfaktura: Morten Krogh - Hyra momsfri" 20260426
-{
-	#TRANS 2440 {} -8000.00
-	#TRANS 5010 {} 8000.00
-}
-#VER "V" "41" 20260427 "Leverantîrsfaktura betald till Morten Krogh (V40)" 20260426
-{
-	#TRANS 1930 {} -8000.00
-	#TRANS 2440 {} 8000.00
-}
-#VER "V" "42" 20260424 "Leverantîrsfaktura: APPLE DISTRIBUTION INTERNATIONAL LTD - Inkîp fîrbrukningsinventarier 25% moms" 20260426
-{
-	#TRANS 2440 {} -6495.00
-	#TRANS 2640 {} 1299.00
-	#TRANS 5410 {} 5196.00
-}
-#VER "V" "43" 20260427 "Leverantîrsfaktura betald till APPLE DISTRIBUTION INTERNATIONAL LTD (V42)" 20260426
-{
-	#TRANS 1930 {} -6495.00
-	#TRANS 2440 {} 6495.00
-}
-#VER "V" "44" 20260226 "Fîrseningsavgift till skatteverket" 20260531
-{
-	#TRANS 1630 {} -625.00
-	#TRANS 6992 {} 625.00
-}
-#VER "V" "45" 20260323 "Aktiekoîpp" 20260531
-{
-	#TRANS 1350 {} 210246.00
-	#TRANS 1930 {} -210246.00
-}
-#VER "V" "46" 20260101 "Moms till godo - Skatteverket" 20260531
-{
-	#TRANS 1630 {} 1146.00
-	#TRANS 1650 {} -1146.00
-}
-#VER "V" "47" 20260430 "skattekonto" 20260930
-{
-	#TRANS 1630 {} -1932.00
-	#TRANS 2518 {} 1932.00
-}
-#VER "V" "48" 20260323 "Annullering av V37: Aktier i Bionamic" 20260930
-{
-	#TRANS 1350 {} -210246.00
-	#TRANS 1930 {} 210246.00
-}
-#VER "V" "49" 20260401 "IT tjÑnster" 20260930
-{
-	#TRANS 1930 {} -9400.00
-	#TRANS 6540 {} 9400.00
-}
-#VER "V" "50" 20260430 "èrets skatt" 20260930
-{
-	#TRANS 2512 {} -28570.00
-	#TRANS 8910 {} 28570.00
-}
-#VER "V" "51" 20260430 "èrets resultat" 20260930
-{
-	#TRANS 2099 {} -204129.00
-	#TRANS 8999 {} 204129.00
-}
-#VER "V" "52" 20260401 "Annullering av V49: felaktigt bokfîrda IT tjÑnster" 20260930
-{
-	#TRANS 1930 {} 9400.00
-	#TRANS 6540 {} -9400.00
-}
-#VER "V" "53" 20250502 "Hyra: betalning till Morten Krogh, banktransaktion 2025-05-01" 20260930
-{
-	#TRANS 1930 {} -8000.00
-	#TRANS 5010 {} 8000.00
-}
-#VER "V" "54" 20260120 "Bankkostnader: pris banktjÑnster enligt faktura" 20260930
-{
-	#TRANS 1930 {} -1400.00
-	#TRANS 6570 {} 1400.00
-}
-#VER "V" "55" 20260430 "èterfîring av kvarvarande periodiseringsfond frÜn 2019-2020" 20260930
-{
-	#TRANS 2129 {} 71540.00
-	#TRANS 8819 {} -71540.00
-}
-#VER "V" "56" 20260430 "Annullering av V47: ersÑtts med skattekontots faktiska transaktioner" 20260930
-{
-	#TRANS 1630 {} 1932.00
-	#TRANS 2518 {} -1932.00
-}
-#VER "V" "57" 20250503 "IntÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 16.00
-	#TRANS 8314 {} -16.00
-}
-#VER "V" "58" 20250601 "IntÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 15.00
-	#TRANS 8314 {} -15.00
-}
-#VER "V" "59" 20250705 "IntÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 16.00
-	#TRANS 8314 {} -16.00
-}
-#VER "V" "60" 20250802 "IntÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 14.00
-	#TRANS 8314 {} -14.00
-}
-#VER "V" "61" 20250906 "IntÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 15.00
-	#TRANS 8314 {} -15.00
-}
-#VER "V" "62" 20251004 "IntÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 12.00
-	#TRANS 8314 {} -12.00
-}
-#VER "V" "63" 20251101 "IntÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 11.00
-	#TRANS 8314 {} -11.00
-}
-#VER "V" "64" 20251206 "IntÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 13.00
-	#TRANS 8314 {} -13.00
-}
-#VER "V" "65" 20260103 "IntÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 10.00
-	#TRANS 8314 {} -10.00
-}
-#VER "V" "66" 20260201 "IntÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 10.00
-	#TRANS 8314 {} -10.00
-}
-#VER "V" "67" 20260301 "IntÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 9.00
-	#TRANS 8314 {} -9.00
-}
-#VER "V" "68" 20260404 "IntÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 18.00
-	#TRANS 8314 {} -18.00
-}
-#VER "V" "69" 20260404 "Korrigerad intÑktsrÑnta pÜ skattekonto" 20260930
-{
-	#TRANS 1630 {} 67.00
-	#TRANS 8314 {} -67.00
-}
-#VER "V" "70" 20250512 "Debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2518 {} 804.00
-	#TRANS 1630 {} -804.00
-}
-#VER "V" "71" 20250612 "Debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2518 {} 804.00
-	#TRANS 1630 {} -804.00
-}
-#VER "V" "72" 20250714 "Debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2518 {} 804.00
-	#TRANS 1630 {} -804.00
-}
-#VER "V" "73" 20250818 "Debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2518 {} 804.00
-	#TRANS 1630 {} -804.00
-}
-#VER "V" "74" 20250912 "Debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2518 {} 804.00
-	#TRANS 1630 {} -804.00
-}
-#VER "V" "75" 20251013 "Debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2518 {} 804.00
-	#TRANS 1630 {} -804.00
-}
-#VER "V" "76" 20251112 "Debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2518 {} 804.00
-	#TRANS 1630 {} -804.00
-}
-#VER "V" "77" 20251212 "Debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2518 {} 804.00
-	#TRANS 1630 {} -804.00
-}
-#VER "V" "78" 20260119 "Debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2518 {} 804.00
-	#TRANS 1630 {} -804.00
-}
-#VER "V" "79" 20260212 "Debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2518 {} 804.00
-	#TRANS 1630 {} -804.00
-}
-#VER "V" "80" 20260312 "Debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2518 {} 804.00
-	#TRANS 1630 {} -804.00
-}
-#VER "V" "81" 20260413 "Debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2518 {} 804.00
-	#TRANS 1630 {} -804.00
-}
-#VER "V" "82" 20260404 "Slutlig skatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 2512 {} 1425.00
-	#TRANS 1630 {} -1425.00
-}
-#VER "V" "83" 20260404 "Tillgodofîrd debiterad preliminÑrskatt enligt skattekontoutdrag" 20260930
-{
-	#TRANS 1630 {} 9648.00
-	#TRANS 2518 {} -9648.00
-}
-#VER "V" "84" 20260430 "Annullering av V51: resultat omrÑknas efter bokslutskorrigeringar" 20260930
+#VER "V" "69" 20250430 "Inkomstskatt" 20250914
 {
-	#TRANS 2099 {} 204129.00
-	#TRANS 8999 {} -204129.00
+	#TRANS 1630 {} -21771.00
+	#TRANS 2512 {} 21771.00
 }
-#VER "V" "85" 20260430 "èrets resultat efter korrigeringar; skatt och ny fond Ñnnu preliminÑra" 20260930
+#VER "V" "70" 20250430 "Resultat foregaende Ür" 20250914
 {
-	#TRANS 2099 {} -275895.00
-	#TRANS 8999 {} 275895.00
+	#TRANS 2098 {} 149140.60
+	#TRANS 2099 {} -149140.60
 }
-#VER "V" "86" 20260430 "Avskrivning av datorer: hela kvarvarande bokfîrda vÑrdet" 20260930
+#VER "V" "71" 20250430 "Annullering av V70: Resultat foregaende Ür" 20250914
 {
-	#TRANS 7832 {} 15839.21
-	#TRANS 1259 {} -15839.21
+	#TRANS 2098 {} -149140.60
+	#TRANS 2099 {} 149140.60
 }
-#VER "V" "87" 20260430 "Annullering av V85: resultat omrÑknas efter avskrivning" 20260930
+#VER "V" "72" 20250430 "Resultat foregÜende Ür" 20250914
 {
-	#TRANS 2099 {} 275895.00
-	#TRANS 8999 {} -275895.00
+	#TRANS 2098 {} -149140.60
+	#TRANS 2099 {} 149140.60
 }
-#VER "V" "88" 20260430 "èrets resultat efter avskrivning; skatt och ny fond Ñnnu preliminÑra" 20260930
+#VER "V" "73" 20250430 "Momsbetalning" 20250914
 {
-	#TRANS 2099 {} -260055.79
-	#TRANS 8999 {} 260055.79
+	#TRANS 1630 {} 9769.00
+	#TRANS 1650 {} -9769.00
 }
-#VER "V" "89" 20250501 "PreliminÑr omklassificering av historisk skattekontodifferens till 2518; orsak ej faststÑlld" 20260930
+#VER "V" "74" 20250430 "Kundfordring" 20250914
 {
-	#TRANS 2518 {} 733.11
-	#TRANS 1630 {} -733.11
+	#TRANS 1510 {} -714.00
+	#TRANS 1930 {} 714.00
 }
-#VER "V" "90" 20260430 "ôresjustering av historisk bankdifferens enligt bankutdrag" 20260930
+#VER "V" "75" 20250430 "Skattekonto" 20250914
 {
-	#TRANS 1930 {} 0.10
-	#TRANS 3740 {} -0.10
+	#TRANS 1630 {} -47611.17
+	#TRANS 1930 {} 47611.17
 }
-#VER "V" "91" 20260430 "ôresjustering av gammal kundfordringsdifferens" 20260930
+#VER "V" "76" 20250330 "Skattekonto" 20250919
 {
-	#TRANS 1510 {} 0.33
-	#TRANS 3740 {} -0.33
+	#TRANS 1630 {} -53992.00
+	#TRANS 2098 {} 53992.00
 }
-#VER "V" "92" 20260430 "Kronjustering av tidigare berÑknad skatt mot slutlig skatt" 20260930
+#VER "V" "77" 20250430 "Periodiseringsfond" 20250919
 {
-	#TRANS 2512 {} 1.00
-	#TRANS 3740 {} -1.00
+	#TRANS 2129 {} -10000.00
+	#TRANS 8819 {} 10000.00
 }
-#VER "V" "93" 20260430 "Annullering av V88: resultat omrÑknas efter îresjusteringar" 20260930
+#VER "V" "78" 20250430 "Annullering av V77: Periodiseringsfond" 20250919
 {
-	#TRANS 2099 {} 260055.79
-	#TRANS 8999 {} -260055.79
+	#TRANS 2129 {} 10000.00
+	#TRANS 8819 {} -10000.00
 }
-#VER "V" "94" 20260430 "èrets resultat efter îresjusteringar; skatt och ny fond Ñnnu preliminÑra" 20260930
+#VER "V" "79" 20250430 "Periodiseringsfond" 20250919
 {
-	#TRANS 2099 {} -260057.22
-	#TRANS 8999 {} 260057.22
+	#TRANS 2129 {} -10000.00
+	#TRANS 8819 {} 10000.00
 }
-#VER "V" "95" 20260430 "AvsÑttning till periodiseringsfond fîr 2025-2026; maximalt avdrag" 20260930
+#VER "V" "80" 20250430 "Annullering av V79: Periodiseringsfond" 20250919
 {
-	#TRANS 8811 {} 73575.00
-	#TRANS 2136 {} -73575.00
+	#TRANS 2129 {} 10000.00
+	#TRANS 8819 {} -10000.00
 }
-#VER "V" "96" 20260430 "Annullering av V50: ersÑtts med omrÑknad inkomstskatt" 20260930
+#VER "V" "81" 20250430 "Periodiseringsfond" 20250919
 {
-	#TRANS 2512 {} 28570.00
-	#TRANS 8910 {} -28570.00
+	#TRANS 2129 {} 10000.00
+	#TRANS 8819 {} -10000.00
 }
-#VER "V" "97" 20260430 "èrets inkomstskatt efter fondavsÑttning; inga inrullade underskott antagna" 20260930
+#VER "V" "82" 20250430 "èrets resultat" 20250928
 {
-	#TRANS 8910 {} 45468.00
-	#TRANS 2512 {} -45468.00
+	#TRANS 2098 {} 6926.24
+	#TRANS 2099 {} -6926.24
 }
-#VER "V" "98" 20260430 "Annullering av V94: resultat omrÑknas efter fondavsÑttning och skatt" 20260930
+#VER "V" "83" 20250430 "Skatt pÜ Ürest resultat" 20250928
 {
-	#TRANS 2099 {} 260057.22
-	#TRANS 8999 {} -260057.22
+	#TRANS 2512 {} -1426.00
+	#TRANS 8910 {} 1426.00
 }
-#VER "V" "99" 20260430 "èrets resultat efter fondavsÑttning och berÑknad inkomstskatt" 20260930
+#VER "V" "84" 20250430 "Beraknat resultat" 20250928
 {
-	#TRANS 2099 {} -169584.22
-	#TRANS 8999 {} 169584.22
+	#TRANS 2098 {} 42073.00
+	#TRANS 8999 {} -42073.00
 }

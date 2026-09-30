@@ -1,0 +1,47 @@
+{
+  "company": "Amber BioSciences AB",
+  "financial_year": {
+    "start": "2025-05-01",
+    "end": "2026-04-30"
+  },
+  "prepared": "2026-09-30T18:58:01.713826",
+  "currency": "SEK",
+  "assumptions": [
+    "No unused tax loss carryforwards, based on user instruction; not independently verified against prior declaration.",
+    "Computer depreciation of 15839.21 SEK is assumed deductible for tax; historical tax depreciation schedule not available.",
+    "Provisional historical 733.11 SEK on 2518 is not treated as verified prepaid tax or as a deduction."
+  ],
+  "calculation": {
+    "profit_before_new_fund_and_tax": "288627.22",
+    "non_deductible_late_filing_fee": "625.00",
+    "tax_free_tax_account_interest": "-226.00",
+    "reversal_2019_2020_fund": "71540.00",
+    "additional_taxable_uplift_4_percent": "2861.60",
+    "opening_periodiseringsfonder": "94629.00",
+    "schablon_rate": "0.0255",
+    "schablon_income_exact": "2413.039500",
+    "unused_loss_carryforward_assumed": "0.00",
+    "tax_surplus_before_new_fund_exact": "294300.859500",
+    "maximum_allocation_rate": "0.25",
+    "new_fund_allocation_whole_SEK": "73575.00",
+    "tax_surplus_after_allocation_exact": "220725.859500",
+    "taxable_income_rounded_down_to_tens": "220720.00",
+    "corporate_tax_rate": "0.206",
+    "tax_before_whole_SEK_rounding": "45468.32",
+    "booked_tax": "45468.00",
+    "accounting_profit_before_tax_after_allocation": "215052.22",
+    "accounting_profit_after_tax": "169584.22"
+  },
+  "new_fund": {
+    "account": "2136",
+    "amount": "73575.00",
+    "created_for_year_ending": "2026-04-30",
+    "latest_reversal_year_end": "2032-04-30"
+  },
+  "sources": [
+    "https://www.skatteverket.se/foretag/drivaforetag/foretagsformer/aktiebolag/periodiseringsfond.4.4887341d16e1e2b8ddf30e.html",
+    "https://www.skatteverket.se/foretag/drivaforetag/foretagsformer/aktiebolag.4.5c13cb6b1198121ee8580002546.html",
+    "https://www4.skatteverket.se/rattsligvagledning/27071.html"
+  ],
+  "note": "Recorded current tax expense, not a forecast of cash payable after settlement or a filed tax declaration."
+}
