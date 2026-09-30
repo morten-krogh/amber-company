@@ -3276,14 +3276,3 @@
 	#TRANS 2099 {} -169584.22
 	#TRANS 8999 {} 169584.22
 }
-
-#VER "V" "100" 20250501 "R„ttelse av f”reg†ende †rs resultatklassificering: skatt 1426 redan bokf”rd; omf”ring inom eget kapital" 20260930
-{
-	#TRANS 2099 {} 1426.00
-	#TRANS 2098 {} -1426.00
-}
-#VER "V" "101" 20250928 "R„ttelse av V11 efter V100: ”verf”rt resultat ska avse vinst efter skatt" 20260930
-{
-	#TRANS 2098 {} 1426.00
-	#TRANS 2099 {} -1426.00
-}

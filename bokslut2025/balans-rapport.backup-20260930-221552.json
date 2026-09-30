@@ -4,10 +4,10 @@
     "FNAMN": "Amber BioSciences AB",
     "start": "20250501",
     "end": "20260430",
-    "latest_voucher": "V101",
-    "sha256": "466c67b63233e65aa308cbf4b624e5a11fbc0b17d2dd60b7ab91dda4178efba5",
+    "latest_voucher": "V99",
+    "sha256": "909030fef732f09e45d11f62bce36aa5e0f4b0c045a225a30f64a87c5bef38bc",
     "source_file": "sie4-2025.se",
-    "generated": "2026-09-30T22:16:31+02:00"
+    "generated": "2026-09-30T20:43:09+02:00"
   },
   "rows": [
     {

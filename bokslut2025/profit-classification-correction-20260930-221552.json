@@ -1,0 +1,30 @@
+{
+  "prepared": "2026-09-30T22:15:52.742326+02:00",
+  "backups": {
+    "sie4-2025.se": "sie4-2025.backup-20260930-221552.se",
+    "redovisning.xhtml": "redovisning.backup-20260930-221552.xhtml",
+    "redovisning.review-2025-2026.json": "redovisning.review-2025-2026.backup-20260930-221552.json",
+    "balans-rapport-bokio.pdf": "balans-rapport-bokio.backup-20260930-221552.pdf",
+    "balans-rapport-bokio.xlsx": "balans-rapport-bokio.backup-20260930-221552.xlsx",
+    "balans-rapport.json": "balans-rapport.backup-20260930-221552.json"
+  },
+  "source_sha256_before": "909030fef732f09e45d11f62bce36aa5e0f4b0c045a225a30f64a87c5bef38bc",
+  "source_sha256_after": "466c67b63233e65aa308cbf4b624e5a11fbc0b17d2dd60b7ab91dda4178efba5",
+  "correction": {
+    "amount_sek": "1426.00",
+    "vouchers": [
+      "V100",
+      "V101"
+    ],
+    "previous_profit_before_tax": "6926.24",
+    "previous_profit_after_tax": "5500.24",
+    "effect_on_current_profit": "0.00",
+    "effect_on_total_equity": "0.00",
+    "comparative_figures_restated": false,
+    "explanation": "Tax expense was already booked. Prior V82 classified before-tax profit from 2098 to 2099. V100 corrects that classification and V101 adjusts subsequent V11 transfer. Closing balances unchanged."
+  },
+  "original_99_vouchers_preserved": true,
+  "opening_and_closing_balances_unchanged": true,
+  "previous_year_source_export_unchanged": true,
+  "year_2026_no_balance_changes_required": true
+}

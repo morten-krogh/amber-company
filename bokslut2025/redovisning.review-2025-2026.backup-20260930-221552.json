@@ -3,8 +3,8 @@
   "report": "redovisning.xhtml",
   "backup": "redovisning.backup-20260930-210843.xhtml",
   "source": "sie4-2025.se",
-  "source_sha256": "466c67b63233e65aa308cbf4b624e5a11fbc0b17d2dd60b7ab91dda4178efba5",
-  "status": "draft_pending_agm_date_and_board_statement",
+  "source_sha256": "909030fef732f09e45d11f62bce36aa5e0f4b0c045a225a30f64a87c5bef38bc",
+  "status": "draft_pending_business_details_and_historical_reconciliation",
   "years": {
     "current": "2025-05-01 to 2026-04-30",
     "comparative": "2024-05-01 to 2025-04-30"
@@ -160,6 +160,10 @@
     "Board statement on defensibility of proposed dividend of 50000 SEK.",
     "AGM date and certification after the meeting. Signing date interpreted as 1 October 2026.",
     "Confirm current signatories carried over from prior report.",
+    "Confirm remaining term of 879065 SEK long-term debt; five-year maturity disclosure left pending.",
+    "Opening and closing balance mismatch -0.34 SEK is inherited from SIE; rounded balance-sheet totals differ by 1 SEK.",
+    "Prior-year calculated profit after tax 5500.24 SEK differs from prior closing 2099 balance 6926.24 SEK by 1426.00 SEK. Prior-year #RES 8999 is 5501.00 SEK, which also differs from calculated profit. No historical ledger records changed.",
+    "Current closing 2099 includes historical 0.24 SEK residual beyond calculated current profit; rounded amounts both 169584 SEK.",
     "Tax assumes no unused losses and deductible computer depreciation, as previously documented.",
     "733.11 SEK provisional historical classification on 2518 remains unresolved."
   ],
@@ -173,13 +177,10 @@
     "external_taxonomy_validation_performed": false,
     "technical_namespaces_and_schema_reference_preserved": true,
     "source_hash_matches": true,
-    "numeric_facts_validated": 220,
+    "numeric_facts_validated": 219,
     "financial_facts_match_declared_precision": 153,
     "duplicate_facts_consistent": true,
-    "dividend_proposal_sums_correctly": true,
-    "equity_rollforward_including_correction_reconciles": true,
-    "year_2026_opening_and_comparatives_still_match": true,
-    "all_101_vouchers_balance": true
+    "dividend_proposal_sums_correctly": true
   },
   "updated_facts": [
     {
@@ -1646,24 +1647,6 @@
     "signing_date": "2026-10-01",
     "proposed_dividend_sek": "50000.00",
     "carry_forward_sek": "231255.62",
-    "agm_date": null,
-    "loan_more_than_five_years_disclosure": "Retain prior wording for full 879065 SEK, per user instruction."
-  },
-  "accepted_small_differences": [
-    "Inherited -0.34 SEK balance mismatch and rounded 1 SEK difference retained per user instruction.",
-    "Historical rounding: 2099 residual 0.24 SEK and prior #RES 8999 rounding difference 0.76 SEK retained."
-  ],
-  "historical_profit_classification_correction": {
-    "amount_sek": "1426.00",
-    "vouchers": [
-      "V100",
-      "V101"
-    ],
-    "previous_profit_before_tax": "6926.24",
-    "previous_profit_after_tax": "5500.24",
-    "effect_on_current_profit": "0.00",
-    "effect_on_total_equity": "0.00",
-    "comparative_figures_restated": false,
-    "explanation": "Tax expense was already booked. Prior V82 classified before-tax profit from 2098 to 2099. V100 corrects that classification and V101 adjusts subsequent V11 transfer. Closing balances unchanged."
+    "agm_date": null
   }
 }
