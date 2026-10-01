@@ -4,7 +4,7 @@
   "backup": "redovisning.backup-20260930-210843.xhtml",
   "source": "sie4-2025.se",
   "source_sha256": "466c67b63233e65aa308cbf4b624e5a11fbc0b17d2dd60b7ab91dda4178efba5",
-  "status": "draft_pending_agm_date_and_board_statement",
+  "status": "draft_pending_agm_date",
   "years": {
     "current": "2025-05-01 to 2026-04-30",
     "comparative": "2024-05-01 to 2025-04-30"
@@ -157,7 +157,6 @@
     "Prior-year costs previously shown under other operating costs are classified as external expenses from accounts 5xxx/6xxx."
   ],
   "pending": [
-    "Board statement on defensibility of proposed dividend of 50000 SEK.",
     "AGM date and certification after the meeting. Signing date interpreted as 1 October 2026.",
     "Confirm current signatories carried over from prior report.",
     "Tax assumes no unused losses and deductible computer depreciation, as previously documented.",
@@ -1644,8 +1643,8 @@
     "significant_events_after_year_end": false,
     "average_employees": 1,
     "signing_date": "2026-10-01",
-    "proposed_dividend_sek": "50000.00",
-    "carry_forward_sek": "231255.62",
+    "proposed_dividend_sek": "0.00",
+    "carry_forward_sek": "281255.62",
     "agm_date": null,
     "loan_more_than_five_years_disclosure": "Retain prior wording for full 879065 SEK, per user instruction."
   },
