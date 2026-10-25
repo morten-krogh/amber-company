@@ -1,0 +1,58 @@
+{
+  "recorded_date": "2026-10-25",
+  "working_file": "sie4-2026.se",
+  "backup": "sie4-2026.backup-20261025.se",
+  "description": "Record October office rent without VAT, SEK 8000, invoiced and paid on 2026-10-25, following the September voucher pattern.",
+  "sha256_before": "4612fbcde06e6fac27e993a7f55f15159f3eb7ed64f0caf6b8097c2a0cf063e2",
+  "sha256_after": "23014ba09d85df17a540b66a670da67c38c5907363bdb7bc0eeb60a92a949954",
+  "added_vouchers": [
+    {
+      "voucher": "V14",
+      "date": "2026-10-25",
+      "description": "Rent invoice",
+      "debit": {
+        "5010": "8000.00"
+      },
+      "credit": {
+        "2440": "8000.00"
+      }
+    },
+    {
+      "voucher": "V15",
+      "date": "2026-10-25",
+      "description": "Payment of V14",
+      "debit": {
+        "2440": "8000.00"
+      },
+      "credit": {
+        "1930": "8000.00"
+      }
+    }
+  ],
+  "updated_records": [
+    {
+      "before": "#GEN 20260930",
+      "after": "#GEN 20261025"
+    },
+    {
+      "before": "#UB 0 1930 205095.17",
+      "after": "#UB 0 1930 197095.17"
+    },
+    {
+      "before": "#RES 0 5010 40000.00",
+      "after": "#RES 0 5010 48000.00"
+    }
+  ],
+  "validation": {
+    "all_15_vouchers_balance": true,
+    "existing_13_vouchers_preserved_byte_for_byte": true,
+    "opening_and_prior_year_records_preserved": true,
+    "current_closing_balances_reconcile": true,
+    "current_result_totals_reconcile": true,
+    "net_supplier_debt_change": "0.00",
+    "bank_closing_balance": "197095.17",
+    "rent_expense_year_to_date": "48000.00",
+    "encoding": "CP437",
+    "line_endings": "CRLF"
+  }
+}
